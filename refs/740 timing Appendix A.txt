@@ -1,0 +1,94 @@
+Appendix A
+Replacing the Timing Belt Tensioner
+(including making a tensioner jig)
+The timing belt tensioner roller (Figure A1) should be
+replaced every other time the timing belt is replaced,
+or if the roller is stiff and/or makes noise when spun. A
+good roller spins easily and quietly. Taking the tensioner
+assembly off the engine is straightforward. Just squeeze
+the tensioner spring (Figure A2) and pin the guide rod in
+place (Figure A3). Mark front of pivot cylinder, as it has a
+different depth, front to back. (Install same way.) Pull
+tensioner assembly off engine.
+
+hanger pin
+
+hanger
+plate
+hole for
+guide rod
+
+roller
+
+hanger plate
+
+Figure A1.
+Figure A3.
+
+Figure A2.
+
+Figure A4.
+
+pivot cylinder
+
+(a) Photo of guide rod alone.
+
+guide rod hole
+
+(b) Photo of guide rod and spring. To
+attach new tensioner roller, we need to
+compress spring, push guide rod through
+hanger plate hole, and insert a pin (or nail)
+through guide rod hole on roller side of
+hanger plate.
+
+Once the tensioner assembly is off the engine, pull the pin and remove the old roller. In most
+cases, you can reuse the old guide rod and spring (Figure A4) with the new roller.
+
+© 2008 by Frederick Su. All rights reserved
+A bytewrite LLC publication.
+
+page A1
+
+But pinning the guide rod to the new roller is not easy. You need to compress the spring and pin
+the guide rod in place on other side of hanger plate of new roller, as in Figure A5. The spring
+tends fly off into space, making this task one of life’s little frustrations.
+
+Life is made easier by creating your own jig to hold the whole assembly in place. Use scrap pieces
+from your workshop. Time: about 20 minutes.
+Everything is ¾“ pine, except for the riser board. Lay out the top and side boards around the tensioner assembly as shown (Figure A5) and screw or nail in place. Mark and drill a 5/16" hole in the
+base board where the hanger pin imprints. Use a 5/16" thick x ¾” wide x 4" long riser board under
+the guide rod/spring assembly. Fasten riser board in place, making sure the fastener holes are
+countersunk.
+A frustrating task is now straightforward! Wearing safety glasses, squeeze the spring (as shown in
+Figure A5) with large pliers and push the guide rod through hanger plate hole (Figure A1). Insert
+pin (bent pin works best) in guide rod hole on other side of hanger plate. [Use a 2x4" safety
+board at the spring end of the jig to protect yourself if the spring flies loose! Oh, I sometimes
+find a popsicle stick on top of the riser board (underneath the spring) useful for aligning the
+guide rod to the hanger plate hole.]
+Figure A5.
+
+A 2x4"
+safety
+board
+is here
+
+top board
+
+base board
+side boards
+
+hanger pin
+in 5/16" hole
+
+riser board
+
+Once pinned in place, pull tensioner assembly from jig and slide it into place on front of engine.
+Make sure marked front of pivot cylinder faces front. (This may or may not affect how the belt
+slides over the roller in Step 6 of the timing belt guide. That is, the belt has to stay on the pulleys
+and the tensioner roller when you rotate the crankshaft 720° clockwise, and the protrusion of
+the pivot cylinder may play a part.)
+Done! Return to main guide.
+page A2
+
+

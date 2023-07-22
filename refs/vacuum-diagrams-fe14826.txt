@@ -1,0 +1,42 @@
+M - VACUUM DIAGRAMS
+1994 Volvo 960
+
+1994 ENGINE PERFORMANCE
+Volvo Vacuum Diagrams
+Volvo;
+NOTE:
+
+850, 940
+
+Information on 960 vacuum system is not available from
+manufacturer.
+
+INTRODUCTION
+This article contains underhood views of vacuum hose routing.
+Use these vacuum diagrams during the visual inspection of
+F - BASIC TESTING article in the ENGINE PERFORMANCE Section. This will
+assist in identifying improperly routed vacuum hoses which may cause
+driveability and/or computer indicated malfunctions.
+
+Fig. 1: Identifying Vacuum Hose System Components (940 Turbo)
+Courtesy of Volvo Cars of North America.
+
+Fig. 2:
+
+Identifying Vacuum Hose System Components
+(940 Non-Turbo)
+Courtesy of Volvo Cars of North America.
+
+Fig. 3: Identifying Typical EVAP System Components (940)
+Courtesy of Volvo Cars of North America.
+
+Fig. 4: Identifying Vacuum Hose System Components (850)
+Courtesy of Volvo Cars of North America.
+
+Fig. 5: Identifying EVAP System Components (850 Turbo)
+Courtesy of Volvo Cars of North America.
+
+Fig. 6: Identifying EGR System Components (850 Turbo)
+Courtesy of Volvo Cars of North America.
+
+

@@ -1,0 +1,2684 @@
+Locations
+
+Hazard Flasher Relay: Locations
+Refer to "Lighting and Horns : Hazard Warning Lamps : Locations : Components".
+Relay Locations
+In Fuse Panel
+
+Page 71
+
+Component Index And Identification
+
+Page 272
+
+740/940 ECC 1991
+
+Page 148
+
+Component Index And Identification
+
+Page 198
+
+B11 Route cables to engine compartment -
+
+Route cables without housing receptacles to engine compartment through unused cutout in
+grommet under suspension strut brace.
+- Attach the round housing receptacles included in the new cable harness on the cables in the
+engine compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+- Connect cables from the new cable harness to the separated connectors.
+B12 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Function verification and information
+B13 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector
+
+Page 193
+
+A10 Route cables to engine compartment -
+
+Route the green cables on the cable harness to the engine compartment through the vacant hole in
+the grommet under the brace to the suspension tower.
+1988 and 1989 model years: Connect the flat connectors.
+Year model 1990 cars (shown here): Connect the round connectors.
+- Connect all unconnected connectors to each other.
+A11 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Installing control module from kit
+A12
+
+Page 169
+
+Component Index And Identification
+
+Page 277
+
+960 MCC 1996- S90/V90 MCC/ECC 1997-
+
+Page 214
+
+If there are accessories connected to the accessory cabling, the new cable harness connectors
+should be connected between the existing ones.
+
+Installing control module from kit
+F9 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+F10 Fastening cables In cars without SRS (Airbag) and knee bolster Fasten cable harness and relay to the air hose that runs above the glove compartment to the side
+defroster with cable ties.
+
+Page 254
+
+D6 Connection of yellow connector -
+
+Disconnect the yellow connector from the heater and attach the yellow connector from the cable
+harness.
+- Install the detached connector in the other cable harness yellow connector.
+D7 Connection of orange cable Route the orange cable with connector to driver's side of centre console.
+- Locate the black 4-pin accessories connector. The connector can be connected to accessories
+(A) or unused (B).
+- (A) If accessories are connected, separate connectors and connect them to both connectors on
+the new cable harness.
+- (B) Connect the unused existing black 4-pin connector to one of the new harness connectors.
+Leave the other connector unused.
+Installing control module from kit
+D8 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+
+Page 108
+
+32 - Pump Pwr. Rel. Contacts (NC Ford, GM) 33 - Outlet Solenoid Valve (Rear) 34 - Outlet
+Solenoid Valve (Right Front) 35 - Inlet Solenoid Valve (Left Front)
+
+NC = No connection
+
+Diagram Information and Instructions
+
+Cruise Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 136
+
+Component Index And Identification
+
+Page 12
+
+Alarm Module: Electrical Diagrams
+
+Refer to "Accessories and Optional Equipment : Antitheft and Alarm Systems : Diagrams :
+Electrical".
+
+Page 383
+
+Relay Box: Locations Fuse/Relay Identification and Location
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 342
+
+Component Index And Identification
+
+Page 64
+
+Power Seat Relay: Electrical Diagrams
+
+Refer to "Body and Frame : Seats : Diagrams : Electrical".
+
+Page 265
+
+G1 Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- Section V
+- Make note of radio code if anti-theft coded radio installed.
+
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach, pull out and turn central electronics module.
+Refer to Service Manual:
+Section 3(35-39) (see group 37) Lighting, instrumentation and other electrical equipment 700/900
+1982- Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+G2 Installing new relay on cable harness
+- Take out cable harness (P/N 9447729) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+G3 Route cables to engine compartment Route cables without housing receptacles to engine compartment through unused cutout in
+grommet below suspension strut brace.
+- Install round housing receptacles supplied with cable harness on the cables in the engine
+compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+
+Page 91
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Radiator Cooling Fan Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Hazard Flasher Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 35
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Power Seat Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 29
+
+Ignition Lock And Relays
+
+Page 53
+
+Power Seat Control Module: Electrical Diagrams
+
+Refer to "Body and Frame : Seats : Diagrams : Electrical".
+
+Diagram Information and Instructions
+
+Power Door Lock Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Fan Control Module
+
+Control Module HVAC: Description and Operation Fan Control Module
+- The Power Stage amplifies the control signals to operate the blower motor and control
+compressor operation.
+- The blower speed is controlled by a power transistor. A relay is connected into the circuit at the
+highest speed reduce the load on the transistor, while a second relay controls the operation of the
+compressor through the low-pressure pressostat on the air receiver/dryer.
+
+Page 308
+
+Component Index And Identification
+
+Page 303
+
+Ignition Lock And Relays
+
+Page 274
+
+760/960 MCC/ECC 1992-1994
+
+Page 371
+
+Turn Signal Relay: Electrical Diagrams
+
+Refer to "Lighting and Horns : Turn Signals : Diagrams : Electrical".
+
+Page 126
+
+Component Index And Identification
+
+Service and Repair
+
+Oil Level Warning Indicator Control Module: Service and Repair
+Oil level control module, replacement .................................................................................................
+........................................................................ T12
+- Remove battery negative lead.
+- Remove ashtray and holder.
+- Remove clip from front of panel.
+- Remove panel screws.
+- Lift away panel.
+- Remove control module. Control module held by butyl tape.
+- Fit new unit.
+- Reassemble in reverse order.
+- Test.
+
+Page 330
+
+Relay Locations
+
+Page 345
+
+Hazard Flasher Relay: Electrical Diagrams
+
+Refer to "Lighting and Horns : Hazard Warning Lamps : Diagrams : Electrical".
+
+Page 22
+
+Component Index And Identification
+
+Page 209
+
+E5 Connection of yellow connector
+
+- Disconnect the yellow connector from the heater and connect the yellow connector from the new
+cable harness.
+- Connect the detached yellow connector to the yellow connector on the cable harness.
+Installing control module from kit
+E6 Connection and mounting of control module
+- Connect control module and cable harness connectors together.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+E7 Connection to ground plate Connect the black-white cable included in the cable harness to the ground plate on the right side of
+the cowl
+The ground plate is located behind the fuel control module. The ground lead has a twin tab terminal
+for when there are no vacant spaces on the ground plate.
+
+Page 21
+
+Component Index And Identification
+
+Page 201
+
+C6 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster -
+
+Connect control module and cable harness connectors.
+- Apply three strips of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+C7 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SAS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+C8 Fastening cables In cars without SRS (Airbag) and knee bolster Attach cable harness to existing cable harness with 2 cable ties, one as near to the connector as
+possible to avoid vibration on uneven road surfaces.
+
+Page 280
+
+Page 357
+
+Relay Locations
+
+Diagram Information and Instructions
+
+Sunroof / Moonroof Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 276
+
+960 MCC/ECC 1995
+
+Page 259
+
+E8 Connection of 10-pin contact -
+
+Separate the halves of the 10-pin connector at the centre console and install the 10-pin connectors
+from the new cables.
+E9 Fastening cables Attach the cable harness to the defroster duct above the glove compartment using a cable tie.
+Function verification and information
+E10 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is operating.
+- Turn off engine.
+
+Page 315
+
+Relay Locations
+
+Page 384
+
+Fuse Functions
+
+Diagram Information and Instructions
+
+Electronic Brake Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 109
+
+Electronic Brake Control Module: Electrical Diagrams
+
+Refer to "Brakes and Traction Control : Antilock Brakes / Traction Control Systems : Diagrams :
+Electrical".
+
+Page 44
+
+- Press and hold any button on control panel of seat to be tested while switching ignition on. Keep
+button depressed for at least 1 second after turning on ignition.
+
+C5
+- Reinstall fuse No. 3.
+Diagnostic system must now be activated within one minute, i.e., test button must be pressed once
+to select DTM 1 (self-diagnostics) or four times to select DTM 4 (calibration).
+Control module will exit diagnostic function after approx. 1 minute if no activity takes place between
+module and DLC. Module will also exit diagnostic function if ignition is switched off for at least 5
+seconds. Seat cannot be operated either with control buttons or memory buttons while using
+diagnostic system.
+Codes for DTM 1 are listed and explained in the table on page 9 of the SM; use of DTM 4
+(calibration) is described on SM page 7.
+Method For Version 4 (D)
+960, 1993 4-door models as from chassis No. 018367 5-door models as from chassis No. 012113
+Note:
+Unlike earlier models, the power seats in the above models can be operated with the ignition off.
+D1
+- Switch off ignition.
+D2
+- Manual fault tracing/calibration: Connect test lead from DLC A to socket No. 6 on DLC B.
+- Fault tracing/calibration with VST with OBD System Memory Cassette: Connect instrument to
+DLC B.
+D3
+
+Page 275
+
+780 ECC 1988-1991
+
+Page 220
+
+740/940 MCC 1991
+
+Page 268
+
+G9 Securing control module and cables Install relay Install clip 1277898 on relay.
+- Secure relay on the metal bracket in front of the vacuum tank.
+G10 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+G11 Information to Car Owner Carry out operations at the end of this service bulletin.
+Diagram Wiring Images
+740 MCC 1988-1990
+
+Page 232
+
+Warranty Statement
+WARRANTY STATEMENT: Claims may be submitted under the New Car Limited Warranty when a
+manufacturing defect is present using claim type: 01
+Operation No. Labor Description Time Allowance
+87942-2 Odor from evaporator, installation of blower fan control module
+740/940 MCC 88- 1.8 hr
+740/940 ECC 91-95 1.7 hr
+
+9401995-ECC 96- 1.8 hr
+760/960 88-94 1.8 hr
+780 88-91 1.7 hr
+960 95-97 1.6 hr
+
+Page 74
+
+Seat Heater Control Module: Testing and Inspection
+Leather or plush trim
+If a fault is suspected, e.g. short circuit in the heater element, bear in mind that:
+- Heating will not switch on if the in-car temperature is above +18 °C (64 °F). Full heat output
+triggers on within 3 - 6 seconds after start of function check.
+- When in-car temperature is between 10 - 18 °C (50 - 64 °F) the heater goes directly to low output.
+Full output only triggers on when temperature is below 10 °C (50 °F).
+- The control module has two modes for either plush or leather trim, so that trim will not affect
+heating.
+If the above conditions are not fulfilled, but both supply and ground are OK, the module should be
+replaced.
+If supply is missing, check seat heating switch.
+
+Page 285
+
+Component Index And Identification
+
+Page 329
+
+Ignition Lock And Relays
+
+Locations
+
+Power Door Lock Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 362
+
+Component Index And Identification
+
+Page 302
+
+Fuse Functions
+
+Page 129
+
+Voltage Protection Relay: Electrical Diagrams
+
+Refer to "Brakes and Traction Control : Antilock Brakes / Traction Control Systems : Diagrams :
+Electrical".
+
+Page 210
+
+E8 Connection of 10-pin contact -
+
+Separate the halves of the 10-pin connector at the centre console and install the 10-pin connectors
+from the new cables.
+E9 Fastening cables Attach the cable harness to the defroster duct above the glove compartment using a cable tie.
+Function verification and information
+E10 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is operating.
+- Turn off engine.
+
+Page 104
+
+Component Index And Identification
+
+Service and Repair
+
+Oil Level Warning Indicator Control Module: Service and Repair
+Oil level control module, replacement .................................................................................................
+........................................................................ T12
+- Remove battery negative lead.
+- Remove ashtray and holder.
+- Remove clip from front of panel.
+- Remove panel screws.
+- Lift away panel.
+- Remove control module. Control module held by butyl tape.
+- Fit new unit.
+- Reassemble in reverse order.
+- Test.
+
+Page 180
+
+Compressor Clutch Relay: Testing and Inspection
+
+Compressor Cut-Off Relay
+Color Code Legend
+Checking ECU Ground Connections
+1. Turn ignition OFF.
+2. Access fuel injection ECU by removing the passenger side kick panel and glove compartment.
+3. Check fuel injection ECU ground connections. They should make good contact and fit tight.
+Removing ECU Connector
+4. Remove fuse #1 (located in central electric unit behind ash tray) to interrupt the power supply.
+Then remove the ECU connector by pressing up the latch and folding out the wire cluster.
+
+Page 137
+
+Component Index And Identification
+
+Page 368
+
+Component Index And Identification
+
+Page 255
+
+D9 Connecting and mounting control module In cars with SRS (Airbag) and knee bolster -
+
+Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SRS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+D10 Fastening cables in cars without SRS (Airbag) and knee bolster Attach cable harness and the relay in the foam rubber covered hose which passes over the glove
+compartment to the side defroster with 2 cable ties, one as close to the connector as possible to
+prevent vibration caused by uneven road surfaces.
+D11 Connection to ground plate Connect the black-white cable included in the cable harness to the ground plate on the right side of
+the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 84
+
+Seat Heater Relay: Service and Repair
+Heated Seat Relay Replacement
+Only normal rating, one setting
+- Remove battery negative lead.
+- Remove ashtray and holder.
+- Remove clip at front of panel.
+- Remove screws.
+- Lift away panel.
+- Remove relay.
+- Fit new relay.
+- Reassemble in reverse order.
+
+Diagram Information and Instructions
+
+Lamp Out Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 138
+
+Component Index And Identification
+
+Page 239
+
+700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach, pull out and turn central electronics module.
+See section 37 in Service Manuals:
+Section 3(35-39) Lighting, instrumentation and other electrical equipment 700/900 1982Section 8(82-86,88) Interior, exterior 700/900 1982Cable connections A2 Installing new relay on cable harness Take out cable harness (P/N 9148755) supplied with kit.
+- Connect the relay in the kit to the 5-pin connector which is attached to the same end of the cable
+harness as the black-red cable.
+A3 Attaching new cable harness with relay Connect relay and cable harness above the heater vacuum reservoir, using a cable tie.
+- Route the red-black cable inside the centre console right side panel to the central electronics
+module.
+- Connect cable to central electronics module fuse 6 and terminal 4.
+- Use cable tie to attach to existing cable harness.
+
+Page 224
+
+740/940 ECC 1992-1995
+
+Page 264
+
+F11 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster -
+
+Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Locate cable harness with relays between air hose and knee bolster.
+NOTE:
+Prevent condensation dropping onto relays by ensuring that they are not placed beneath the air
+hose.
+- Fasten to air hose with cable ties.
+Installing control module from kit.
+F12 Function verification and information Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters in length) to connect battery positive terminal to the connector
+on the control module. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is running.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+F13 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+F14 Information to Car Owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cable 940 W/ECC 1996Installing control module and cables 940 with ECC model year 1996-
+
+Page 269
+
+740/940 MCC 1991
+
+Page 279
+
+960 ECC 1996-
+
+A/C - Unpleasent Odor On Startup
+
+Technical Service Bulletin # 887955 Date: 970901
+A/C - Unpleasent Odor On Startup
+SECTION
+8
+GROUP
+87
+NO. 955
+DATE Sept. 1997
+RE: Odor from evaporator 700/900/S90/V90 1988REFERENCE: TP 8701201, SECTION 8(87) CLIMATE UNITS: 700/900 1992- TP 3701201,
+SECTION 3(37) WIRING REPAIRS, AND REPLACEMENT OF CABLE TERMINALS; 850900 TP
+3502201, SECTION 3(35-39) LIGHTING, INSTRUMENTATION AND OTHER ELECTRICAL
+EQUIPMENT; 700/900 1982SERVICE BULLETIN 87-948, EVAPORATOR ODOR TREATMENT
+This Service Bulletin replaces earlier Service Bulletin 87-955 from September 1996, which should
+be discarded.
+Odor from evaporator, installation of blower fan control module
+Under humid conditions the ECC unit can cause an unpleasant odor on start-up, especially when
+the temperature outside is high. This Odor often disappears when humidity levels drops. The Odor
+can be caused by dirt or micro-organisms in the evaporator.
+
+A control module can be installed to eliminate the recurrence of the Odor. This starts the blower fan
+and airs residual dampness out of the evaporator.
+If the compressor has been running more than 4 minutes and the ignition is then turned off for 50
+minutes, the control module starts the blower fan automatically and runs an airing out cycle at max.
+Blower speed for approximately 5 minutes.
+Special tools needed: Wiring repair kit, P/N 9814235-9
+NOTE:
+After installing the airing cycle unit, copy and attach the last page.
+Installing Control Module and Cables/740 MCC 1988-90
+Installing control module and cables 740 MCC model year 1988-90
+A1 Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control
+
+Page 34
+
+Component Index And Identification
+
+Page 211
+
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+E11 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+E12 Information to Car Owner Carry out operations at the end of this service bulletin.
+Install. Control Module/Cable 960-S90-V90 MCC/ECC 95-97
+Installing control module and cables 960 MCC/ECC model year 1995- S90/V90 MCC/ECC model
+year 1997F1 Preparations Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+Refer to Service Manual:
+Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+
+F2 Installing new relay on cable harness Take out cable harness, P/N 9171004-6, included in kit. Install 3 relays included in the 5-pin connector.
+
+Page 370
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Fog/Driving Lamp Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 175
+
+Component Index And Identification
+
+Page 333
+
+Component Index And Identification
+
+Page 203
+
+C13 Information to Car Owner Carry out operations at the end of this service bulletin.
+Install. Control Module/Cables 760/960 W/MCC-ECC 1988-94
+Installing control module and cables 760/960 MCC/ECC model year 1988-94
+D1 Preparations Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+
+Remove: Negative battery lead.
+- Sound insulation on left and right sides.
+- Glove compartment.
+- Cowl on passenger side.
+Refer to Service Manual: Section 8(82-86, 88) Interior, exterior 700/900 1982- Cable connections
+D2 Installing new relay on cable harness Take out cable harness (P/N 9148758) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+
+Page 24
+
+Power Door Lock Control Module: Electrical Diagrams
+
+Refer to "Body and Frame : Locks : Diagrams : Electrical".
+
+Page 190
+
+700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach, pull out and turn central electronics module.
+See section 37 in Service Manuals:
+Section 3(35-39) Lighting, instrumentation and other electrical equipment 700/900 1982Section 8(82-86,88) Interior, exterior 700/900 1982Cable connections A2 Installing new relay on cable harness Take out cable harness (P/N 9148755) supplied with kit.
+- Connect the relay in the kit to the 5-pin connector which is attached to the same end of the cable
+harness as the black-red cable.
+A3 Attaching new cable harness with relay Connect relay and cable harness above the heater vacuum reservoir, using a cable tie.
+- Route the red-black cable inside the centre console right side panel to the central electronics
+module.
+- Connect cable to central electronics module fuse 6 and terminal 4.
+- Use cable tie to attach to existing cable harness.
+
+Page 297
+
+Component Index And Identification
+
+Page 344
+
+Component Index And Identification
+
+Page 70
+
+Component Index And Identification
+
+Page 351
+
+Relay Locations
+
+Page 248
+
+terminal 6, for at least 30 seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+B14 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+B15 Information to car owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cables/740/940 W/MCC 1991-95
+Installing control module and cables
+C1 740/940 with ECC model year 1991-95
+Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Disconnect negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+
+Refer to Service Manual:
+Section 3(35-39) Lighting, (see group 37) Instrumentation and other electrical equipment 700/900
+1982- Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+C2 Installing new relay on cable harness Take out cable harness (P/N 9148757) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+
+Page 296
+
+Component Index And Identification
+
+Page 225
+
+760/960 MCC/ECC 1992-1994
+
+Page 144
+
+Relay Locations
+
+Page 142
+
+Fuse Functions
+
+Page 219
+
+G9 Securing control module and cables Install relay Install clip 1277898 on relay.
+- Secure relay on the metal bracket in front of the vacuum tank.
+G10 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+G11 Information to Car Owner Carry out operations at the end of this service bulletin.
+Diagram Wiring Images
+740 MCC 1988-1990
+
+Page 290
+
+Control Module HVAC: Description and Operation Electronic Climate Control Module
+The control module is located behind the control panel. Under normal circumstances, the cover
+need never be removed.
+Lamps
+The six lamps on the control module can be replaced without removing the cover.
+
+Page 199
+
+terminal 6, for at least 30 seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+B14 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+B15 Information to car owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cables/740/940 W/MCC 1991-95
+Installing control module and cables
+C1 740/940 with ECC model year 1991-95
+Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Disconnect negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+
+Refer to Service Manual:
+Section 3(35-39) Lighting, (see group 37) Instrumentation and other electrical equipment 700/900
+1982- Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+C2 Installing new relay on cable harness Take out cable harness (P/N 9148757) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+
+Page 168
+
+Component Index And Identification
+
+Page 46
+
+E3
+- Press and hold any button on control panel of seat to be tested while switching ignition on. Keep
+button depressed for at least 1 second after turning on ignition.
+E4
+- Diagnostic system must now be activated within 2 minutes, i.e., test button must be pressed once
+to select DTM 1 (self-diagnostics) or four times to select DTM 4 (calibration).
+Control module will exit diagnostic function after approx. 2 minutes if no activity takes place
+between module and DLC. Module will also exit diagnostic function if ignition is switched off. Seat
+cannot be operated either with control buttons or memory buttons while using diagnostic system.
+Codes for DTM 1 are listed and explained in the table on page 9 of the SM; use of DTM 4
+(calibration) is described on SM page 7.
+
+The illustrated operation number may only be added to a claim in conjunction with a warrantable
+repair within the respective area.
+
+Page 263
+
+If there are accessories connected to the accessory cabling, the new cable harness connectors
+should be connected between the existing ones.
+
+Installing control module from kit
+F9 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+F10 Fastening cables In cars without SRS (Airbag) and knee bolster Fasten cable harness and relay to the air hose that runs above the glove compartment to the side
+defroster with cable ties.
+
+Page 202
+
+C9 Connection to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+C10 Cable harness connections Locate connector on cable harness between heater and dashboard (on side of centre console).
+Separate connector and connect new and old connectors for each model year:
+1991 model year: Connect 4-pin connectors, which have 3 cables and are included in the kit cable harness, to
+existing connectors.
+92-94 model year (shown here): Connect 2-pin connectors, with 1 cable included in the kit cable harness, to existing connectors.
+- Connect connectors not connected to existing cable harness, to each other.
+Function verification and information
+C11 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+C12 Finishing off
+- Replace all parts removed.
+- Reset the clock and enter the anti-theft radio code if required.
+
+Page 221
+
+740 MCC 1992 940 MCC 1992-1995
+
+Diagram Information and Instructions
+
+Compressor Clutch Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Locations
+
+Seat Heater Control Module: Locations
+
+Refer to "Body and Frame : Seats : Locations : Components".
+
+Page 273
+
+740/940 ECC 1992-1995
+
+Page 262
+
+F6 Connect white 6-pin cable harness connectors The new cable harness should be connected
+between the existing connectors on the climate unit - passenger compartment cable harnesses, (All
+
+in wiring diagram).
+F7 Connect 2-pin cable harness connectors The new 2-pin cable harness connectors should be
+connected between the blower motor and the existing cable harness, (6128 in wiring diagram).
+F8 Connect 4-pin cable harness connectors The new 4-pin cable harness connectors should be
+connected to the accessory connectors (D10 in wiring diagram).
+
+Page 100
+
+944 - 125305 945 - 075946
+With the introduction of control module, p/n 9128853 in April '93, the risk of interference was
+eliminated. The sensor lead is now routed (in production) to the left front wheel as before, see
+illustration.
+If fault symptoms occur:
+Check that the sensor lead is routed in accordance with figure below.
+New position of sensor lead
+When re-routing the lead, ensure that the sensor lead is pulled towards the wheel housing plate.
+Secure the lead with wiring ties (p/n 945611-2) and flange screws M8x12 (p/n 947107-9) in the
+holes that already exist in the wheel housing. Put the rear cable grip over the connector.
+
+WARRANTY STATEMENT: Claims may be submitted under the New Car Limited Warranty when a
+manufacturing defect is present using claim type: 01.
+
+Page 377
+
+Ignition Lock And Relays
+
+Page 176
+
+Component Index And Identification
+
+Page 376
+
+Fuse Functions
+
+Page 361
+
+Component Index And Identification
+
+Page 41
+
+Power seats in the above models can be operated only with the ignition on.
+
+A1
+- Switch off ignition.
+A2
+- Manual fault tracing/calibration: Connect auxiliary lead between green lead (alternative 2, later
+version) in connector at front of driver's seat and test lead on DLC (diagnostic unit) A.
+On 940 without a green lead (alternative 1, earlier version), connect auxiliary lead to connector
+terminal 4.
+- Fault tracing/calibration using Volvo Scan Tool (VST) with On-Board Diagnostic (OBD) System
+Memory Cassette: Connect auxiliary lead to terminal 6 on the VST adapter cable.
+A3
+Ignition must be off for at least 5 seconds before performing this step.
+- Press and hold any button on control panel of seat to be tested while switching ignition on. Keep
+button depressed for at least 1 second after turning on ignition.
+A4
+Diagnostic system must now be activated within 1 minute, i.e., test button must be pressed once to
+select diagnostic test mode (DTM) 1 (self-diagnostics) or four times to select test mode 4
+(calibration).
+Control module will exit diagnostic function after approx. 1 minute if no activity takes place between
+module and DLC. Module will also exit diagnostic function if ignition is switched off for at least 5
+seconds. Seat cannot be operated either with control buttons or memory buttons while using
+diagnostic system.
+Codes for DTM 1 are listed and explained in the table on page 9 of service manual (SM) TP
+32015/1; use of DTM 4 (calibration) is described on SM page 7.
+Method For Version 2 (B)
+
+Page 73
+
+Seat Heater Control Module: Electrical Diagrams
+
+Refer to "Body and Frame : Seats : Diagrams : Electrical".
+
+Locations
+
+Turn Signal Relay: Locations
+
+Refer to "Lighting and Horns : Turn Signals : Locations : Components".
+
+Page 50
+
+Component Index And Identification
+
+Page 170
+
+Component Index And Identification
+
+Locations
+
+Lamp Out Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 72
+
+Component Index And Identification
+
+Page 245
+
+B4 Install cables from relay to connector -
+
+Locate connector on cable between heater and dashboard (on side of centre console).
+- Separate connector and connect connector halves, from the new cable harness to the existing for
+each model year:
+1991 model year: Connect 4-pin connectors with 3 cables included in the kit cable harness, to existing connectors.
+1992-94 model year (shown here): Connect 2-pin connectors, included in the cable harness kit to existing connectors.
+- Connect the two open connectors to each other.
+B5 Removal of connectors from blower motor resistor Remove the bottom connector from the blower resistor.
+B6 Connection of new connector in blower motor resistor and cable harness Connect 2-pin cable harness connectors between the detached connector and the bottom terminal
+on the blower resistor.
+Installing control module from kit
+B7
+
+Page 261
+
+F3 Route cables to engine compartment -
+
+Route the cables which do not have connectors to the engine compartment through an unused
+hole in the grommet under the brace to the suspension strut.
+- Connect green-red cable to connector terminal 1.
+- Connect green cable to connector terminal 2.
+F4
+- Separate existing connectors at the boost pressure switch and connect connector from the new
+cable harness.
+F5 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Connecting cable harness in passenger compartment
+
+Page 244
+
+Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach and pull out central electronics module.
+Refer to Service Manual: Section 3(35-39) Lighting, instrumentation (see group 37) and other
+electrical equipment 700/900 1982- Section 8(82-86, 88) Interior, exterior 700/900 1982B2 Cable connections Installing new relay on cable harness Take out cable harness (P/N 9148756) supplied with kit.
+- Connect the relay in the kit to the 5-pin connector which is attached to the same end of the cable
+harness as the black-red cable.
+B3 Attaching cable harness with relay Attach relay and cable harness above the heater vacuum reservoir, using a cable tie.
+- Route the red-black cable inside the centre console side panel to the central electronics module.
+- Connect cable to fuse 6 in terminal 4.
+- Use cable tie to attach to existing cable harness.
+
+Page 116
+
+Electronic Brake Control Module: Pinout Values and Diagnostic Parameters
+
+Bosch - ABS2
+35 Position ECU Plug
+For Terminal ID refer to "Brakes and Traction Control : Relays and Modules - Brakes and Traction
+Control : Electronic Brake Control Module : Diagrams".
+Voltage Measurements
+Grounds
+Ignition Switch
+Overvoltage Protection Relay
+Alternator Monitor Input
+Pump Motor Relay
+
+Page 82
+
+Component Index And Identification
+
+Locations
+
+Cruise Control Module: Locations
+Cruise Control System Component Locations.
+Cruise Control Module
+The control module of the cruise control is located behind the panel on the left cowl (A-post).
+
+Page 287
+
+Component Index And Identification
+
+Page 271
+
+940 MCC 1996-
+
+Page 318
+
+Component Index And Identification
+
+Reading and Clearing Diagnostic Trouble Codes
+
+Electronic Brake Control Module: Reading and Clearing Diagnostic Trouble Codes
+
+Chassis Number Table
+In older models (1992-93), with chassis numbers as shown in the table, a control module with
+built-in diagnostic function can be used as a 'special tool' for reading off DTCs via the DLC. The
+control module part numbers are 913 0197-8 or 912 8853-0.
+- Replace the existing control module with the unit with the built-in diagnostic function.
+- Drive the car at over 4 miles/h (6 km/h). The control module will record any faults and post DTCs.
+These can then be read out via the DLC in DTM 1.
+With pre-92 models (1989-91), the new control module cannot be used for fault-tracing or
+diagnosis, as the DLC is not wired up.
+Diagnostic system
+The control module has a self-test function in DTMs 1 and 4. This is connected to DLC A position
+3. If the control module detects a fault, it switches the ABS warning light on and posts the DTC.
+DTCs can be read out via the DLC during fault-tracing. If any fault occurs, apart from a fault with
+the brake light workings, the control module disables the ABS system completely. To restore the
+ABS system once a temporary (intermittent) fault is discovered, the ignition must be switched off
+first. The diagnostic system monitors the wheel sensors, brake light contact, hydraulic valves, valve
+relay, pump motor and pump motor relay. DTMs In DTM 1, the diagnostic system can identify 14
+different types of fault. Faults are displayed as flashing codes. Up to three DTCs can be stored
+simultaneously. DTM 4 is used to alter the code transmission rate. Once the diagnostic system is
+activated, the ABS system cuts out and the ABS warning light comes on to indicate that you need
+to exit from the diagnostic system before driving the car. To exit from a DTM and turn the ABS
+warning light off once a fault has been erased, you must switch the ignition off first. Diagnosis in
+older models Older models (1992-1993) with chassis numbers as shown in special notes for
+reading DTC's, can use a control module and diagnostic system as a 'special tool' to read off DTCs
+via the DLC. Models before 1992 (1989-1991), cannot use the new control module for fault-tracing
+and diagnosis, as there is no wire between the control module and the DLC.
+For testing refer to "OBD with control module 913 0197-8 or 912 8853-0 (only)". See: Brakes and
+Traction Control/Antilock Brakes / Traction Control Systems/Testing and Inspection/Initial
+Inspection and Diagnostic Overview
+
+Diagram Information and Instructions
+
+Voltage Protection Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 266
+
+Connect cables from the new cable harness to the separated connectors.
+
+G4 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+G5 Connecting cable harness to heater Disconnect the yellow and black connector from the power unit and attach the connectors from the
+cable harness.
+- Install the detached connectors in the other cable harness connectors.
+- Connect control module and cable harness connectors.
+Connecting and installing the control module
+G6 Connect to central electronics module Route the black cable inside the centre console side panel to the central electrical unit.
+- Connect cable to central electronics module fuse 16 and terminal 3.
+
+Page 216
+
+G1 Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- Section V
+- Make note of radio code if anti-theft coded radio installed.
+
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach, pull out and turn central electronics module.
+Refer to Service Manual:
+Section 3(35-39) (see group 37) Lighting, instrumentation and other electrical equipment 700/900
+1982- Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+G2 Installing new relay on cable harness
+- Take out cable harness (P/N 9447729) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+G3 Route cables to engine compartment Route cables without housing receptacles to engine compartment through unused cutout in
+grommet below suspension strut brace.
+- Install round housing receptacles supplied with cable harness on the cables in the engine
+compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+
+Page 196
+
+B4 Install cables from relay to connector -
+
+Locate connector on cable between heater and dashboard (on side of centre console).
+- Separate connector and connect connector halves, from the new cable harness to the existing for
+each model year:
+1991 model year: Connect 4-pin connectors with 3 cables included in the kit cable harness, to existing connectors.
+1992-94 model year (shown here): Connect 2-pin connectors, included in the cable harness kit to existing connectors.
+- Connect the two open connectors to each other.
+B5 Removal of connectors from blower motor resistor Remove the bottom connector from the blower resistor.
+B6 Connection of new connector in blower motor resistor and cable harness Connect 2-pin cable harness connectors between the detached connector and the bottom terminal
+on the blower resistor.
+Installing control module from kit
+B7
+
+Page 335
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Power Door Lock Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 385
+
+Ignition Lock And Relays
+
+Page 192
+
+A7 Connecting the new cable harness to the 5 housing receptacles -
+
+Attach housing receptacles to the cable harness tab terminals according to cable colour coding
+(colour-to-colour match)
+A8 Connecting new cable harness to blower relay Connect the 5-pin cable harness connector to the blower relay.
+See Service Manual: Section 3 (39) Wiring diagrams 740 1990
+A9 Connection of cable to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 119
+
+Wheel Speed Sensors
+
+Ohms Measurements
+Main Hydraulic Valve
+Inlet Solenoid Valves
+Outlet Solenoid Valves
+ABS Main Relay Coil
+ABS Main Relay Coil
+Grounds
+
+Page 286
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Turn Signal Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 14
+
+Alarm Module: Testing and Inspection
+Button "Run self test"
+- Press button C Run self test".
+The lower row on the display shows the caption "TESTING..."
+If the module is OK: If the control module is free of faults, the caption "TEST OK!" appears on the
+lower row of the display.
+If the control module is faulty:
+If the control module is faulty the caption "ERRCODE XXX" is shown ("XXX" is a 3-digit DTC).
+The DTC (ERRCODE) should always be quoted when making claims for a faulty module.
+
+Page 149
+
+Component Index And Identification
+
+Page 229
+
+Page 28
+
+Fuse Functions
+
+Page 112
+
+Electronic Brake Control Module: Description and Operation Diagnostic System
+Diagnostic system
+The control module has a self-test function in DTMs 1 and 4. This is connected to DLC A position
+3. If the control module detects a fault, it switches the ABS warning light on and posts the DTC.
+DTCs can be read out via the DLC during fault-tracing. If any fault occurs, apart from a fault with
+the brake light workings, the control module disables the ABS system completely. To restore the
+ABS system once a temporary (intermittent) fault is discovered, the ignition must be switched off
+first. The diagnostic system monitors the wheel sensors, brake light contact, hydraulic valves, valve
+relay, pump motor and pump motor relay. DTMs In DTM 1, the diagnostic system can identify 14
+different types of fault. Faults are displayed as flashing codes. Up to three DTCs can be stored
+simultaneously. DTM 4 is used to alter the code transmission rate. Once the diagnostic system is
+activated, the ABS system cuts out and the ABS warning light comes on to indicate that you need
+to exit from the diagnostic system before driving the car. To exit from a DTM and turn the ABS
+warning light off once a fault has been erased, you must switch the ignition off first. Diagnosis in
+older models Older models (1992-1993) with chassis numbers as shown in special notes for
+reading DTC's, can use a control module and diagnostic system as a 'special tool' to read off DTCs
+via the DLC. Models before 1992 (1989-1991), cannot use the new control module for fault-tracing
+and diagnosis, as there is no wire between the control module and the DLC.
+
+Relay Panel
+
+Relay Box: Locations Relay Panel
+Fuse And Relay Box
+The fuse box is located behind the ash tray in center console.
+
+Page 257
+
+Installing new relay on cable harness -
+
+Take out cable harness (P/N 9162426) supplied with kit
+- Install relay supplied in the 5-pin connector.
+E3 Route cables to engine compartment
+- Route green cables with single round or flat terminals to engine compartment through unused
+outlet in grommet under brace to suspension strut.
+- Connect round or flat connectors to corresponding existing connectors.
+- Connect unconnected connectors.
+E4 Location of opening in cable sheath The cable sheath is cut to drain off condensation.
+- The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+
+Page 313
+
+Fuse Functions
+
+Page 260
+
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+E11 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+E12 Information to Car Owner Carry out operations at the end of this service bulletin.
+Install. Control Module/Cable 960-S90-V90 MCC/ECC 95-97
+Installing control module and cables 960 MCC/ECC model year 1995- S90/V90 MCC/ECC model
+year 1997F1 Preparations Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+Refer to Service Manual:
+Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections
+
+F2 Installing new relay on cable harness Take out cable harness, P/N 9171004-6, included in kit. Install 3 relays included in the 5-pin connector.
+
+Locations
+
+Radiator Cooling Fan Motor Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Locations
+
+Lamp Out Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 267
+
+G7 Check airing cycle is working -
+
+Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters in length) to connect battery positive terminal to control module
+connector.
+Connect to green cable, connector terminal 6, for at least 30 seconds while compressor is
+operating. Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+G8 Fastening cables Clamp cable harness in position using tie straps on the front of the air duct below glove
+compartment.
+- Use the eyelet on the connector to fasten the tie straps.
+- Clamp cable harness in position using the straps on the front of the air duct above glove
+compartment (not shown in illustration).
+- Use the eyelet on the connector to fasten the tie straps.
+
+Locations
+
+Fog/Driving Lamp Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 281
+
+Warranty Statement
+WARRANTY STATEMENT: Claims may be submitted under the New Car Limited Warranty when a
+manufacturing defect is present using claim type: 01
+Operation No. Labor Description Time Allowance
+87942-2 Odor from evaporator, installation of blower fan control module
+740/940 MCC 88- 1.8 hr
+740/940 ECC 91-95 1.7 hr
+
+9401995-ECC 96- 1.8 hr
+760/960 88-94 1.8 hr
+780 88-91 1.7 hr
+960 95-97 1.6 hr
+
+Page 258
+
+E5 Connection of yellow connector
+
+- Disconnect the yellow connector from the heater and connect the yellow connector from the new
+cable harness.
+- Connect the detached yellow connector to the yellow connector on the cable harness.
+Installing control module from kit
+E6 Connection and mounting of control module
+- Connect control module and cable harness connectors together.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+E7 Connection to ground plate Connect the black-white cable included in the cable harness to the ground plate on the right side of
+the cowl
+The ground plate is located behind the fuel control module. The ground lead has a twin tab terminal
+for when there are no vacant spaces on the ground plate.
+
+Page 217
+
+Connect cables from the new cable harness to the separated connectors.
+
+G4 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+G5 Connecting cable harness to heater Disconnect the yellow and black connector from the power unit and attach the connectors from the
+cable harness.
+- Install the detached connectors in the other cable harness connectors.
+- Connect control module and cable harness connectors.
+Connecting and installing the control module
+G6 Connect to central electronics module Route the black cable inside the centre console side panel to the central electrical unit.
+- Connect cable to central electronics module fuse 16 and terminal 3.
+
+Page 200
+
+C3 Route cables to engine compartment -
+
+Route cables without housing receptacles to engine compartment through unused cutout in
+grommet below suspension strut brace.
+- Install round housing receptacles supplied with cable harness on the cables in the engine
+compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+- Connect cables from the new cable harness to the separated connectors.
+C4 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+C5 Connecting cable harness to heater Disconnect the yellow connector from the heater and attach the yellow connector from the cable
+harness.
+- Install the detached connector in the other cable harness yellow connector.
+Installing control module from kit
+
+Page 319
+
+Component Index And Identification
+
+Page 105
+
+Component Index And Identification
+
+Page 43
+
+Method For Version 3 (C)
+Applies to: 940, 1993 4-door models as from chassis No. 114465 5-door models as from chassis
+No. 066167
+Note:
+Unlike earlier models, the power seats in the above models can be operated with the ignition off.
+Procedures in Part I are valid for cars built up to chassis numbers listed below. Procedures for Part
+II are valid for cars after these chassis numbers:
+4 door models:
+124126 Factory Code 0 123549 Factory Code 1 123609 Factory Code 3 122175 Factory Code A
+5 door models:
+073706 Factory Code 0 074106 Factory Code 1 074202 Factory Code 3 072508 Factory Code A
+C1 Switch off ignition.
+C2
+I. - Manual fault tracing/calibration: Connect auxiliary lead (alternative 1 or 2 as illustrated) between
+connector at front of seat to be tested and test lead on DLC A.
+- Fault tracing/calibration using VST with OBD System Memory Cassette: Connect auxiliary lead to
+terminal 6 on the VST adapter cable.
+II. - Manual fault tracing/calibration: Connect test lead from DLC A to socket 6 on DLC B.
+- Fault tracing/calibration using VST with OBD System Memory Cassette: Connect instrument to
+DLC B.
+
+C3
+- Remove fuse No. 3
+Fusebox is located behind ashtray in center console, in front of gear lever.
+C4
+Ignition must be off for at least 5 seconds before performing this step.
+
+Diagram Information and Instructions
+
+Radiator Cooling Fan Motor Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Locations
+
+Audible Warning Device Control Module: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 61
+
+Component Index And Identification
+
+Page 191
+
+A4 Removing existing connector from existing cable harness -
+
+Disconnect 5-pin connector from blower relay (relay 131 in the Service Manual).
+See Service Manual: Section 3 (39) Wiring diagrams 740 1990
+A5 Cable terminal, opening Detach the cables carefully from the connector's receptacle housing using tool 9814229-2, from
+repair kit 9814235.
+See Service Manual: Section 3(37), Wiring repairs and replacing cable terminals 850, 900
+A6 Installation of 5 housing receptacles Straighten the locking tongues carefully and attach the 5 white housing receptacles from the kit.
+
+Page 106
+
+Electronic Brake Control Module: Connector Views
+Bosch - ABS2
+35 Position ECU Plug
+Connector View
+System
+Bosch ABS 2
+Location
+Terminal ID
+1 - Power Ignition SW. or over voltage relay* 2 - Solenoid valve (left front) 3 - N/C 4 - Wheel speed
+sensor (left front) (-) 5 - Wheel speed sensor (left front) (-)** 6 - Wheel speed sensor (left front)
+(+)** 7 - Wheel speed sensor (left rear) (+)** 8 - Wheel speed sensor (left front) (+)** 9 - Wheel
+speed sensor (left front) (-)
+10 - Ground 11 - Wheel speed sensor (Right front) (+)** 12 - N/C 13 - Lateral accel. switch or
+sensor (GM) 14 - Pump motor monitor voltage 15 - Alternator monitor 16 - N/C 17 - Pump &
+Solenoid rel. coil feed (GM, Nissan) 18 - Solenoid valve (left rear or rear) 19 - Solenoid valve (right
+rear)*** 20 - Solenoid valve ground 21 - Wheel speed sensor (Right front) (-) 22 - Wheel speed
+sensor (left front) (+)** 23 - Wheel speed sensor (Right front) (+) 24 - Wheel speed sensor (Right
+rear) (+)**** 25 - Brake light switch 26 - Wheel speed sensor (Right rear) (-)**** 27 - Solenoid valve
+relay control 28 - Pump motor relay control 29 - ABS Indicator lamp 30 - N/C 31 - N/C 32 - Solenoid
+power monitor input 33 - N/C 34 - Solenoid valve ground 35 - Solenoid valve (Right front)
+NC = No connection
+* Power is furnished either through the ignition switch Pin 15 directly or through an over voltage
+protection relay. If a relay is used in the system then Pin 15 will supply the energizing signal to the
+relay and the relay contacts closing provides the supply voltage to Pin 1 of the ECU. Usually the
+over voltage protection relay is mounted close to the ECU.
+
+Power Seat - Fault Tracing/Calibration
+
+Technical Service Bulletin # 85916 Date: 931001
+Power Seat - Fault Tracing/Calibration
+Model 900
+Group 85
+Number 916
+Title: Modified Method for Fault tracing/calibrating power seats with memory function.
+940/960 1992 -->
+Market US and Canada
+Date October 1993
+THIS BULLETIN SUPERSEDES SB 85-912; DATED FEBRUARY, 1993
+REFERENCE: TP 32015/1 (ENGLISH); 11/91; POWER SEAT WITH MEMORY FUNCTION
+Modified method for fault tracing/calibrating power seats with memory function
+
+The method for fault tracing/calibrating power seats in different series has been modified since
+power seats with memory were introduced. This bulletin provides a summary of the methods which
+should be used on various models.
+Method for fault tracing/calibrating power seats with memory function
+Method For Version 1 (A)
+Applies to: 940, 1992-1993 4-door models to chassis No. 114464 incl. 5-door models to chassis
+No. 066166 incl.
+Note:
+
+Page 47
+
+Power Seat Control Module: Locations
+
+Refer to "Body and Frame : Seats : Locations : Components".
+
+Page 208
+
+Installing new relay on cable harness -
+
+Take out cable harness (P/N 9162426) supplied with kit
+- Install relay supplied in the 5-pin connector.
+E3 Route cables to engine compartment
+- Route green cables with single round or flat terminals to engine compartment through unused
+outlet in grommet under brace to suspension strut.
+- Connect round or flat connectors to corresponding existing connectors.
+- Connect unconnected connectors.
+E4 Location of opening in cable sheath The cable sheath is cut to drain off condensation.
+- The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+
+Diagram Information and Instructions
+
+System Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 120
+
+Wheel Speed Sensors
+
+Page 118
+
+* Only if the system does not use an over voltage protection relay.
+
+** Vehicle specific see chart for details.
+Teves - ABS
+35 Position ECU Plug
+For Terminal ID refer to "Brakes and Traction Control : Relays and Modules - Brakes and Traction
+Control : Electronic Brake Control Module : Diagrams".
+Voltage Measurements
+Grounds
+Ignition Switch
+Stop Light Switch
+ABS Indicator Lamp
+
+Page 355
+
+Fuse Functions
+
+General
+
+Electronic Brake Control Module: Description and Operation General
+DESCRIPTION
+The control module (3A/3B) measures and controls the speed of the wheels during braking in
+response to signals from the wheel sensors (1, 2). This is designed to prevent the wheels locking.
+OPERATION
+Input signals come from inductive sensors which detect the speed of the wheels. The output
+signals from the control module control the three solenoid hydraulic valves and the pump motor.
+During braking, the control module processes the sensor signals, calculates the speed of the
+wheels, retardation, road speed and wheel slip. If any of the wheels threatens to lock during
+braking, the control module sends a command to the valves in the hydraulic modulator which
+immediately adjust the pressure in the brake circuit to that wheel (or both rear wheels) to maintain
+maximum braking power while giving the driver maximum control of the car. Increasing or
+decreasing the brake pressure keeps the wheels just short of locking point to give the tires the
+maximum grip on the road. This working cycle is continuous and repeated many times a second.
+The control module is connected to the rest of the system via a 35-pin connector. When the ignition
+is switched on, the control module switches the ABS warning light (6) on and makes an initial check
+to see that there are no internal faults in the system and that the signals from the sensors are
+correct. At the same time, it triggers the valve relay (8) to provide power to the hydraulic modulator
+valves. If no faults are found, the warning light goes out about 2 seconds after starting the engine.
+When the car moves off and reaches a speed of over 6 km/h for the first time, the control module
+makes a brief check (approx. 20 milliseconds) to see that the hydraulic pump is working by
+triggering the pump relay (10) and starting the pump. The control module then checks the valves by
+activating each one in turn. As well as this initial check, the control module makes constant checks
+
+to see that all input and output signals and components are working properly and that there are no
+internal faults in the control module itself. If it finds a fault, it switches the ABS warning light on and
+disables the ABS system. The system then works like any conventional braking system. The
+control module stores details of faults in the form of DTCs.
+
+Page 223
+
+740/940 ECC 1991
+
+Page 228
+
+960 MCC 1996- S90/V90 MCC/ECC 1997-
+
+Page 314
+
+Ignition Lock And Relays
+
+Page 369
+
+Component Index And Identification
+
+Page 378
+
+Relay Locations
+
+Page 213
+
+F6 Connect white 6-pin cable harness connectors The new cable harness should be connected
+between the existing connectors on the climate unit - passenger compartment cable harnesses, (All
+
+in wiring diagram).
+F7 Connect 2-pin cable harness connectors The new 2-pin cable harness connectors should be
+connected between the blower motor and the existing cable harness, (6128 in wiring diagram).
+F8 Connect 4-pin cable harness connectors The new 4-pin cable harness connectors should be
+connected to the accessory connectors (D10 in wiring diagram).
+
+Page 251
+
+C9 Connection to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+C10 Cable harness connections Locate connector on cable harness between heater and dashboard (on side of centre console).
+Separate connector and connect new and old connectors for each model year:
+1991 model year: Connect 4-pin connectors, which have 3 cables and are included in the kit cable harness, to
+existing connectors.
+92-94 model year (shown here): Connect 2-pin connectors, with 1 cable included in the kit cable harness, to existing connectors.
+- Connect connectors not connected to existing cable harness, to each other.
+Function verification and information
+C11 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+C12 Finishing off
+- Replace all parts removed.
+- Reset the clock and enter the anti-theft radio code if required.
+
+Page 93
+
+Sunroof / Moonroof Relay: Electrical Diagrams
+
+Refer to "Body and Frame : Sunroof/Moonroof : Diagrams : Electrical".
+
+Locations
+
+Power Seat Relay: Locations
+
+Refer to "Body and Frame : Seats : Locations : Components".
+
+Page 181
+
+Removing Protective Sleeve
+5. Remove connector protective sleeve and reinstall fuse #1 for testing. CAUTION:^ Never check
+connections from the front. Connectors can get damaged and worsen the problem.
+^ Check connections through the holes in the connector. ^ Connection pin numbers are printed on
+the connector side.
+6. Disconnect A/C cut-out relay.
+7. Measure resistance between ECU connector pin 14 and A/C cut-out relay terminal connector #2.
+Reading: 0 ohm
+If resistance is different, repair wire from ECU to relay. If wire is O.K. and an A/C system fault is
+suspected, see HEATING VENTILATION AND AIR CONDITIONING for testing of A/C system.
+8. Disconnect the test equipment. Remove the #1 fuse and reconnect the ECU and all other
+connectors, install the kick panel and glove compartment. Ensure that the rubber seal in the ECU
+connector is installed before it is connected to the unit.
+9. Reinstall the #1 fuse.
+
+Page 249
+
+C3 Route cables to engine compartment -
+
+Route cables without housing receptacles to engine compartment through unused cutout in
+grommet below suspension strut brace.
+- Install round housing receptacles supplied with cable harness on the cables in the engine
+compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+- Connect cables from the new cable harness to the separated connectors.
+C4 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+C5 Connecting cable harness to heater Disconnect the yellow connector from the heater and attach the yellow connector from the cable
+harness.
+- Install the detached connector in the other cable harness yellow connector.
+Installing control module from kit
+
+Locations
+
+Alarm Module: Locations
+
+Refer to "Accessories and Optional Equipment : Antitheft and Alarm Systems : Locations :
+Components".
+
+Page 99
+
+The DTCs in the table are listed numerically
+
+When fault tracing, also see wiring diagram.
+OBD ON OLDER MODELS
+The new control module can be used to fault trace ABS on vehicles from 1992 up to the chassis
+numbers given at the beginning of this bulletin, to read off DTCs via the diagnostic unit.
+Replace the existing control module with a new control module with an OBD function. Drive the car.
+Speed must exceed 4 mph (6 km/h). Faults will be posted by the control module which stores
+DTCs. These can then be read off via the diagnostic unit and test function 1. See DTC table above.
+On M/Y '89-'91 fault tracing and diagnosis cannot be carried out using the new control module, as
+there is no diagnostic lead to the diagnostic unit.
+Change location of sensor lead, M/Y '93 (Jan. - March) 940 with Rex/Regina ignition and fuel
+system
+On cars with the Rex/Regina ignition/fuel system and an ABS control module, p/n 9130197-8, with
+OBD system, interference can occur in the sensor lead to the left front wheel. Interference can
+cause symptoms such as pulsing in the brake pedal when the car is stationary and the engine RPM
+is above idle. Normal braking function is not affected. If symptoms occur, modify sensor lead as per
+figure (see new position of sensor lead).
+The routing of the sensor lead was changed from the hole in the wheel housing to the connector in
+the engine compartment. The lead was moved forward and pulled down towards the wheel housing
+plate. (See illustration). This measure was introduced into production from chassis number:
+
+Diagram Information and Instructions
+
+Alarm Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Blower Motor Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 360
+
+Component Index And Identification
+
+Page 349
+
+Fuse Functions
+
+Diagram Information and Instructions
+
+Seat Heater Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Seat Heater Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 52
+
+Component Index And Identification
+
+Page 207
+
+Function verification and Information
+D12 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to the
+connector on the control module. Connect to green cable, connector terminal 6, for at least 30
+seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+D13 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+D14 Information to Car Owner Carry out operations at the end this service bulletin.
+Installing Control Module/Cables 780 ECC 1988
+Installing control module and cables 780 ECC model year 1988E1 Preparations -
+
+Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+See Service Manual:
+Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections E2
+
+Page 334
+
+Component Index And Identification
+
+Page 194
+
+Connection and mounting of control module Connect cable harness connector to control module connector.
+
+- Apply three sections of butyl tape to the control module.
+- Install control module on dashboard side section with butyl tape.
+A13 Installation of cable harness Arrange cable harness as shown.
+- Fasten the new cable harness using cable tie on the existing cable harness ensuring that the
+harness cannot come into contact with the heater shutter spindle.
+Function verification and information
+A14 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system so that the compressor starts. The A/C system starts if the temperature
+exceeds approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to the
+connector on the control module. Connect to green cable, connector terminal 6, for at least 30
+seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+A15 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+A16 Information to car owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cables/740/940 w/MCC year 1991
+Installing control module and cables 740/940 with MCC model year 1991B1
+
+Page 11
+
+Component Index And Identification
+
+Page 241
+
+A7 Connecting the new cable harness to the 5 housing receptacles -
+
+Attach housing receptacles to the cable harness tab terminals according to cable colour coding
+(colour-to-colour match)
+A8 Connecting new cable harness to blower relay Connect the 5-pin cable harness connector to the blower relay.
+See Service Manual: Section 3 (39) Wiring diagrams 740 1990
+A9 Connection of cable to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 247
+
+B11 Route cables to engine compartment -
+
+Route cables without housing receptacles to engine compartment through unused cutout in
+grommet under suspension strut brace.
+- Attach the round housing receptacles included in the new cable harness on the cables in the
+engine compartment.
+- Separate existing connectors on the cable between the A/C compressor and the receiver/drier.
+- Connect cables from the new cable harness to the separated connectors.
+B12 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Function verification and information
+B13 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to control
+module connector. Connect to green cable, connector
+
+Page 156
+
+Component Index And Identification
+
+A/C - Unpleasent Odor On Startup
+
+Technical Service Bulletin # 887955 Date: 970901
+A/C - Unpleasent Odor On Startup
+SECTION
+8
+GROUP
+87
+NO. 955
+DATE Sept. 1997
+RE: Odor from evaporator 700/900/S90/V90 1988REFERENCE: TP 8701201, SECTION 8(87) CLIMATE UNITS: 700/900 1992- TP 3701201,
+SECTION 3(37) WIRING REPAIRS, AND REPLACEMENT OF CABLE TERMINALS; 850900 TP
+3502201, SECTION 3(35-39) LIGHTING, INSTRUMENTATION AND OTHER ELECTRICAL
+EQUIPMENT; 700/900 1982SERVICE BULLETIN 87-948, EVAPORATOR ODOR TREATMENT
+This Service Bulletin replaces earlier Service Bulletin 87-955 from September 1996, which should
+be discarded.
+Odor from evaporator, installation of blower fan control module
+Under humid conditions the ECC unit can cause an unpleasant odor on start-up, especially when
+the temperature outside is high. This Odor often disappears when humidity levels drops. The Odor
+can be caused by dirt or micro-organisms in the evaporator.
+
+A control module can be installed to eliminate the recurrence of the Odor. This starts the blower fan
+and airs residual dampness out of the evaporator.
+If the compressor has been running more than 4 minutes and the ignition is then turned off for 50
+minutes, the control module starts the blower fan automatically and runs an airing out cycle at max.
+Blower speed for approximately 5 minutes.
+Special tools needed: Wiring repair kit, P/N 9814235-9
+NOTE:
+After installing the airing cycle unit, copy and attach the last page.
+Installing Control Module and Cables/740 MCC 1988-90
+Installing control module and cables 740 MCC model year 1988-90
+A1 Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control
+
+Page 227
+
+960 MCC/ECC 1995
+
+Page 242
+
+A10 Route cables to engine compartment -
+
+Route the green cables on the cable harness to the engine compartment through the vacant hole in
+the grommet under the brace to the suspension tower.
+1988 and 1989 model years: Connect the flat connectors.
+Year model 1990 cars (shown here): Connect the round connectors.
+- Connect all unconnected connectors to each other.
+A11 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Installing control module from kit
+A12
+
+Page 147
+
+Component Index And Identification
+
+Page 250
+
+C6 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster -
+
+Connect control module and cable harness connectors.
+- Apply three strips of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+C7 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SAS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+C8 Fastening cables In cars without SRS (Airbag) and knee bolster Attach cable harness to existing cable harness with 2 cable ties, one as near to the connector as
+possible to avoid vibration on uneven road surfaces.
+
+Page 222
+
+940 MCC 1996-
+
+Page 30
+
+Relay Locations
+
+Locations
+
+Power Distribution Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 218
+
+G7 Check airing cycle is working -
+
+Connect battery lead and start car.
+- Turn on A/C system to start compressor.
+The A/C system starts if the temperature exceeds approx. 7°C (45°F). Make up a cable (about 2 meters in length) to connect battery positive terminal to control module
+connector.
+Connect to green cable, connector terminal 6, for at least 30 seconds while compressor is
+operating. Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+G8 Fastening cables Clamp cable harness in position using tie straps on the front of the air duct below glove
+compartment.
+- Use the eyelet on the connector to fasten the tie straps.
+- Clamp cable harness in position using the straps on the front of the air duct above glove
+compartment (not shown in illustration).
+- Use the eyelet on the connector to fasten the tie straps.
+
+Diagram Information and Instructions
+
+Lamp Out Relay: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 128
+
+Component Index And Identification
+
+Page 309
+
+Component Index And Identification
+
+Page 9
+
+Component Index And Identification
+
+Page 158
+
+Component Index And Identification
+
+Page 42
+
+Applies to: 960, 1992-1993 4-door models to chassis No. 018366 incl. 5-door models to chassis
+No. 012112 incl.
+
+Note:
+Power seats in the above models can be operated only with the ignition on.
+B1
+- Switch off ignition
+B2
+- Manual fault tracing/calibration: Connect test lead from DLC A to socket No. 6 on DLC B.
+- Fault tracing/calibration using VST with OBD System Memory Cassette: Connect instrument to
+DLC B.
+B3
+Ignition must be off for at least 5 seconds before performing this step.
+- Press and hold any button on control panel of seat to be tested while switching ignition on. Keep
+button depressed for at least 1 second after turning on ignition.
+B4
+- Diagnostic system must now be activated within one minute, i.e., test button must be pressed
+once to select DTM 1 (self-diagnostics) or four times to select DTM 4 (calibration).
+Control module will exit diagnostic function after approx. 1 minute if no activity takes place between
+module and DLC. Module will also exit diagnostic function if ignition is switched off for at least 5
+seconds. Seat cannot be operated either with control buttons or memory buttons while using
+diagnostic system.
+Codes for DTM 1 are listed and explained in the table on page 9 of the SM; use of DTM 4
+(calibration) is described on SM page 7.
+
+Page 143
+
+Ignition Lock And Relays
+
+Page 246
+
+Connecting and mounting control module in cars without SRS (Airbag) and knee bolster -
+
+Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+B8 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster
+- Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SRS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+B9 Fastening cables in cars without SRS (Airbag) and knee bolster Attach cable harness to existing cable harness module with 2 cable ties, one as near to the
+connector as possible to avoid vibration on uneven road surfaces.
+B10 Connection of cable to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 304
+
+Relay Locations
+
+Page 243
+
+Connection and mounting of control module Connect cable harness connector to control module connector.
+
+- Apply three sections of butyl tape to the control module.
+- Install control module on dashboard side section with butyl tape.
+A13 Installation of cable harness Arrange cable harness as shown.
+- Fasten the new cable harness using cable tie on the existing cable harness ensuring that the
+harness cannot come into contact with the heater shutter spindle.
+Function verification and information
+A14 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system so that the compressor starts. The A/C system starts if the temperature
+exceeds approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to the
+connector on the control module. Connect to green cable, connector terminal 6, for at least 30
+seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+A15 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+A16 Information to car owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cables/740/940 w/MCC year 1991
+Installing control module and cables 740/940 with MCC model year 1991B1
+
+Page 55
+
+Check
+- Calibrate seat.
+- Check function.
+
+Page 92
+
+Component Index And Identification
+
+Page 215
+
+F11 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster -
+
+Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Locate cable harness with relays between air hose and knee bolster.
+NOTE:
+Prevent condensation dropping onto relays by ensuring that they are not placed beneath the air
+hose.
+- Fasten to air hose with cable ties.
+Installing control module from kit.
+F12 Function verification and information Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters in length) to connect battery positive terminal to the connector
+on the control module. Connect to green cable, connector terminal 6, for at least 30 seconds while
+compressor is running.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+Remove cable between connector and battery.
+F13 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+F14 Information to Car Owner Carry out operations at the end of this service bulletin.
+Installing Control Module/Cable 940 W/ECC 1996Installing control module and cables 940 with ECC model year 1996-
+
+Page 204
+
+D3 Route cables to engine compartment -
+
+Route the cables which do not have connectors to the engine compartment through an unused
+hole in the grommet under the brace to the suspension strut.
+- Connect green-yellow cables to connector terminal 1.
+- Connect green-red cables to connector terminal 2.
+D4 Route cables to engine compartment (cent.) Separate the existing connector at the boost air overpressure switch and connect round or flat tab
+terminals with housing receptacles from the new cable harness for each model year:
+1988-1991 model year (shown here): Connect round connector.
+1992 model year: Connect flat connector.
+- Connect all unconnected connectors to each other.
+- Clamp cables to existing cables with a cable tie.
+D5 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+
+Page 295
+
+Component Index And Identification
+
+Locations
+
+Radiator Cooling Fan Control Module: Locations
+
+Refer to "Engine, Cooling and Exhaust : Cooling System : Locations : Components".
+
+Locations
+
+Sunroof / Moonroof Relay: Locations
+
+Refer to "Body and Frame : Sunroof/Moonroof : Locations : Components".
+
+Page 157
+
+Component Index And Identification
+
+Page 81
+
+Component Index And Identification
+
+Page 103
+
+Component Index And Identification
+
+Page 117
+
+Solenoid Valve Relay
+
+Brake Switch
+ABS Indicator Lamp
+Wheel Speed Sensors
+Ohms Measurements
+Grounds
+Wheel Speed Sensors
+Solenoid Valves
+
+Page 195
+
+Preparations Clean evaporator according to Service Manual:
+Section 8(87) Climate control 700/900 1982- section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+- Ashtray.
+- Cigarette lighter.
+- Storage compartment.
+- Detach and pull out central electronics module.
+Refer to Service Manual: Section 3(35-39) Lighting, instrumentation (see group 37) and other
+electrical equipment 700/900 1982- Section 8(82-86, 88) Interior, exterior 700/900 1982B2 Cable connections Installing new relay on cable harness Take out cable harness (P/N 9148756) supplied with kit.
+- Connect the relay in the kit to the 5-pin connector which is attached to the same end of the cable
+harness as the black-red cable.
+B3 Attaching cable harness with relay Attach relay and cable harness above the heater vacuum reservoir, using a cable tie.
+- Route the red-black cable inside the centre console side panel to the central electronics module.
+- Connect cable to fuse 6 in terminal 4.
+- Use cable tie to attach to existing cable harness.
+
+Page 197
+
+Connecting and mounting control module in cars without SRS (Airbag) and knee bolster -
+
+Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+B8 Connecting and mounting control module in cars with SRS (Airbag) and knee bolster
+- Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SRS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+B9 Fastening cables in cars without SRS (Airbag) and knee bolster Attach cable harness to existing cable harness module with 2 cable ties, one as near to the
+connector as possible to avoid vibration on uneven road surfaces.
+B10 Connection of cable to ground plate Connect the black-white cable included in the new cable harness to the ground plate on the right
+side of the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 23
+
+Component Index And Identification
+
+Page 113
+
+Electronic Brake Control Module: Description and Operation Special Notes For Reading DTC's
+Chassis Number Table
+In older models (1992-93), with chassis numbers as shown in the table, a control module with
+built-in diagnostic function can be used as a 'special tool' for reading off DTCs via the DLC. The
+control module part numbers are 913 0197-8 or 912 8853-0.
+- Replace the existing control module with the unit with the built-in diagnostic function.
+- Drive the car at over 4 miles/h (6 km/h). The control module will record any faults and post DTCs.
+These can then be read out via the DLC in DTM 1.
+With pre-92 models (1989-91), the new control module cannot be used for fault-tracing or
+diagnosis, as the DLC is not wired up.
+
+Page 51
+
+Component Index And Identification
+
+Page 90
+
+Component Index And Identification
+
+Page 252
+
+C13 Information to Car Owner Carry out operations at the end of this service bulletin.
+Install. Control Module/Cables 760/960 W/MCC-ECC 1988-94
+Installing control module and cables 760/960 MCC/ECC model year 1988-94
+D1 Preparations Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+
+Remove: Negative battery lead.
+- Sound insulation on left and right sides.
+- Glove compartment.
+- Cowl on passenger side.
+Refer to Service Manual: Section 8(82-86, 88) Interior, exterior 700/900 1982- Cable connections
+D2 Installing new relay on cable harness Take out cable harness (P/N 9148758) supplied with kit.
+- Install relay supplied in the 5-pin connector.
+
+ABS & OBD Systems - Revised
+
+Electronic Brake Control Module: Technical Service Bulletins ABS & OBD Systems - Revised
+MODEL 700-900
+GROUP 59
+NUMBER 904
+MARKET US and Canada
+DATE May 1993
+TITLE ABS BRAKING SYSTEM AND ON-BOARD DIAGNOSTIC (OBD) SYSTEM
+700/900 1992-->
+REFERENCE: TP 31085/1 (ENGLISH); 05/89; ABS BRAKE SYSTEM WIRING DIAGRAM TP
+32208/1 (ENGLISH); 12/92; WIRING DIAGRAMS 940 1993 TP 32200/1 (ENGLISH); 11/92;
+WIRING DIAGRAMS 960 1993
+ABS braking system and on-board diagnostic (OBD) system
+Replaced ABS control module, with an integral OBD function, p/n 9130197-8, was introduced into
+production from the illustrated chassis numbers.
+From production month 4/93 the control module has a new p/n, 9128853-0. This control module is
+a replacement part and replaces older control modules on models from 1989 on.
+
+The new control module OBD function is connected to position 3, diagnostic unit A in the engine
+compartment. When the control module discovers a fault, the ABS indicator lamp lights at the same
+time as it stores a DTC. During fault tracing/diagnosis the DTC can be read with the VST or by
+using the LED on the diagnostic unit by activating test function 1. See DTC table.
+DTC TABLE
+
+Page 10
+
+Component Index And Identification
+
+Page 307
+
+Component Index And Identification
+
+Diagram Information and Instructions
+
+Control Module HVAC: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 356
+
+Ignition Lock And Relays
+
+Page 33
+
+Component Index And Identification
+
+Locations
+
+Power Door Lock Control Module: Locations
+
+Refer to "Body and Frame : Locks : Locations : Components".
+
+Page 230
+
+960 ECC 1996-
+
+Page 336
+
+Fog/Driving Lamp Relay: Electrical Diagrams
+
+Refer to "Lighting and Horns : Fog/Driving Lamp : Diagrams : Electrical".
+
+Page 253
+
+D3 Route cables to engine compartment -
+
+Route the cables which do not have connectors to the engine compartment through an unused
+hole in the grommet under the brace to the suspension strut.
+- Connect green-yellow cables to connector terminal 1.
+- Connect green-red cables to connector terminal 2.
+D4 Route cables to engine compartment (cent.) Separate the existing connector at the boost air overpressure switch and connect round or flat tab
+terminals with housing receptacles from the new cable harness for each model year:
+1988-1991 model year (shown here): Connect round connector.
+1992 model year: Connect flat connector.
+- Connect all unconnected connectors to each other.
+- Clamp cables to existing cables with a cable tie.
+D5 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+
+Page 256
+
+Function verification and Information
+D12 Check airing cycle is working Connect battery lead and start car.
+- Turn on A/C system to start compressor. The A/C system starts if the temperature exceeds
+approx. 7°C (45°F).
+- Make up a cable (about 2 meters (6 ft.) in length) to connect battery positive terminal to the
+connector on the control module. Connect to green cable, connector terminal 6, for at least 30
+seconds while compressor is operating.
+- Turn off engine.
+Airing cycle should begin after approximately 10 seconds and continue for approximately 1 second.
+- Remove cable between connector and battery.
+D13 Finishing off Reinstall all components removed.
+- Reset the clock and enter the anti-theft radio code if required.
+D14 Information to Car Owner Carry out operations at the end this service bulletin.
+Installing Control Module/Cables 780 ECC 1988
+Installing control module and cables 780 ECC model year 1988E1 Preparations -
+
+Clean evaporator according to Service Manual: Section 8(87)
+Climate control 700/900 1982- Section Y
+- Make note of radio code if anti-theft coded radio installed.
+Remove: Negative battery lead.
+- Sound insulation on passenger side.
+- Glove compartment.
+- Cowl on passenger side.
+See Service Manual:
+Section 8(82-86, 88) Interior, exterior 700/900 1982Cable connections E2
+
+Page 328
+
+Fuse Functions
+
+Page 45
+
+- Remove circuit breaker 35. Fusebox is located at left-hand end of dashboard.
+
+D4
+Ignition must be off for at least 5 seconds before performing this step.
+- Press and hold any button on control panel of seat to be tested while switching ignition on. Keep
+button depressed for at least 1 second after turning on ignition.
+D5
+- Reinstall circuit breaker 35.
+Diagnostic system must now be activated within one minute, i.e., test button must be pressed once
+to select DTM 1 (self-diagnostics) or four times to select DTM 4 (calibration).
+- Control module will exit diagnostic function after approx. 1 minute if no activity takes place
+between module and DLC. Module will also exit diagnostic function if ignition is switched off for at
+least 5 seconds. Seat cannot be operated either with control buttons or memory buttons while
+using diagnostic system.
+Codes for DTM 1 are listed and explained in the table on page 9 of the SM; use of DTM 4
+(calibration) is described on SM page 7.
+Method For Version 5 (E)
+Applies to: 940/960 from 1994 on
+Unlike later 1993 variants, fault tracing or calibration of power seats in the above models can be
+carried out without removing the fuses.
+Note:
+The seat can be operated with the ignition switched off.
+E1
+- Switch off ignition.
+E2
+- Manual fault tracing/calibration: Connect test lead from DLC A to socket No. 6 on DLC B.
+- Fault tracing/calibration using VST with OBD System Memory Cassette: Connect instrument to
+DLC B.
+
+Diagram Information and Instructions
+
+Audible Warning Device Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 13
+
+Alarm Module: Description and Operation
+Guard Alarm II System Relay
+The control module contains a pre-programmed microprocessor which can be reprogrammed for
+different functions. It is possible to store up to four different key codes for each remote in the
+micro-processor. There are three built-in relays for:
+- Start inhibitor
+- Visual signal
+- Sound signal
+
+Page 83
+
+Seat Heater Relay: Electrical Diagrams
+
+Refer to "Body and Frame : Seats : Diagrams : Electrical".
+
+Page 278
+
+Locations
+
+Headlamp Relay: Locations
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 177
+
+Component Index And Identification
+
+Page 350
+
+Ignition Lock And Relays
+
+Page 54
+
+Power Seat Control Module: Service and Repair
+
+Control module for power seat, change
+Remove:
+Preparations
+- Remove battery negative lead and note any radio code.
+- Remove seat from vehicle. See: Body and Frame/Seats/Service and Repair/Remove Seat From
+Vehicle
+Connector
+- Disconnect all 4 control module connectors.
+Remove control module
+- Unhook control module fixing plate at front edge.
+- Lift fixing plate clear at front edge and remove control module.
+Replace:
+Replacement of control module
+- Replace control module.
+- Replace fixing plate at front edge.
+- Replace the 4 connectors. Check that connectors are properly connected.
+Replacement
+- Replace seat in vehicle. See: Body and Frame/Seats/Service and Repair/Remove Seat From
+Vehicle
+- Replace battery negative lead.
+
+Page 212
+
+F3 Route cables to engine compartment -
+
+Route the cables which do not have connectors to the engine compartment through an unused
+hole in the grommet under the brace to the suspension strut.
+- Connect green-red cable to connector terminal 1.
+- Connect green cable to connector terminal 2.
+F4
+- Separate existing connectors at the boost pressure switch and connect connector from the new
+cable harness.
+F5 Location of cable sheath opening The cable sheath is cut to drain off condensation. The cut conduit section should be placed at the lowest point along the route of the cable.
+- Use butyl tape to seal the grommet.
+- Use existing cable tie to clamp cables to firewall.
+Connecting cable harness in passenger compartment
+
+Page 387
+
+Relay Box: Application and ID
+
+Fuse/Relay Identification and Location
+Electrical Distribution Unit
+
+Page 63
+
+Component Index And Identification
+
+Page 226
+
+780 ECC 1988-1991
+
+Page 320
+
+Component Index And Identification
+
+Page 121
+
+Electronic Brake Control Module: Service and Repair
+
+REMOVAL
+1. Check ignition is switched off 2. Undo battery negative lead. 3. Remove sound insulation
+underneath dashboard. 4. Undo control module cable tie and remove. 5. Remove connector from
+control module.
+INSTALLATION
+1. Fit connector to new control module. 2. Install control module, sound insulation, and battery
+negative lead.
+
+Page 343
+
+Component Index And Identification
+
+Page 62
+
+Component Index And Identification
+
+Page 179
+
+Compressor Clutch Relay: Description and Operation
+
+Used by fuel injection ECU.
+The A/C cut-off relay (located in front of the driver side strut tower) receives a signal from the
+throttle position sensor, when the throttle valve is in the full load position. The relay will then open
+and interrupt the A/C compressor operation. The A/C compressor will resume operation as soon as
+the throttle position sensor is no longer in the full load position. The fuel injection ECU monitors the
+A/C system via a connection to the A/C cut-off relay.
+
+Page 107
+
+** If there are only three valves listed it means there isn't a right rear valve and therefore no wire in
+Pin 19. If a wire exists in Pin 19 it will mean the system has four solenoid valves.
+*** Not all Bosch ABS 2 have a Solenoid valve on the right rear wheel. This does not mean that if a
+system has only three solenoid valves that it will only have three wheel speed sensors. These
+differences are sorted out in the chart.
+**** Not all Bosch ABS 2 have a wheel speed sensor on the right rear wheel. Systems that have
+only three wheel speed sensors have the rear sensor mounted in the differential housing. The
+easiest way to determine how the wheel speed sensors are wired is to inspect the 35 Pin plug and
+see what contacts are used for in system being tested.
+Teves - ABS
+35 Position ECU Plug
+Connector View
+System
+Teves ABS
+Location
+Terminal ID
+1 - Ground 2 - Ignition Switch 3 - Main Power Relay 4 - Wheel Speed Sensor Right Rear (-) 5 Wheel Speed Sensor Left Front (-) 6 - Wheel Speed Sensor Left Rear (-) 7 - Wheel Speed Sensor
+Right Front (-) 8 - Main Power Relay Control 9 - Fluid Level Switch
+
+10 - Fluid Pressure Switch 11 - Solenoid Valve Ground 12 - Brake Light (NC Scorpio) 13 - NC 14 Pump Relay Monitor (NC Ford, GM) 15 - Inlet Solenoid Valve (Right Front) 16 - Outlet Solenoid
+Valve (Left Front) 17 - Inlet Solenoid Valve (Rear) 18 - Main Hydraulic Solenoid Valve 19 - Ignition
+Switch (Scorpio only) 20 - Main Power Relay 21 - NC 22 - Wheel Speed Sensor Right Rear (+) 23 Wheel Speed Sensor Lett Front (+) 24 - Wheel Speed Sensor Left Rear (+) 25 - Wheel Speed
+Sensor Right Front (+) 26 - NC 27 - ABS Warning Light 28 - NC 29 - NC 30 - NC 31 - NC
+
+Page 270
+
+740 MCC 1992 940 MCC 1992-1995
+
+Page 178
+
+Air Conditioning Full Load Cut Off System
+
+Page 282
+
+Page 386
+
+Relay Locations
+
+Page 205
+
+D6 Connection of yellow connector -
+
+Disconnect the yellow connector from the heater and attach the yellow connector from the cable
+harness.
+- Install the detached connector in the other cable harness yellow connector.
+D7 Connection of orange cable Route the orange cable with connector to driver's side of centre console.
+- Locate the black 4-pin accessories connector. The connector can be connected to accessories
+(A) or unused (B).
+- (A) If accessories are connected, separate connectors and connect them to both connectors on
+the new cable harness.
+- (B) Connect the unused existing black 4-pin connector to one of the new harness connectors.
+Leave the other connector unused.
+Installing control module from kit
+D8 Connecting and mounting control module in cars without SRS (Airbag) and knee bolster Connect control module and cable harness connectors.
+- Apply three sections of butyl tape to the control module.
+- Install control module to dashboard side section with butyl tape.
+
+Page 80
+
+Component Index And Identification
+
+Page 36
+
+Power Door Lock Relay: Electrical Diagrams
+
+Refer to "Body and Frame : Locks : Diagrams : Electrical".
+
+Page 240
+
+A4 Removing existing connector from existing cable harness -
+
+Disconnect 5-pin connector from blower relay (relay 131 in the Service Manual).
+See Service Manual: Section 3 (39) Wiring diagrams 740 1990
+A5 Cable terminal, opening Detach the cables carefully from the connector's receptacle housing using tool 9814229-2, from
+repair kit 9814235.
+See Service Manual: Section 3(37), Wiring repairs and replacing cable terminals 850, 900
+A6 Installation of 5 housing receptacles Straighten the locking tongues carefully and attach the 5 white housing receptacles from the kit.
+
+Page 206
+
+D9 Connecting and mounting control module In cars with SRS (Airbag) and knee bolster -
+
+Install control module on front of air hose under glove compartment with butyl tape and cable ties
+round duct and control module as illustrated.
+- Attach cable harness to existing cable harness at side of SRS (Airbag) module with 2 cable ties,
+one as near to the connector as possible to avoid vibration on uneven road surfaces.
+D10 Fastening cables in cars without SRS (Airbag) and knee bolster Attach cable harness and the relay in the foam rubber covered hose which passes over the glove
+compartment to the side defroster with 2 cable ties, one as close to the connector as possible to
+prevent vibration caused by uneven road surfaces.
+D11 Connection to ground plate Connect the black-white cable included in the cable harness to the ground plate on the right side of
+the cowl.
+The ground plate is located behind the fuel control module.
+
+Page 231
+
+Page 127
+
+Component Index And Identification
+
+Locations
+
+Seat Heater Relay: Locations
+
+Refer to "Body and Frame : Seats : Locations : Components".
+
+Diagram Information and Instructions
+
+Power Seat Control Module: Diagram Information and Instructions
+
+Component Index And Identification
+
+Page 233
+
+

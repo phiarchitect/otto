@@ -1,0 +1,37 @@
+# VACUUM DIAGRAM
+
+---
+
+Following are vacuum diagrams for most of the engine and emissions package combinations covered by this manual. Because vacuum circuits will vary based on various engine and
+vehicle options, always refer first to the vehicle emission control information label, if present. Should the label be missing, or should the vehicle be equipped with a different engine from the
+vehicle's original equipment, refer to the diagrams below for the same or similar configuration.
+If you wish to obtain a replacement emissions label, most manufacturers make the labels available for purchase. The labels can usually be ordered from a local dealer.
+Fig. 1: The vacuum diagram label on the underside of
+the hood
+
+Fig. 2: Vacuum connection points — 1990–92 700
+series with Regina fuel injection system
+
+Fig. 3: Vacuum connection points — 1990–93 240
+Series, 1990–92 700 Series, 1991 Coupe, and 1991
+–95 940 Series equipped with LH-Jetronic 2.4 or 3.1 fuel
+injection system
+
+Fig. 4: Vacuum controlled components — 1991–95 960
+Series equipped with Motronic 1.8 fuel injection system
+
+Fig. 5: Vacuum diagram — 1993–95 850 Series
+equipped with LH-Jetronic 3.2 fuel injection system
+
+Fig. 6: Vacuum controlled components — 1994–95 850
+Series with non-turbo engines equipped with Motronic
+4.3 fuel injection system
+
+Fig. 7: Vacuum controlled components — 1994–95 850
+Series with turbo engines equipped with Motronic 4.3
+fuel injection system
+
+Fig. 8: Vacuum controlled components — 1996–98
+960/S90/V90 models with Motronic 4.4 fuel injection
+system
+

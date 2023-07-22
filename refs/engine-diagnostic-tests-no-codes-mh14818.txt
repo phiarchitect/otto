@@ -1,0 +1,773 @@
+F - BASIC TESTING
+1994 Volvo 960
+
+1994 ENGINE PERFORMANCE
+Volvo Basic Diagnostic Procedures
+Volvo;
+
+850, 940, 960
+
+INTRODUCTION
+The following diagnostic steps will help prevent overlooking
+a simple problem. This is also where to begin diagnosis for a no-start
+condition.
+The first step in diagnosing any driveability problem is verifying the
+customer complaint with a test drive under the conditions the problem
+reportedly occurred.
+Before entering self-diagnostics, perform a careful and
+complete visual inspection. Most engine control problems result from
+mechanical breakdowns, poor electrical connections or
+damaged/misrouted vacuum hoses. Before condemning the computerized
+system, perform each test listed in this article.
+NOTE:
+
+Perform all voltage tests using a Digital Volt-Ohmmeter
+(DVOM) with a minimum 10-megohm input impedance, unless
+otherwise instructed in test procedure.
+
+PRELIMINARY INSPECTION & ADJUSTMENTS
+VISUAL INSPECTION
+Visually inspect all electrical wiring. Look for chafed,
+stretched, cut or pinched wiring. Ensure electrical connectors fit
+tightly and are not corroded. Ensure vacuum hoses are properly routed
+and not pinched or cut. See M - VACUUM DIAGRAMS article in the
+ENGINE PERFORMANCE Section to verify routing and connections (if
+necessary). Inspect air induction system for possible vacuum leaks.
+
+MECHANICAL INSPECTION
+Compression
+Check engine mechanical condition using a compression gauge,
+vacuum gauge or engine analyzer. See engine analyzer manual for
+specific instructions.
+WARNING: Do not use ignition switch during compression
+tests on fuel injected vehicles. Use a remote
+starter to crank engine. Fuel injectors on
+many models are triggered by ignition switch
+during cranking mode, which can create a fire
+hazard or contaminate engine oiling system.
+COMPRESSION SPECIFICATIONS TABLE
+
+
+
+Application
+
+Specification
+
+Compression Pressure (Minimum)
+850
+Non-Turbo ............. 189-219 psi (13.2-15.3
+Turbo ..................... 156-185 psi (11-13
+940 ............................... 128 psi (9
+960 .............................. 184 psi (13
+
+
+
+kg/cm 
+kg/cm 
+kg/cm 
+kg/cm
+
+)
+)
+)
+)
+
+
+Exhaust System Backpressure
+1) Exhaust system can be checked using a vacuum or pressure
+gauge. Remove oxygen sensor or air injection check valve (if
+equipped).
+2) Connect a 1-10 psi pressure gauge, and run engine at 2500
+RPM. If exhaust system backpressure is greater than 1 3/4-2 psi,
+exhaust system or catalytic converter is plugged.
+3) If using a vacuum gauge, connect vacuum gauge hose to
+intake manifold vacuum port and start engine. Observe vacuum gauge.
+Open throttle part way and hold steadily. If vacuum gauge reading
+slowly drops after stabilizing, exhaust system should be checked for a
+restriction.
+
+FUEL SYSTEM
+WARNING: Always relieve fuel pressure before
+disconnecting any fuel injection-related
+component. DO NOT allow fuel to contact
+engine or electrical components.
+
+FUEL PRESSURE
+Fuel Pressure
+1) Before disconnecting, cover fuel line connector using shop
+towel to absorb any fuel spray. Connect Fuel Pressure Gauge (5011)
+between fuel line and fuel rail. Seal free end of hose using Plug
+(5266) or use Fuel Drainage Unit (981 2270, 2273 and 2282).
+2) On 940, lift out central electrical unit behind ashtray
+and remove system relay. See Fig. 1. On 850, lift cover on central
+electrical unit located in engine compartment and remove fuel pump
+relay. See Fig. 2. On 940, connect a jumper wire between relay
+terminals No. 30 and 87/2. See Fig. 3.
+3) On 850, connect a jumper wire between relay terminals No.
+1 and 3. See Fig. 4. On 960, remove fuel injection fuses No. 30 and
+31. See Fig. 5. Connect jumper wire between fuse terminals No. 30 and
+31.
+4) On all models, turn ignition on. Fuel pump should start.
+Fuel filler cover can be removed to determine whether main pump
+ is
+operating. Fuel pressure should be about 43.5 psi (3.06 kg/cm ). If
+pressure is too low, pinch return hose by hand and check whether
+pressure rises. DO NOT allow pressure to exceed 86 psi (6 kg/cm ).
+5) If pressure rises rapidly, pump and lines are okay.
+Replace pressure regulator and recheck line pressure. If pressure
+rises slowly, fuel filter, fuel pump strainer or fuel lines are
+blocked. If pressure does not rise, fuel pump is probably faulty.
+6) If pressure is too high, remove jumper wire between relay
+or fuse terminals. Remove return hose from pressure regulator, and
+blow in pipe. Remove vacuum hose from pressure regulator, and blow in
+pipe. If both hoses are open, pressure regulator is defective. Replace
+regulator, and recheck pressure.
+
+Fig. 1: Locating Fuel System Relay (940)
+Courtesy of Volvo Cars of North America.
+
+Fig. 2: Locating Fuel Pump Relay (850)
+Courtesy of Volvo Cars of North America.
+
+Fig. 3: Identifying Fuel Injection System Relay Terminals (940)
+Courtesy of Volvo Cars of North America.
+
+Fig. 4: Identifying Fuel Pump Relay Terminals (850)
+Courtesy of Volvo Cars of North America.
+
+Fig. 5: Identifying Fuel Pump Fuses (960)
+Courtesy of Volvo Cars of North America.
+Fuel Pump Circuit (940)
+1) Remove fuel injection system relay. Check voltage at
+terminal No. 30. See Figs. 1 and 3. If battery voltage does not exist,
+repair wiring between relay connector and battery.
+2) Connect jumper wire between terminals No. 30 and 87/2 of
+fuel injection system relay connector. Fuel pump should run. If fuel
+pump does not run, check wiring between pump and relay. Also check
+
+wiring between terminals No. 87/1 and 85 for continuity. Repair as
+necessary.
+NOTE:
+
+ECU terminal identifications are marked on unit or connector.
+
+CAUTION: Ignition must be off when connecting or disconnecting ECU
+connector.
+Fuel Pump Circuit (850)
+1) If fuel pump does not operate with ignition on, remove
+fuel pump relay. See Fig. 2. Connect jumper wire between fuel pump
+relay terminals No. 1 and 3. See Fig. 4. Turn ignition on. If fuel
+pump does not start, go to next step. If fuel pump starts, replace
+fuel pump relay.
+2) Turn ignition off. To check relay ground, connect ohmmeter
+between ground and fuel pump relay terminal No. 2. See Fig. 4.
+Ohmmeter should indicate about zero ohms. If ohmmeter does not
+indicate about zero ohms, check wiring between fuel pump relay and
+ground.
+3) To check fuel pump relay voltage supply, connect voltmeter
+between ground and fuel pump relay terminal No. 1. See Fig. 4. Turn
+ignition on. Battery voltage should be present. If battery voltage is
+not present, check wiring between fuel pump relay and fuse No. 2.
+4) Turn ignition off. Connect ohmmeter between ground and
+relay terminal No. 3. See Fig. 4. About 1.5 ohms should be present. If
+about 1.5 ohms are not present, check resistance at fuel pump
+connector to determine whether fault is in pump or wiring.
+5) To check fuel injection control signal to fuel pump relay,
+connect voltmeter between ground and fuel pump relay terminal No. 4.
+See Fig. 4. Operate starter motor. If voltmeter indicates about 3
+volts, replace relay.
+6) If voltage is not to specification, check wiring between
+fuel pump relay and ECU. If wiring is okay, see ELECTRONIC CON-TROL
+UNIT - IGNITION (850) in I - SYSTEM/COMPONENT TESTS article in the
+ENGINE PERFORMANCE Section.
+Fuel Pump Circuit (960)
+If fuel pumps do not operate with ignition on, connect
+Breakout Box (999-3070) to ECU. See Fig. 6. Connect voltmeter between
+terminals No. 3 and 19. Voltmeter should indicate battery voltage. If
+battery voltage is not present, check wiring and voltage supply to
+pump relay. If voltage is present, check wiring and voltage supply to
+fuel pump.
+
+Fig. 6:
+
+Connecting Breakout Box To ECU
+(960 Shown; 850 Is Similar)
+Courtesy of Volvo Cars of North America.
+
+Injection System (Fuel Pump) Relay (940)
+With ECU connector removed from ECU, ground ECU connector
+terminals No. 17 and 21. Pump relay should activate fuel pumps and
+pumps should start operating. Connect voltmeter between ground and
+terminal 87/2 in relay. See Fig. 3. Battery voltage should be present.
+Disconnect ground leads from ECU terminals No. 17 and 21. Replace
+relay if faulty.
+
+IGNITION CHECKS
+BENDIX REX-I
+NOTE:
+
+ECU terminal identifications are marked on unit or connector.
+
+940 Non-Turbo (Federal)
+1) Ensure ground connections from ignition ECU and power
+stage to inlet manifold ground are okay. If ground connections are
+good, disconnect a spark plug wire from spark plug. Attach a test
+spark plug to disconnected spark plug wire, and ground spark plug.
+Crank engine, and monitor spark.
+2) Strong Blue/White spark indicates engine or fuel system
+malfunction. If no or weak spark is present, reconnect spark plug wire
+to spark plug. Disconnect coil wire from distributor cap, and install
+test spark plug. Crank engine, and monitor spark. If no or weak spark
+is present, coil or ignition system primary circuit is defective.
+3) If a strong Blue/White spark is present, check ignition
+rotor, distributor housing and spark plug wires. Replace components as
+necessary. If previous steps do not show defective components, go to
+next step.
+4) Turn ignition off. Reconnect disconnected components.
+Ensure all connectors are secure and properly connected. With ignition
+off, remove panel from lower left dashboard and disconnect ignition
+ECU connector. Remove dust cover from connector. Ensure all pin
+connection sleeves are at same height.
+5) Measure voltage at ignition ECU connector terminal No. 5.
+Voltage reading should be about 12 volts. If voltage is not present,
+check circuit between ignition ECU and fuse holder.
+6) Turn ignition on. Open diagnostic connector at left rear
+of engine compartment, and connect test lead to socket No. 6 (marked
+on unit). See Fig. 7. Measure voltage at ignition ECU connector
+terminal No. 1. Voltage should be about 12 volts. Press test button on
+diagnostic unit. Voltage should now be zero volts. If voltage is not
+present at control unit or is 12 volts with button pushed, measure
+voltage at diagnostic unit connector.
+
+Fig. 7: Identifying Diagnostic Unit Components
+Courtesy of Volvo Cars of North America.
+7) Measure voltage at diagnostic unit connector Blue lead.
+
+Voltage should be about 12 volts. Using ohmmeter, check continuity
+between diagnostic unit connector Black lead and ground. Ensure
+continuity exists.
+8) Turn ignition off. Check continuity between diagnostic
+unit test lead and pin No. 8 (under function selector button).
+Ohmmeter should indicate infinity. Press test button on diagnostic
+unit. Continuity should now be present.
+9) Using ohmmeter, test for continuity of diagnostic unit
+LED. Connect ohmmeter leads to pin under LED and to test lead.
+Continuity should exist in only one direction.
+10) Turn ignition on. Measure voltage at ignition ECU
+terminal No. 6 (Blue wire). Voltage should be about 12 volts. Turn
+ignition off. Using ohmmeter, check continuity between ignition ECU
+connector terminals No. 20 (Brown wire) and No. 14 (Black wire).
+Continuity should exist.
+11) Measure resistance between ground and ignition ECU
+connector terminal No. 2 (Red/Black wire). See COOLANT TEMPERATURE
+SENSOR RESISTANCE table. If reading is not correct, test sensor
+directly to determine if fault is in sensor or wiring.
+COOLANT TEMPERATURE SENSOR RESISTANCE TABLE
+
+
+
+
+
+Temperature
+
+F ( C)
+
+Ohms
+
+-22 (-30) ............................... 30,000
+-4 (-20) ......................... 15,000-16,000
+32 (0) ............................... 5800-6000
+68 (20) .............................. 2200-2400
+104 (40) ............................... 1000-1200
+140 (60) ..................................... 600
+176 (80) ................................. 340-360
+212 (100) ................................ 180-190
+248 (120) .............................. 100-120
+
+
+
+12) Check continuity between ignition ECU connector terminal
+No. 7 (Orange wire) and ground. Ensure continuity exists. Depress
+accelerator until throttle switch opens slightly. Ohmmeter reading
+should increase to infinity. If reading is not correct, measure
+throttle switch resistance directly to determine if fault is in switch
+or wiring. Adjust throttle switch if necessary. See D - ADJUSTMENTS
+article in the ENGINE PERFORMANCE Section.
+13) Remove panel under right side of dash, at right side of
+bulkhead. Remove glove box. Turn ignition off. Disconnect fuel
+injection ECU connector. Check for continuity between ignition ECU
+terminal No. 8 (Yellow wire) and fuel injection ECU terminal No. 25
+(Yellow wire). If continuity is not present, check connectors and
+wiring. Repair as necessary. If continuity is still not present,
+internal fault is present in an ECU. Reconnect fuel injection ECU
+connector, and replace glove box and panel.
+14) Check P/M (pulse) generator by measuring resistance
+between ignition ECU terminals No. 10 (Red wire) and No. 23 (Blue
+wire). Resistance should be 215-265 ohms. Ensure shield is connected
+to ECU terminal No. 11.
+15) Disconnect knock sensor connector, and place a jumper
+wire between terminals. Check continuity between ignition ECU
+terminals No. 12 (Black wire) and No. 13 (Green wire). Ohmmeter should
+show continuity. Ensure resistance to ground is infinity. If
+resistance is too high (infinity), remove jumper wire and test each
+wiring lead. If leads are intact, replace knock sensor.
+16) Reconnect knock sensor connector. Reassemble and
+reconnect ignition ECU connector.
+17) Disconnect connectors from ignition coil and power stage.
+
+Remove mounting screws and lift ignition coil from power stage.
+Measure resistance across low tension side of ignition coil.
+Resistance should be about .5 ohm.
+18) Measure resistance between high tension terminal and each
+low tension terminal. Resistance should be about 5000 ohms. If
+resistance is not as specified, replace ignition coil.
+19) Turn ignition on. Check for battery voltage at Blue wire
+of 3-pin power stage connector. If voltage is low or does not exist,
+check power supply lead connections at ignition ECU and ignition
+coil/power stage. Ensure voltage does not drop to less than 10.5 volts
+while engine is cranking. Turn ignition off.
+20) Ensure ground is present at Brown/Black wire of 3-pin
+power stage connector and at Black wire of 2-pin power stage
+connector. Using a self-powered test light or buzzer, check for
+continuity between Orange wire of 2-pin power stage connector and
+ignition ECU terminal No. 16.
+21) If no defects are found in previous steps or engine still
+malfunctions after repairs, install new ignition ECU. Recheck system
+as necessary. Reinstall ignition coil. Reassemble ignition ECU
+connector, and reconnect it to ECU. Reconnect ignition coil/power
+stage connectors.
+
+BOSCH EZ116K
+NOTE:
+
+ECU terminal identifications are marked on unit or connector.
+
+940
+1) Ensure ground connections from ignition ECU and power
+stage to inlet manifold ground are okay. If ground connections are
+good, disconnect a spark plug wire from spark plug. Connect a test
+spark plug to disconnected spark plug wire, and ground spark plug.
+Crank engine, and monitor spark.
+2) A strong Blue/White spark indicates engine or fuel system
+malfunction. If no or weak spark is present, reconnect spark plug wire
+to spark plug. Disconnect coil wire from distributor cap, and install
+test spark plug. Crank engine, and monitor spark. If no spark or weak
+spark is present, coil or ignition system primary circuit is
+defective.
+3) If a strong Blue/White spark is present, check ignition
+rotor, distributor housing and spark plug wires. Replace components as
+necessary. If previous steps show no defective components, go to next
+step.
+4) Turn ignition off. Reconnect disconnected components.
+Ensure all connectors are secure and properly connected. With ignition
+off, remove panel from lower left dashboard and disconnect ignition
+ECU connector. Remove dust cover from connector. Ensure all ECU pin
+connection sleeves are at same height.
+5) Measure voltage at ignition ECU connector terminal No. 5.
+Voltage should be about 12 volts. If voltage is not present, check
+circuit between ignition ECU and fuse holder.
+6) Turn ignition on. Open diagnostic connector at left rear
+of engine compartment, and connect test lead to socket No. 6 (marked
+on unit). See Fig. 7. Measure voltage at ignition ECU connector
+terminal No. 1. Voltage should be about 12 volts. Press test button on
+diagnostic unit. Voltage should now be zero volt. If voltage is not
+present at control unit or if voltmeter reads 12 volts with button
+pushed, measure voltage at diagnostic unit connector.
+7) Measure voltage at diagnostic unit connector Blue lead.
+Voltage should be about 12 volts. Using ohmmeter, check continuity
+between diagnostic connector Black lead and ground. Continuity should
+exist.
+8) Turn ignition off. Check continuity between diagnostic
+test lead and pin No. 8 (under function selector button). Ohmmeter
+
+should read infinity. Press button on diagnostic unit. Ohmmeter should
+now show continuity.
+9) Using ohmmeter, check continuity of diagnostic unit LED.
+Connect ohmmeter leads to test lead and to pin under LED. Continuity
+should exist in one direction only.
+10) Turn ignition on. Measure voltage at ignition ECU
+terminal No. 6 (Blue wire). Voltage should be about 12 volts. Turn
+ignition off. Check continuity between ignition ECU connector
+terminals No. 20 (Brown wire) and No. 14 (Black wire). Continuity
+should be present.
+11) Measure resistance between ground and ignition ECU
+connector terminal No. 2 (Red/Black wire). See COOLANT TEMPERATURE
+SENSOR RESISTANCE table under BENDIX REX-I. If reading is not correct,
+test sensor directly to determine if fault is in sensor or wiring.
+12) Check continuity between ignition ECU connector terminal
+No. 7 (Orange wire) and ground. Ohmmeter should show continuity.
+Depress accelerator until throttle switch opens slightly. Ohmmeter
+reading should increase to infinity. If reading is not correct,
+measure throttle switch resistance directly to determine if fault is
+in switch or wiring. Adjust throttle switch if necessary. See
+D - ADJUSTMENTS article in the ENGINE PERFORMANCE Section.
+13) Measure voltage at ignition ECU connector terminal No. 8
+(Yellow wire). Turn ignition on. Voltage should be about .1 volt. If
+reading is not correct, check for open circuit between ignition ECU
+and fuel injection ECU or for fault in fuel injection ECU.
+14) Turn ignition off. Measure resistance between ignition
+ECU connector terminals No. 10 (Red wire) and No. 23 (Blue wire).
+Resistance should be 215-265 ohms. Ensure shield is connected to
+ignition ECU terminal No. 11.
+15) Disconnect knock sensor connector and place a jumper wire
+between terminals. Check continuity between ignition ECU terminals No.
+12 (Black wire) and No. 13 (Green wire). Ohmmeter should show
+continuity. Ensure resistance to ground is infinity. If resistance is
+too high (infinity), remove jumper wire and test each wiring lead. If
+leads are intact, replace knock sensor.
+16) Reconnect knock sensor connector. Reassemble and
+reconnect ignition ECU connector.
+17) Remove air cleaner assembly. Ensure ignition is off, and
+disconnect power stage connector. Power stage is located at front of
+left front fender panel. Remove connector dust cover. Connect
+multimeter negative (-) lead to ground and positive (+) lead to
+connector pin No. 4. Turn ignition on, and note voltage reading.
+Voltage should be about 12 volts.
+18) Leave multimeter attached, and crank starter motor.
+Voltage should be at least 10.5 volts. If voltage is too low, check
+battery and charging system. If voltage is not present, check Blue
+wire from ignition ECU to ignition coil and power stage. Repair or
+replace as necessary.
+19) Check continuity of power stage ground by connecting
+multimeter to power stage connector pin No. 2 and ground. Multimeter
+should show continuity. Check ignition coil resistance. Connect
+multimeter to power stage connector pins No. 1 and 4. Resistance
+should be 0.6-1.0 ohm. If resistance is less than 0.6 ohm, check wires
+for short circuit.
+20) If wires are okay but resistance is still not 0.6-1.0
+ohm, connect multimeter between ignition coil terminals No. 1
+(Red/White wire) and No. 15 (Blue wire). If resistance is not 0.6-1.0
+ohm, install a new ignition coil. If resistance is 0.6-1.0 ohm, check
+continuity of wires between ignition coil and power stage connector
+pins No. 1 and 4. Repair or replace as necessary.
+21) Check shield (ground) wire between ignition ECU and power
+stage. Shield wire is connected to power stage connector pin No. 3
+(Gray wire). Repair if necessary. Ensure power stage is receiving
+
+signal from ignition ECU. Disconnect wires from ignition coil terminal
+No. 1. Connect multimeter positive (+) lead to power stage connector
+pin No. 5 and negative (-) lead to ground.
+22) Crank starter motor, and monitor voltage reading. Voltage
+should pulsate between 0-2 volts. If voltage is within specification,
+install a new power stage and recheck circuit. If voltage is very low
+and/or irregular, check wiring between ignition ECU and crankshaft
+position sensor. Repair or replace as necessary.
+23) Turn ignition off. If no defects are found in previous
+steps or if engine still malfunctions after repairs, install a new
+ignition ECU. Recheck system as necessary.
+
+BOSCH EZ129K
+850 Non-Turbo
+1) Disconnect coil wire from distributor cap. Put coil wire
+next to ground and operate starter motor. If spark is present, check
+distributor rotor and cap. If spark is not present, go to next step.
+2) Connect voltmeter between ignition coil connector terminal
+No. 15 (Red wire) and ground. Turn ignition on. If battery voltage is
+not present, check voltage supply to ignition coil. If battery voltage
+is present, turn ignition off and go to next step.
+3) Connect voltmeter between ignition coil terminal No. 1
+(Blue wire) and ground. Operate starter motor. If about .7-1.3 volts
+are present, repeat test using new ignition coil. If about .7-1.3
+volts are not present, turn ignition off and go to next step.
+4) Disconnect engine speed sensor connector located close to
+flywheel. Connect an ohmmeter between sensor terminals. If resistance
+is about 200-400 ohms, go to next step and check Camshaft Position
+Sensor (CMP) signal. If resistance is not about 200-400 ohms, replace
+sensor.
+NOTE:
+
+Engine speed sensor is also known as Vehicle Speed Sensor
+(VSS) or impulse sensor.
+
+5) Remove intake hose. Bend aside rubber sleeve on CMP
+connector. Connect voltmeter between connector terminal No. 2 and
+ground. See Fig. 8. Operate starter motor. If voltage reading varies
+between 0-5 volts, go to step 7). If voltage reading does not vary
+between 0-5 volts, go to next step.
+
+Fig. 8: Identifying Camshaft Position Sensor (CMP) Terminals
+Courtesy of Volvo Cars of North America.
+6) Connect voltmeter between CMP connector terminal No. 3 and
+ground. Turn ignition on. About 10 volts should be present. Turn
+ignition off. Connect an ohmmeter between CMP connector terminal No. 1
+and ground. Ohmmeter should show about zero ohms. If voltage supply
+and ground are okay, repeat test using new CMP. If voltage supply and
+ground are not okay, reconnect intake hose and go to step 9).
+7) If voltage reading varied between 0-5 volts in step 5),
+disconnect power stage connector at ignition coil. Bend back rubber
+sleeve on connector. Check ground supply by connecting ohmmeter
+between connector terminal No. 1 and ground. See Fig. 9. Ohmmeter
+should indicate zero ohms. Check voltage supply by connecting
+
+voltmeter between terminal No. 3 and ground. Turn ignition on. Battery
+voltage should be present.
+
+Fig. 9: Identifying Power Stage Connector Terminals
+Courtesy of Volvo Cars of North America.
+8) Check power stage control signal by connecting voltmeter
+between terminal No. 4 and ground. Operate starter motor. Voltmeter
+should indicate .7-1.3 volts. If ground, voltage and control signal
+are okay, repeat test using new power stage. If ground connection and
+voltage are faulty, check wiring. If control signal is not present, go
+to next step and check ECU input and output signals.
+9) Connect Breakout Box (981 3190) and Adapter (981 3195) to
+distributor ignition ECU. See Fig. 6. Turn ignition switch to OFF
+position. Distributor ignition ECU is located in right side of engine
+compartment. Remove ECU cover. Disconnect distributor ignition ECU
+connector. Visually inspect all terminal connector sleeves to ensure
+no terminals are damaged.
+10) To install measuring unit, remove distributor ignition
+ECU. Press adapter onto distributor ignition ECU and pull lead upward
+through slot beside module. Press distributor ignition ECU, with
+adapter connected, into connector in bottom of ECU box. Connect
+measuring unit to adapter 60-pin connector.
+11) Ensure ignition is off. To check ECU input and output
+signals, connect ohmmeter between measuring unit terminal No. 20 and
+ground, then between measuring unit terminal No. 29 and ground.
+Ohmmeter should indicate about zero ohms in both cases.
+12) Ensure ignition is off. Connect ohmmeter between
+measuring unit terminals No. 20 and 2, and between measuring unit
+terminals No. 20 and 15. Ohmmeter should indicate about zero ohms in
+both cases.
+13) Ensure ignition is off. Connect voltmeter between
+measuring unit terminals No. 20 and 10. Battery voltage should be
+present. Turn ignition on. Connect voltmeter between measuring unit
+terminals No. 20 and 30. Battery voltage should be present.
+14) Check engine speed sensor signal by connecting voltmeter
+between measuring unit terminals No. 1 and 2. Operate starter motor.
+Voltmeter should indicate 300-400 millivolts. If signal is not
+present, check sensor. See code 1-3-1 diagnosis in
+G - TESTS W/CODES article in the ENGINE PERFORMANCE Section.
+If signal is present, go to next step and check Camshaft Position
+Sensor (CMP) signal.
+NOTE:
+
+Engine speed sensor is also known as Vehicle Speed Sensor
+(VSS) or impulse sensor.
+
+15) Connect voltmeter between measuring unit terminals No. 20
+and 4. Operate starter motor. Voltage should vary between 0-5 volts.
+If voltage is okay, go to next step. If voltage is not okay, connect
+voltmeter between measuring unit terminals No. 20 and 14. Voltmeter
+should indicate about 10 volts. If voltage is present, but signal is
+not present, repeat test using new CMP. If voltage is not present,
+repeat test using new ECM.
+16) If voltage was okay in step 15), connect voltmeter
+between measuring unit terminals No. 20 and 43. Operate starter motor.
+
+Voltage should indicate about 5-7 volts. If voltage is not present,
+repeat test using ECU. If voltage is present, ignition system is
+operating properly.
+
+MOTRONIC 1.8
+960 (Determining Whether Fault Is Fuel Or Ignition)
+Using a volt-meter, check voltage at injectors when engine is
+hot. If voltage is about 250-400 millivolts, fault is in ignition
+system and/or an injector is blocked.
+Checking Ground Connections
+1) Turn ignition off. Remove fuse No. 24. Connect Breakout
+Box (999-3070) to ECU. See Fig. 6. Connect ohmmeter between ground and
+terminals No. 19, 24, 26, 30 and 48. Resistance should be about zero
+ohms on all measurements.
+2) Check power unit ground connections under each power unit.
+Connect an ohmmeter between ground and terminal No. 4 on front power
+unit connector and then on rear power unit connector.
+3) Ohmmeter should indicate about zero ohms in both cases. If
+ohmmeter does not indicate about zero ohms in both cases, check
+connectors and wiring.
+Voltage Supply To Ignition Coils
+Turn ignition on. Connect volt-meter between ground and test
+terminal at rear of engine. See Fig. 10. Voltmeter should show battery
+voltage. If battery voltage is not present, check relay, wiring and
+connectors.
+
+Fig. 10: Locating Test Terminal At Rear Of Engine
+Courtesy of Volvo Cars of North America.
+Cylinder Miss
+Idle engine. Disconnect and reconnect one injector connector
+
+at a time. If engine speed drops when connector is disconnected,
+cylinder is okay.
+Checking Firing Pulse At Ignition Coil
+1) Make an adapter to fit between ignition coil connector and
+test diode (999-5280). Connect test diode. See Fig. 11.
+2) Start engine. Diode should flash if signal is present. If
+signal is present, go to step 5). If no signal is present, connect
+voltmeter between ground and control unit terminals connected to each
+ignition coil.
+3) If voltage is about 3.5 volts, an open circuit is present
+between control unit and ignition coil. If voltmeter indicates 60-100
+millivolts, connect diode tester with positive side connected to
+control unit terminal for cylinder to be checked and to terminal No. 1
+on corresponding ignition coil connector. Check components with leads
+reversed.
+4) Connect diode tester with positive side connected to
+ground and to terminal No. 1 on ignition coil connector. Check
+components with leads reversed. If fault is present, check wiring.
+5) Remove coil and plug. Install another plug in cylinder.
+Install original plug in ignition coil. Start engine and check for
+spark. If no spark is present, check whether coil or plug is faulty.
+Install plug in another coil. If spark is present, replace original
+coil. If no spark is present, replace spark plug.
+
+Fig. 11: Checking Firing Pulse At Ignition Coil
+Courtesy of Volvo Cars of North America.
+
+MOTRONIC 4.3
+
+850 Turbo (No Start)
+1) Determine if fault is fuel or ignition. Check fuel
+pressure. See FUEL PRESSURE under FUEL SYSTEM. If fuel pressure is not
+as specified, repair fuel system as necessary. If fuel pressure is as
+specified, fuel system is okay, check for spark. Go to next step.
+2) Using a high output spark tester, check for spark at end
+of one spark plug wire. If spark is not present, go to next step. If
+spark is present, remove and inspect all spark plugs. Replace spark
+plugs as necessary. Try to start engine. If engine starts, fault was
+due to spark plugs. If engine does not start, check for defective mass
+airflow sensor or coolant temperature sensor. See
+K - SENSOR RANGE CHARTS article in the ENGINE PERFORMANCE Section.
+3) Disconnect RPM sensor connector. Using an ohmmeter,
+measure resistance between sensor connector terminals. If resistance
+is 200-500 ohms, RPM sensor is okay. Go to next step. If resistance is
+not 200-500 ohms, replace RPM sensor.
+4) Turn ignition off. Install Breakout Box (981-3190) to ECU.
+See Fig. 6. Turn ignition on. Set DVOM scale to measure frequency.
+Connect a DVOM between terminals A21 and A42. Observe DVOM and operate
+starter motor. If frequency is 1.5-2.0 Hz, go to next step. If
+frequency is not 1.5-2.0 Hz, a fault exists in Camshaft Position (CMP)
+sensor circuit. Repair circuit or replace defective CMP sensor and
+retest.
+5) Turn ignition off. Disconnect ignition coil 4-pin
+connector. Measure voltage between ground and terminal No. 3 of
+ignition coil connector. See Fig. 12. If battery voltage is present,
+go to next step. If battery voltage is not present, check No. 4 fuse.
+Replace fuse as necessary. If fuse is okay, locate and repair open in
+wire between terminal No. 3 of ignition coil connector and fuse No. 4.
+
+Fig. 12: Identifying Ignition Coil Connector Terminals (850 Turbo)
+Courtesy of Volvo Cars of North America.
+6) Turn ignition off. Wait 90 seconds. Measure resistance
+between ground and terminal No. 1 of ignition coil connector. See
+
+Fig. 12. If resistance is zero ohms, go to step 8). If resistance is
+not zero ohms, go to next step.
+7) Turn ignition off. Disconnect and inspect ignition coil 4pin connector. Clean or repair connector as necessary. Measure
+resistance between ground and terminal No. 1 of coil connector. See
+Fig. 12. If resistance is zero ohms, cleaning ignition coil connector
+corrected fault. If resistance is not zero ohms, locate and repair
+open in terminal No. 1 wire.
+8) Turn ignition on. Set DVOM scale to measure frequency.
+Measure frequency between ground and terminal No. 4 of ignition coil
+connector while operating starter motor. See Fig. 12. If frequency is
+8-10 Hz, circuit is okay. Go to step 11). If frequency is not 8-10 Hz,
+go to next step.
+9) Turn ignition on. Measure voltage between ground and
+terminal No. 4 of ignition coil connector. If voltage is 0-1 volt, go
+to next step. If voltage is not 0-1 volt, check wire between terminal
+No. 4 of coil connector and terminal B11 of ECM connector for short to
+voltage. Repair as necessary.
+10) Turn ignition off. Wait 90 seconds. Disconnect ECM
+connector. Measure resistance between ground and terminal No. 4 of
+ignition coil connector. See Fig. 12. If resistance is infinite, check
+for intermittent open in wire between terminal No. 4 of coil connector
+and terminal B11 of ECM connector. If resistance is not infinite,
+check for short to ground in wire between terminal No. 4 of coil
+connector and terminal B11 of ECM connector.
+11) Turn ignition off. Connect ignition coil connector. Turn
+ignition on. Disconnect coil wire from distributor cap. Hold end of
+coil wire about 3-5 mm from ground. Operate starter and check for
+spark. If spark is present, go to next step. If spark is not present,
+replace ignition coil and retest.
+12) Reconnect ignition coil wire. Try to start engine. If
+engine starts, fault was due to poor connection at ignition coil. If
+engine does not start, check distributor cap and rotor for cracks,
+moisture or dirt. Repair as necessary.
+
+IDLE SPEED & IGNITION TIMING
+If adjustable, ensure idle speed and ignition timing are set
+to specification. See IDLE SPEED & CO LEVEL and IGNITION TIMING
+tables. For idle speed adjustment procedures, see D - ADJUSTMENTS
+article in the ENGINE PERFORMANCE Section. Ignition timing is
+not adjustable.
+IDLE SPEED & CO LEVEL TABLE (1)
+
+
+
+Application
+
+Idle RPM
+
+(2) CO Level
+
+850 ................. (3) 850 ....... (3)
+940
+Non-Turbo ............ 775 .............
+Turbo ................ 750 .............
+960 ................... 750 .............
+
+.2-.8%
+.4-.8%
+.4-.8%
+.4-.8%
+
+(1) - Idle speed and CO level can only be checked,
+not adjusted.
+(2) - Measured upstream of catalytic converter with
+oxygen sensor connected.
+(3) - With cooling fan off.
+
+
+
+IGNITION TIMING TABLE (Degrees BTDC @ RPM)
+
+
+
+Application
+
+(1) Timing
+
+850
+Non-Turbo ........................ 8-12 @ 750-850
+Turbo ............................. 4-8 @ 750-850
+940
+Non-Turbo
+EZ 116K (Bosch) .................... 12 @ 725-825
+REX-I (Bendix) ..................... 10 @ 725-825
+Turbo .................................. 12 @ 750
+960 ...................................... 5 @ 750
+(1) - Ignition timing is computer-controlled and
+is not adjustable.
+
+
+SUMMARY
+
+If no faults were found while performing BASIC DIAGNOSTIC
+PROCEDURES, proceed to appropriate G - TESTS W/ CODES article in the
+ENGINE PERFORMANCE Section, see below. If no hard codes are found in
+self-diagnostics, proceed to H - TESTS W/O CODES article in the
+ENGINE PERFORMANCE Section for diagnosis by symptom (i.e., ROUGH IDLE,
+NO START, etc.) or intermittent diagnostic procedures.
+*
+*
+*
+*
+
+G
+G
+G
+G
+
+-
+
+TESTS
+TESTS
+TESTS
+TESTS
+
+W/CODES - NON-TURBO
+W/CODES - TURBO
+W/CODES
+W/CODES
+
+

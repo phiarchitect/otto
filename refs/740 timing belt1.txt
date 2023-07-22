@@ -1,0 +1,563 @@
+A Step-by-Step Guide to Changing the Timing Belt
+on the 240/740/940 Volvo, B230 Engine
+Free!
+
+Pay $6 only if it saved you money!
+
+Volvo 5284 crankshaft pulley holder tool in use.
+
+Additional instructions
+• Appendix A: Replacing tensioner roller, with instructions for making a jig to pin
+the tensioner spring
+• Appendix B: Replacing overhead camshaft seal, intermediate shaft seal, and
+crankshaft seal
+
+© 2008 by Frederick Su. A bytewrite LLC publication.
+
+page -1
+
+© 2008 by Frederick Su. All rights reserved.
+A bytewrite LLC publication.
+www.stepbystepvolvo.com
+www.bytewrite.com
+
+page 0
+
+Introduction
+The timing belt should be replaced every 50,000 miles.
+The B230 engine is a non-interference engine, meaning if the timing belt breaks, the valves will not
+impact the pistons, causing great damage, headaches, and great loss of money and time. Still, if the
+timing belt breaks, it will leave you stranded.
+Test: Remove the oil filler cap. While an assistant hits ignition “Start,” see if the overhead camshaft
+rotates. If the camshaft does not rotate, then most likely it is a broken timing belt.
+
+Volvo 5284 crankshaft
+pulley holder tool
+
+On the B230 series (240 late models/740/940 Volvo) engines, the
+crankshaft pulley is held in place by a highly torqued crankshaft bolt
+(unlike the lightly torqued 6 fasteners on the non-B230 engines of
+the 240 Volvo). This crankshaft bolt is difficult to loosen and remove
+unless you have the special crankshaft pulley holder tool shown at
+left. (Some die-hards prefer to remove the starter motor and have an
+assistant jam a heavy screwdriver into the flywheel teeth to stop the
+crankshaft pulley from moving while loosening the crankshaft pulley
+bolt. But this requires another person to help, adds extra work, and
+may damage the flywheel teeth.) Having the Volvo 5284 tool makes
+changing the timing belt a lot easier and is easily worth the $48 cost
+(www.ipdusa.com). Moreover, while it isn’t exactly necessary to
+remove the crankshaft pulley bolt with a torque wrench (you will
+need a long-handled wrench, cheater bar, and muscle power), you
+do need a torque wrench to properly set the tension on the crankshaft pulley bolt on installation and to set proper torque on the overhead camshaft and intermediate shaft pulley bolts if you decide to
+replace the oil seals.
+
+Other replacements: Replace all the accessory drive belts. Usually, the tensioner roller should be
+replaced (Appendix A) every other time the timing belt is changed. Check that it spins freely with
+no noise. Also, check to see that there are no oil leaks around any pulleys. If there are no leaks, you
+may skip oil seal replacement. But the standard recommendation is to change the oil seals
+(Appendix B) every other time the timing belt is changed. Some people replace everything as a
+matter of course, every time. It’s up to you.
+Caveats: I’ve read of other people who have used (a) an impact wrench or (b) a long-handled
+wrench set hard against an obstruction, then hitting ignition “Start” to turn the crankshaft to loosen the bolt. Realize that the crankshaft pulley boss (the gear) is not as hardy as the old one on nonB230 engines, and its locking knob (for the crankshaft pulley/vibration dampener) may break off.
+Also, one DIY’er used an impact wrench to tighten the camshaft bolt and broke it off.
+
+page 1
+
+Disassembly
+These instructions were derived from a 1987 740 Turbo, B230 FT. Your vehicle may differ somewhat. For
+instance, some of the bolt sizes differ on the 940.
+To begin with, drive the car up on ramps, chock the rear wheels, set emergency handbrake. Put car in neutral for manual transmission vehicles, Park for automatic transmission. Remove the underbelly pan. (Why?
+Because it’s easier to work underneath the car when pulling the crankshaft pulley.)
+
+alt e rn at o r
+AC
+
+Disconnect battery ground because you’ll be working around some electrical
+components such as the alternator and air conditioning compressor.
+Note accessory belt positions:
+(a) middle groove of crankshaft pulley connects to
+front groove of alternator pulley
+(b) front groove of crankshaft pulley to front
+groove of air conditioning compressor pulley
+(c) back groove of crankshaft pulley to back groove
+of waterpump pulley and only groove of power
+steering pulley
+
+Figure 1. Take off the fan/clutch
+assembly by removing the 4 10-mm nuts.
+Pull assembly out.
+
+Figure 2. Remove the two 8-mm fasteners
+atop the fan shroud. Pull fan shroud out.
+Now you have more working room. (Some
+engines are different and may have more
+working room as a matter of design.)
+
+page 2
+
+Figure 3. Remove all of the fasteners for the
+upper timing belt cover, as shown. During reassembly, this diagram will guide you as to which
+fastener goes where.
+
+Figure 4. Upper timing belt cover removed. Note
+waterpump/power steering belt hanging over the
+alternator and air conditioning compressor belts.
+(Arrow shows power steering pulley.)
+
+power steering
+pulley
+
+page 3
+
+Figure 5. Use a 24 mm socket on the crankshaft
+bolt to rotate the crankshaft clockwise so as to . . .
+
+Figure 6. . . . align dot of overhead camshaft gear
+with nub on back timing belt plate.
+
+Figure 7. Remove the 17 mm nut and washer
+from the tensioner. Slip top of crankshaft pulley
+holder onto tensioner bolt, install the 17 mm nut,
+and finger tighten. Next, make sure the prongs on
+the bottom of holder catches the holes in the
+crankshaft gear/vibration dampener (hereafter
+called just crankshaft gear or pulley), turning the
+crankshaft with the 24 mm socket, if needed.
+Once the prongs catch, tighten the 17 mm nut on
+the tensioner.
+
+page 4
+
+Figure 8. Use a long-handled wrench with a cheater bar (iron pipe) and 24 mm socket to break free
+(counterclockwise) the crankshaft bolt. Remove
+the bolt.
+[Also, if you plan to replace the overhead camshaft
+seal, now is the time to break free the 17 mm bolt
+holding the overhead cam gear in place.]
+Next, in order to pull the crankshaft pulley off, you
+will most likely need to loosen and remove the
+alternator and AC compressor belts.
+
+alternator
+
+alternator
+
+(a)
+
+AC compressor
+(b)
+
+AC compressor
+
+Figure 9. To slip the alternator and AC belts off,
+first loosen the 13 mm hold-down nuts [arrows
+in (a)] for alternator and AC. Loosen (CCW) the
+10 mm tensioning bolts [arrows in (b)] for both.
+You may also have to loosen the 13 mm pivoting
+bolt and nut [arrows in (c)] of the alternator and
+AC. Slip belts off pulleys. (I had to remove the
+whole tightening assembly for the alternator,
+allowing the alternator to lean against the AC
+compressor. Only then could I get the alternator
+belt off.)
+
+(c)
+
+page 5
+
+Figure 10. Without the belt tension, the crankshaft pulley should be easy to remove. Grab the
+pulley on opposite sides with both hands and
+rock it back and forth while pulling. If it is difficult
+to get off, gently pry in back with a flat-bladed
+screwdriver.
+
+Figure 11. With the crankshaft pulley off, the
+front crankshaft shim and crankshaft end are
+exposed. (Note the oily residue at bottom of
+photo, which indicates a leaky crankshaft seal.)
+
+Figure 12. Remove the lower timing belt cover by
+extracting the 10 mm, 1.5" long bolt on the left
+and the 12 mm, 1.5" bolt on the right.
+
+page 6
+
+(b)
+
+(a)
+
+Figure 13. (a) Use a large pliers to squeeze the tensioner spring and insert a pin into the hole of the guide
+rod (b). Once the guide rod is pinned in place, compressing the spring, slip the old belt off. [If you are
+replacing the tensioner (Appendix A), pull that off now. Also, save old belt if you are replacing the oil seals.
+Why? See Appendix B.]
+
+overhead
+camshaft
+pulley
+
+tensioner roller
+aka tensioner
+tensioner
+guide rod
+
+intermediate
+or auxiliary shaft
+pulley
+tensioner
+spring
+crankshaft
+rear shim
+crankshaft
+pulley boss
+crankshaft
+front shim
+
+Figure 14. Everything exposed in all its glory!
+
+page 7
+
+crankshaft
+
+If you choose to not replace the tensioner or the front oil seals, then go to Figure 15. Otherwise,
+to replace the tensioner, see Appendix A. To replace the oil seals, go to Appendix B.
+Figure 15. On the B230 engine, the
+crankshaft pulley is composed of an inner and
+outer pulley with rubber sandwiched between
+them to help dampen engine vibration. Over time,
+the rubber deteriorates and the inner and outer
+pulleys tend to rotate independently. When you
+put a timing light on the crankshaft pulley, the
+marks will seem to “run,” rather than stay in one
+place. [If the pulleys are completely independent,
+the rotational energy of the crankshaft (inner
+pulley) will not be transmitted to the outer pulley,
+and thus the accessory pulleys: waterpump, alternator, power steering, and air conditioning. Failure
+of the waterpump pulley will seize your engine up;
+failure of the alternator will mean your fuel injection will not work.]
+
+crankshaft pulley/vibration dampener
+
+Shown: old OEM.
+Replacement part:
+Scantech. ~$80 from IPD.
+
+Once off the crankshaft, check to see that the
+inner and outer pulleys still turn together as one
+unit and that there is no play when you rock the
+two pulleys side to side. If fine, re-use. Otherwise,
+replace.
+
+See http://auto.howstuffworks.com/engine1.htm
+for a nice graphic of how the gasoline internal
+combustion engine works.
+
+Also, while on engine, make sure that the tensioner roller spins freely with no noise. If it’s stiff or
+noisy, replace (Appendix A).
+Figure 16. Most likely, if you had rotated
+the crankshaft per Figure 6, your alignment marks
+should align per A, B, and C of this figure. That is,
+A = dot on overhead camshaft pulley aligns to
+nub on rear plate, B = dot on intermediate shaft
+gear to nub on rear plate, and C = notch on front
+crankshaft shim to ridge on front of engine. (Also
+refer to Figure 18.)
+
+If you have trouble aligning the marks per A, B,
+and C, then your timing belt has slipped. Not to
+worry; just make sure that these marks are
+aligned when you put on the new belt.
+Clean area around C with solvent-soaked rag.
+
+page 8
+
+Reassembly
+Your new timing belt should have three marks: two single line marks align to the overhead camshaft and
+intermediate shaft respectively while the double line mark aligns to the crankshaft. The closest single line
+mark to the double line mark is that for the intermediate shaft, as shown in Figure 17.
+
+double line
+mark to
+crankshaft
+
+There is more than one method to install the timing belt. I prefer the following technique.
+
+single line
+mark to
+intermediate
+shaft
+
+1. First, pin the tensioner spring, per Figure
+13b.
+2. Next, slip new belt over the crankshaft pulley
+boss, with the double lines of belt on left side of
+crankshaft pulley boss. Forget about the double
+lines for now, and instead, align the crankshaft
+per Figure 18C, notch of front crankshaft shim to
+nub on front of engine. (Disregard fact that
+crankshaft pulley has been installed in this photo;
+I forgot to take a photo with pulley off.)
+
+~26 cm
+
+Figure 17.
+
+Figure 18.
+
+overhead
+(A)
+
+intermediate
+(B)
+3. Pull the belt up and around the intermediate shaft pulley
+and align the single line mark to the dot on the wheel and
+background nub at 3:00 per Figure 18B. This single line mark
+is about 26 cm from the double line mark (Figure 17). [It
+helps to mark the front edge of the belt adjacent to the line,
+as shown in Figures 18A and B.]
+
+crankshaft
+(C)
+
+A useful marking tool is a Liquid
+Paper All Purpose Correction Pen,
+especially for marking the background ridge for Figure 18C.
+
+Once you align the single line mark to the intermediate shaft,
+then pull and stretch underside of belt tightly over the crankshaft pulley boss and over the tensioner roller. Then, pull the
+upper side of belt onto overhead camshaft gear such that the
+other single line mark lines up to the dot on the overhead
+camshaft gear and to the background nub on the rear plate,
+per Figure 18A. You may have to rotate the intermediate
+shaft either counterclockwise or clockwise, as needed, to
+align the teeth so as to ease the belt onto the overhead camshaft sprocket. Adjustment may also be needed at the crankshaft pulley boss.
+page 9
+
+4. Pull the pin to release the tensioner spring and
+install washer and 17 mm nut on the tensioner.
+Tighten. (Figure 19.)
+5. Temporarily install the crankshaft pulley per
+Figure 20, making sure the notch on back of
+crankshaft pulley locks onto the knob (arrow) of
+the crankshaft pulley boss. Insert bolt and tighten
+a bit. (You’re installing the crankshaft pulley here
+because you may need to use the pulley holder to
+remove the bolt after doing rotation of step 6.)
+At this point, you can doublecheck that
+the double lines on the timing belt align
+to the u-notch on the front shim of the
+crankshaft pulley by turning the crankshaft
+gear counterclockwise ~60 degrees or so (if
+I remember right). It should align per Figure
+21 if alignments of Figure 18A and C were
+correctly made.
+
+Figure 19.
+
+Figure 21. (The pulley is
+off for photo purposes.)
+
+Figure 20.
+
+6. If you checked alignment per Figure 21, use the 24 mm socket wrench turn the crankshaft back to position of Figure 18C. Now turn the crankshaft pulley 2X (i.e., 720°) clockwise and observe if the belt stays
+on the tensioner roller and all gears. (See sidebar next page.) If it does, doublecheck and triplecheck that
+all the alignment marks of pulleys to background marks of Figure 16 (or Figures 18A, B, and C) still hold.
+Failure of alignment here means re-doing this whole process again later. (We do not care about the
+alignment marks on the belt. They were only useful for the initial alignment and are nearly impossible to
+align again to the pulleys.) If pulley marks align to background, then pull the crankshaft pulley off (you
+may have to use the crankshaft pulley holder to loosen bolt).
+7. Install the lower timing belt cover. Refer to Figure 12 for correct bolts. Also, the bolts go through the
+holes for the back cover plate (Figure B19, Appendix B).
+8. Put the crankshaft pulley back on, making sure the notch locks onto knob per Figure 20, and insert the
+pulley bolt. Set up the crankshaft pulley holder and torque the crankshaft pulley bolt to 44 ft-lbs.
+page 10
+
+9. After setting initial torque of 44 ft-lbs, make a
+vertical mark on the crankshaft bolt at 12:00
+(Figure 22). The Bentley manual says that the
+correct torque means another 60 degrees of
+turning clockwise. I then used a torque wrench
+set at 150 ft-lbs and was only able to turn the
+bolt through ~40 degrees. Next, I used a longhandled wrench with cheater bar (Figure 23), but
+was only successful in turning the bolt an additional 8 degrees for a total of about 48 degrees
+(Figure 24). Good enough for me!
+
+Figure 22.
+10. Remove the pulley holder and replace with
+washer and 17 mm nut on tensioner roller. Tighten. Hook up battery ground cable. With everything out of the way, have someone start the
+engine and run it for 30 seconds to check that
+everything works. After engine stops, check for
+oil leaks.
+
+Tightening torques:
+• crankshaft bolt: 44 ft-lbs + 60°
+• tensioner nut: 37 ft-lbs
+Tensioner roller: Beware of no-name
+tensioners, most likely made in China. My new
+no-name tensioner’s hanging plate pulled away
+from the roller bearing. Buy OEM or aftermarket European makes, such as INA.
+
+Figure 23.
+
+Problem: Using the new INA tensioner roller, I
+could not get the belt to stay on the overhead
+camshaft gear and roller when I rotated the
+crankshaft 720°. The old roller’s hanger plate
+had a slight bend to it while the new one did
+not. A professional mechanic said the hanger
+plate is supposed to be flat and that something is out of alignment. I couldn’t figure out
+the alignment problem (it being late fall) and
+resorted to reusing the old tensioner.
+
+Figure 24.
+page 11
+
+11. If everything checks out, disconnect battery ground. (You’ll be working around the alternator.)
+12. Slip new accessory belts onto grooves of crankshaft pulley and corresponding slave pulleys:
+But first, insert the alternator and AC belts through the waterpump/power steering belt and hang the
+latter over the alternator and AC belts per Figure 25.
+(a) middle groove of crankshaft pulley connects to front groove of alternator pulley
+(b) front groove of crankshaft pulley to front groove of air conditioning compressor pulley
+(c) back groove of crankshaft pulley to back groove of waterpump pulley and only groove of power steering pulley
+
+Figure 25.
+13. Tension the alternator belt and AC belt using the nuts and bolts mentioned in Figure 9. Belts should
+depress about 5 mm in the middle when pushed with the thumb.
+14. Install upper timing belt cover. Refer to Figure 3.
+
+15. Place fan shroud in position with the lower
+tabs set into the slots of the lower radiator frame
+(arrow, Figure 26).
+
+Figure 26.
+page 12
+
+16. Slip the remaining belt over back groove of
+waterpump pulley, power steering pulley, and
+back groove of crankshaft pulley. Then, slide the
+waterpump pulley (Figure 27) over the studs of
+the waterpump. The belt is loose now, but will
+tighten as the fan/clutch assembly is installed.
+
+Figure 27.
+
+pull rag
+when done!
+
+17. Put on the fan/clutch assembly. Stuff a rag
+between the fan and radiator to help hold the
+fan in place as you tighten the 10 mm nuts
+(Figure 28). A telescoping magnet (arrow, Figure
+29) is useful for starting the nut on the stud, as
+space is cramped. Use a 10 mm wrench to tighten the nuts (Figure 30), working opposite sides as
+you go, to gradually pull the assembly firm
+against the waterpump pulley. This tightens the
+belt. Remove rag!
+18. Insert fasteners atop fan shroud. Hook up
+battery ground. Install underbelly pan. (You did
+remove the rag, right?) Start engine.
+Congratulations! You’re done!
+
+Figure 28.
+
+Figure 29.
+Figure 30.
+
+page 13
+
+Epilogue
+Test drive your car. If it feels sluggish, especially going up hills, then you may have messed up the alignment marks. You can check for correct alignment by pulling the upper timing belt cover off. Rotate the
+crankshaft so that the dot on the overhead camshaft aligns to the background mark (Figure 6). Shine a
+flashlight into the chasm of lower timing belt cover and see if the notch on the front crankshaft shim
+aligns to nub on front of engine (Figure 18C). If the marks do not align, you have no choice but to redo the
+whole procedure again.
+Once 600 miles have passed on the new belt, it needs to be tightened. Pry the rubber plug (arrow) out in
+the upper timing belt cover (Figure 31). Loosen the 17 mm nut. Using the 24 mm socket, rotate the crankshaft 1X clockwise. Tighten the 17 mm nut. Press the rubber plug back in place. You’re done until another
+49,400 miles have passed.
+
+Figure 31.
+
+page 14
+
+(Print & enclose w/order)
+If this booklet helped and saved you money, please send a $6 check, payable to bytewrite, to
+bytewrite LLC
+P.O. Box 2635
+Bellingham, WA 98227 USA
+Also, order a copy of my novel An American Sin (regularly $15, info at www.bytewrite.com)
+from your local bookstore. Or, order an autographed copy directly from the publisher and save
+20%, plus get free shipping in U.S.! You’ll be supporting a very small press and keep information
+flowing for do-it-yourselfers. Thank you! (No, you’re not required to buy the novel!)
+Name: _____________________________
+
+What do you want written in your
+autographed copy of An American Sin?
+
+Address: ____________________________
+___________________________________
+
+___________________________________
+
+____________________________________
+
+___________________________________
+
+Email: _____________________________
+
+___________________________________
+
+Date: ______________________
+
+___________________________________
+___________________________________
+
+Title
+✔
+❏
+
+❏
+
+Price
+
+Changing Timing Belt on B230 Engine & Appendices $6.00 U.S.
+(already downloaded)
+An American Sin (regular price $15;
+$12.00 U.S.
+with above paid download, it’s 20% off)
+Shipping in U.S.:
+
+Quantity
+
+Total
+
+x
+
+1
+
+=
+
+$6.00
+
+x
+
+___
+
+=
+
+_____
+
+Shipping to Canada:
+
+Free
+$4.66
+
+(outside U.S. and Canada, please email fred@bytewrite.com for shipping cost)
+Publisher pays WA State Sales Tax. Make check out to bytewrite.
+
+Grand Total:
+Thank you!
+
+page 15
+
+__________
+
+

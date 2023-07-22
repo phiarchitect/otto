@@ -1,0 +1,573 @@
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+The primary door adjustments are carried out at the hinge bolts at the forward end of each door. Further adjustment for the closed position and for latching smoothness may be made at the
+latch plate or striker. This piece is located at the rear edge of the door and is attached to the bodywork of the vehicle; it is the piece which the door engages when closed.
+Although the striker or latchplate is different on various models, the adjustment procedure is the same:
+1.
+
+Adjust the position of the door by moving the striker plate sideways.
+
+2.
+
+If further adjustments are necessary, first slacken the upper door hinge bolts, then, if necessary, the lower 2 bolts. Push the door toward the body.
+
+3.
+
+After the striker bolts have been tightened, open and close the door several times. Observe the motion of the door as it engages the striker; it should continue its straight-in motion
+and not deflect up or down as it hits the striker.
+
+4.
+
+Check the feel of the latch during opening and closing. It must be smooth and linear, without any trace of grinding or binding during engagement and release.
+
+NOTE: Never loosen more than 3 bolts at a time or the door may drop. Do not attempt to correct height variations (sag) by adjusting the striker.
+
+NOTE: It may be necessary to repeat the striker adjustment procedure several times (and possibly adjust the hinges) before the proper door-to-body
+alignment is corrected.
+Fig. 1: Door adjustment points on the front door — 700 series
+models shown, others similar
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+NOTE: The doors are heavy! Provide proper support for the door when removing. Do not allow the door to sag while partially attached and do not subject the door to
+impact or twisting movements.
+1.
+
+Disconnect the negative battery cable.
+
+2.
+
+Disconnect any wiring harnesses running into the door. This may be done either inside the door (remove the door panel) or under the dashboard, inside the pillar. Make sure the
+wiring harness will not catch or bind as the door is removed from the vehicle.
+
+3.
+
+Scribe marks around the hinges to facilitate door installation.
+
+4.
+
+Support the door with a jack. Place a piece of wood on the jack to protect the paintwork.
+
+5.
+
+Have a helper support the door, then loosen and remove the hinge mounting bolts and remove the door from the vehicle.
+
+6.
+
+With an assistant, position the door and install the hinge bolts. Do not fully tighten the hinge mounting bolts at this time.
+
+7.
+
+Check the door for proper alignment. If required, loosen the mounting bolts just enough to allow the door to be moved into position.
+
+8.
+
+Tighten all the hinge bolts and check the final fit.
+
+9.
+
+If the door stop bracket was removed, reinstall it.
+
+To install:
+
+10.
+
+Connect the wiring harness and check the function of electrical components in the door. Install the door panel if removed.
+
+11.
+
+Connect the negative battery cable.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+WARNING
+To avoid damage to the Electronic Control Module (ECM) and/or other electronic components, always disconnect the negative battery cable before using any electric welding equipment on
+the vehicle.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+1.
+
+Remove the windshield wiper arms.
+
+2.
+
+Remove the cowl trim.
+
+3.
+
+Unfasten the air inlet grille bolts and remove the grille.
+
+4.
+
+Remove the bumper end-piece, headlight and turn signal lens assemblies.
+
+5.
+
+Remove the wheel well trim.
+
+6.
+
+Remove the fender retaining bolts and carefully remove the fender from the vehicle.
+To install:
+NOTE: Before installing the retaining bolts at the wheel arch joint, apply sealer (P/N 591278-7 or equivalent).
+
+7.
+
+Install the fender into place and tighten the retaining bolts.
+
+8.
+
+Install the wheel well trim.
+
+9.
+
+Install the headlight and turn signal lens assemblies, and the bumper end-piece.
+
+10.
+
+Install the air inlet grille and tighten the retaining bolts.
+
+11.
+
+Install the cowl trim.
+
+12.
+
+Install the windshield wiper arms.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+The plastic grilles on these vehicles are retained by a variety of plastic clips and screws. With the hood raised, remove all the retaining hardware and lift the grille clear of the vehicle. Be
+careful of any wires and/or tubing running between the grille and the radiator. Do not force the grille into position or it will crack; work carefully and make sure everything lines up before
+tightening the mounting hardware.
+On some models, the grille is an integral part of the hood and removal of the hood also removes the grille. This can be verified when the hood is opened; if the grille is attached, it will raise
+with the hood.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+NOTE: Hoods can be easily damaged; take great care not to bend or dimple the hood.
+1.
+
+Front height adjustment: adjust the guide pins or rubber bump stops on the front panel.
+
+2.
+
+Left and right adjustment: loosen the hood and move the hood in the desired direction.
+
+3.
+
+Hood length: loosen the hood hinges and move the hood in the desired direction. (The hinges are provided with oval holes.)
+
+4.
+
+Rear height adjustment: adjust the hinge mountings near the wheel arch.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+1.
+
+Raise the hood.
+
+2.
+
+Disconnect any electrical or fluid lines between the hood and the body.
+
+3.
+
+Scribe marks around the hinges to facilitate hood installation. Have a helper support the hood so it doesn't damage the body during removal.
+
+4.
+
+Remove the hinge-to-hood bolts on each side and lift the hood clear of the vehicle.
+NOTE: The hood can be easily damaged; take great care not to bend or dimple the hood. Store it on pads and cover it to protect it while off the vehicle.
+To install:
+
+5.
+
+Position the hood and install the bolts just tight enough to hold it in position.
+
+6.
+
+Lower the hood and check the alignment; the gap should be even all around.
+
+7.
+
+Tighten the bolts.
+
+8.
+
+Attach any electrical connections or fluid lines which were removed.
+Fig. 1: Locate the washer jet hoses . . .
+
+Fig. 2: . . . and disconnect them
+
+Fig. 3: Remove the clips retaining the hose
+
+Fig. 4: Matchmark the hood and hinges to ease installation
+
+Fig. 5: Remove the two retaining bolts from each side and,
+with the help of an assistant, remove the hood
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+Mirror Assembly
+
+1.
+
+Remove the door panel, as described later in this section.
+
+2.
+
+Unplug the mirror electrical connector.
+
+3.
+
+Remove the trim panel and rubber cover (if equipped).
+
+4.
+
+Remove the screws and clips.
+
+5.
+
+Remove the mirror assembly.
+
+6.
+
+Position the mirror assembly.
+
+7.
+
+Tighten the screws and attach the clips.
+
+8.
+
+Install the rubber cover.
+
+9.
+
+Plug in the electrical connector.
+
+To install:
+
+10.
+
+Install the door panel.
+Fig. 1: Unplug the electrical connector
+
+Fig. 2: Remove the trim cover . . .
+
+Fig. 3: . . . to access the retaining screws
+
+Fig. 4: Remove the mirror assembly
+
+Mirror Glass
+
+1.
+
+Press on the lower edge of the mirror so that the gear is revealed in the slot in the bottom of the mirror.
+
+2.
+
+Move the cogs to the right with a small screwdriver and remove the mirror glass.
+
+3.
+
+Align the assembly lugs on the rear of the mirror glass.
+
+4.
+
+Depress the lower edge of the glass and move the cogs to the left.
+
+5.
+
+Check to ensure that the new glass is firmly installed.
+
+To install:
+
+Fig. 5: Mirror glass removal
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+The power antenna extends when the radio is turned ON. The mast will retract when the radio is turned OFF. The 700 and 900 Series vehicles have a switch that allows the antenna to be
+retracted with the radio ON. The switch will also prevent the mast from extending when the radio is first turned ON. There are 3 leads to the power antenna unit. There is a ground lead that
+is electrically connected to the chassis and a green or green and red power lead connected to the fuse box to provide operating voltage. The third lead is connected to the radio (through a
+switch for the 700 and 900 series vehicles) to provide the signal for antenna operation. When there is power on this lead, the antenna extends; when the power is removed, by turning
+OFF the radio or turning OFF the antenna switch on 700 and 900 series vehicles, the antenna retracts.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+1.
+
+Disconnect the negative battery cable.
+
+2.
+
+Remove the trim panel covering the antenna assembly.
+
+3.
+
+Disconnect the electrical leads and ground strap, if used.
+
+4.
+
+Unscrew the upper antenna retaining nut around the base on the body.
+
+5.
+
+Unbolt the antenna assembly securing fasteners.
+
+6.
+
+Remove the antenna assembly from the underside.
+
+7.
+
+Install the antenna from the underside and tighten the retaining bolts.
+
+8.
+
+Install the upper antenna retaining nut.
+
+9.
+
+Connect the electrical leads and the ground strap.
+
+To install:
+
+10.
+
+Install the trim panel.
+
+11.
+
+Connect the negative battery cable.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+1.
+
+Remove the mirror glass, as described in the previous procedure.
+
+2.
+
+Remove the retaining screws and lift out the motor.
+
+3.
+
+Unplug the electrical connector.
+
+4.
+
+Remove the motor from the vehicle.
+
+5.
+
+Plug in the electrical connector.
+
+6.
+
+Position the motor and tighten its retaining screws.
+
+7.
+
+Install the mirror glass.
+
+To install:
+
+Fig. 1: Location of the power mirror motor retaining bolts
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+The power sunroof is controlled by a switch that selects the direction of travel of the sunroof. The switch changes the polarity of the voltage going to the sunroof motor. This changes the rotation
+of the motor, thereby changing the direction of sunroof travel.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+1.
+
+Open the sunroof to the ventilation position.
+
+2.
+
+Disconnect the battery ground cable.
+
+3.
+
+Push down the sunroof headlining with a finger. Unhook the retaining springs with a bent piece of wire.
+
+4.
+
+Pull down on the headlining sufficiently to pass beneath the gutter rail. At the same time, slide the sunroof to the rear to release the catches at the front.
+
+5.
+
+Unhook the spring retaining brackets.
+
+NOTE: Do not pull the sunroof too far to the rear; otherwise, it will be difficult to remove again.
+6.
+
+Remove the retaining screws from the sides and front.
+
+7.
+
+Remove the sunroof.
+
+8.
+
+Fit the sunroof into position and install the retaining screws.
+
+9.
+
+Install the spring retaining brackets.
+
+To install:
+
+10.
+
+Slide the sunroof forward to engage the catches in the front.
+
+11.
+
+Install or reposition any trim moved for access.
+
+12.
+
+Connect the negative battery cable.
+Fig. 1: Exploded view of the sunroof assembly
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+All Models
+Both trunk lids and wagon liftgates are adjustable on their hinges due to slotted holes. The trunk lids are also adjustable by loosening the hinge-to-body bolts and repositioning the hinge
+vertically.
+Wagon liftgates have additional adjusters on the sides. Loosen their screws a few turns and close the liftgate. The adjuster should seek the correct position for smooth operation. Because of
+the curve of the body and roofline, the wagon liftgate needs to be checked carefully for alignment to the body. Seams should be straight and even, and panels should be flush with no
+obvious high or low points.
+Final adjustments are made at the latch (on the lid) and the striker (on the body). Each can be loosened and moved on its mounts to control tightness and ease of operation. It is
+recommended to start by loosening the striker only; close the lid or liftgate and let the striker seek its position. Continue adjusting until the latch has no binding in its operation, the key turns
+freely and the weatherstrip is evenly compressed around the lid/liftgate.
+
+1993 Volvo 940
+Submodel: | Engine Type: L4 | Liters: 2.3
+Fuel Delivery: FI | Fuel: GAS
+
+2 and 4-Door Models
+
+1.
+
+Open the trunk lid. Have a helper support the lid; remove the retaining clip for the gas shock (which holds the lid open) and disconnect it from the lid.
+
+2.
+
+Detach any wiring to the trunk lid at the nearest connector. Make sure the wiring will not bind when the lid is removed.
+
+3.
+
+Scribe marks around the hinges to facilitate trunk lid installation.
+
+4.
+
+Remove the bolts which hold the hinges to the trunk lid and lift the lid clear of the vehicle.
+NOTE: Trunk lids can be easily damaged; take great care not to bend or dimple the trunk lid. Store it on pads and cover it to protect it while off the
+vehicle.
+To install:
+
+5.
+
+Place the lid into position and lightly tighten the bolts until snug.
+
+6.
+
+Check the lid-to-body alignment and adjust the trunk lid as necessary.
+
+7.
+
+Final-tighten the bolts.
+
+8.
+
+Reattach the gas shock to the trunk lid and reconnect the wiring, if any.
+
+Wagon (5-Door Model)
+NOTE: Because of the size and weight of the liftgate, this procedure requires 2 people during removal and installation.
+1.
+
+Remove the inner cover panel on the liftgate.
+
+2.
+
+Detach any electrical connectors within the liftgate. Tag or identify the connectors for ease of reassembly.
+
+3.
+
+Pull the harness through the hole in the top of the liftgate.
+
+4.
+
+While your helper supports the liftgate, disconnect the gas shock(s).
+
+5.
+
+With the liftgate safely supported, remove the liftgate-to-hinge bolts on each side at the top. On the 740, one of the bolts is beneath a rubber plug which must be removed.
+
+6.
+
+Remove the liftgate from the vehicle and store it on pads.
+
+7.
+
+Place the liftgate into position and loosely tighten the bolts until snug.
+
+8.
+
+Check the alignment of the liftgate in relation to the body, and adjust it as necessary.
+
+9.
+
+When the alignment is correct, final-tighten the hinge bolts. Left-right alignment is critical. Take your time and work for an even fit.
+
+To install:
+
+10.
+
+Connect the gas shock(s) to the liftgate.
+
+11.
+
+Feed the wire harness through the hole at the top of the liftgate and into position.
+
+12.
+
+Connect the wires to the proper points.
+
+

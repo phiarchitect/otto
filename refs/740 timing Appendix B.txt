@@ -1,0 +1,216 @@
+Appendix B
+
+A Step-by-Step Guide to Changing the
+Front Oil Seals on the Volvo B-230 Engine
+When replacing the timing belt, check to see that there are no oil leaks around any of the pulleys.
+If no leaks, you may skip oil seal replacement. The standard recommendation is to replace the oil
+seals every other time the timing belt is changed. Some people replace everything as a matter of
+course, every time. It’s up to you.
+Keep old timing belt for use per Figure B2 and B3.
+This guide is for those of you who have chosen to replace the front oil seals.
+
+Oil seals from a Volvo dealer are expensive. IPD
+(www.ipdusa.com) sells oil seals that are reasonably priced.
+And, so far, they have worked for me.
+
+Figure B1. At the same time that you’re loosening the crankshaft bolt (using the
+Volvo 5284 crankshaft holder tool), loosen
+the 17 mm bolt (arrow) on the overhead
+camshaft.
+
+Figure B2. Or, if you forgot, you can grip both
+sides (arrows) of the old belt near the tensioner with large pliers. Simultaneously, use a
+long-handled wrench to break free the 17
+mm bolt.
+
+© 2008 by Frederick Su.
+All rights reserved.
+A bytewrite LLC publication.
+
+page B1
+
+Figure B3. Similarly for the intermediate
+shaft bolt. Hold the old belt tight with large
+pliers while breaking the 17 mm bolt free.
+
+Figure B4. Both the overhead camshaft and
+intermediate shaft gears are keyed and can
+only go on one way. You may wish to mark
+each with an “o” and “i,” respectively, to distinguish them.
+
+Figure B5. Gently pry around perimeter of
+both the overhead camshaft and intermediate
+shaft gears using a flat-bladed screwdriver.
+Pull pulleys off.
+
+page B2
+
+Figure B6. Pulleys off. (a) Overhead camshaft,
+with 2 mm thick spacer. (b) Intermediate
+shaft, no spacer. Pay attention if your engine
+has spacers behind the overhead camshaft
+and intermediate shaft pulleys. Some cars
+don’t.
+
+(a)
+
+(b)
+
+(c)
+(b)
+
+(a)
+crankshaft
+
+Figure B7. The crankshaft pulley should
+already have been removed. Now, slide off
+the front crankshaft shim [arrow (a), which
+has two notches, one on the outer circumference for marking Top Dead Center (TDC) and
+one on the inner circumference for locking
+onto the knob of the crankshaft pulley boss
+(b)]. The rear crankshaft shim (c) does not
+lock onto anything. Note that for both shims,
+the concave sides face away from the timing
+belt. All three pieces should slide off the
+crankshaft easily. (Well, you might have to
+pry the pulley boss off gently with small flatbladed screwdriver.)
+
+page B3
+
+(a)
+(b)
+
+Figure B8. Front of crankshaft pulley boss.
+Arrow (a) points to ridge that locks onto
+groove in crankshaft. Arrow (b) is the knob
+where front crankshaft shim and crankshaft
+pulley locks onto.
+
+Figure B9. This photo shows all three shafts
+with the pulleys off. Pull off the back plate to
+expose the overhead camshaft seal.
+back plate
+
+Figure B10. Pry out the overhead camshaft
+seal with a small flat-bladed screwdriver. Do
+the same for the intermediate shaft seal and
+crankshaft seal.
+
+page B4
+
+Figure B11. Clean all shaft and related surfaces, including recesses where the seals sit,
+with solvent. Clean front of engine. Clean
+back plate. Deburr any rough shaft and
+recess surfaces with very fine sandpaper.
+Wipe clean.
+
+Figure B12. The front surface of the seal is
+solid while the back is grooved. Rub Vaseline
+petroleum jelly on the inner circumference
+of each seal. For the outer circumference,
+put a spot of oil on a dry cloth. Then, use
+that cloth to lightly coat the outer circumference. The petroleum jelly will ensure that
+the shaft-to-seal surface is lubricated on
+engine start-up until normal engine oil gets
+there. The lightly oiled outer circumference
+will help in pressing the seal into the recess.
+Figure B13. (a) Press each seal in by hand as
+far as possible. The seal should not seat by
+hand pressure alone. If it does, you’ve got
+too much oil on the outer circumference.
+Next, I fashioned a small piece of wood (b),
+whose contact end was carved down to fit
+the seal. I used a regular hammer to pound
+on the opposite end of the wood. Be sure to
+tap diagonally across from the previous spot.
+If the seal doesn’t move in when tapping,
+then you haven’t put enough oil on the outer
+circumference. Set the seal in about 1.5 mm
+from the front edge of lip. Use your finger to
+feel around the recess for high points.
+
+(a)
+
+(b)
+seal
+contact
+end
+page B5
+
+(b)
+
+(a)
+
+Figure B14. Photos of new seals installed on
+(a) overhead camshaft, (b) intermediate shaft,
+and (c) crankshaft.
+
+(c)
+
+notch
+
+knob
+
+Figure B15. Put on the rear crankshaft shim,
+crankshaft pulley boss (with knob showing in
+front), and front crankshaft shim, as shown.
+The pulley boss has a ridge (see Figure B8)
+that aligns to the groove in the crankshaft.
+Remember, the concave sides of the shims
+face away from the timing belt (otherwise
+the shims will rub against the belt). Also note
+that the u-shaped notch (arrow, for aligning
+TDC) of the front shim is opposite the knob
+(arrow) on the pulley boss.
+
+Tightening torque
+• overhead camshaft bolt: 37 ft-lbs.
+• intermediate shaft bolt: 37 ft-lbs.
+
+page B6
+
+Figure B16. Once the new seals are installed,
+place the clean back plate in position, as
+shown.
+
+Figure B17. Install the overhead camshaft
+gear and intermediate shaft gear as shown,
+making sure the notch on back of each gear
+is locked onto the cylindrical key. Install the
+pulley bolts finger tight. You will need to set
+up resistance in order to properly torque the
+bolts.
+
+Figure B18. Install the tensioner roller. Slip
+on the old timing belt over all the pulleys.
+Use the large pliers to hold both the underside and upper side of the old belt as shown
+while you torque the intermediate shaft bolt
+to 37 ft-lbs. You can also torque the overhead camshaft bolt now using the same
+technique, or you can wait to do the overhead camshaft bolt when the crankshaft pulley holder is in place. Slip old timing belt off.
+
+page B7
+
+Figure B19. (a) Make sure that notch of lower
+left side of the back plate slips over the metal
+lip near crankshaft, as shown. Note hole
+(arrow) for 10 mm, 1.5" long bolt.
+(b) This shows lower right side of back plate.
+Note hole (arrow) where the 12 mm, 1.5"
+long bolt goes. Refer to Figure 12 in 740 timing belt guide.
+
+(a)
+
+(b)
+
+All the front seals are now set. The overhead camshaft gear and intermediate shaft gear are in
+place, as well as the crankshaft pulley boss and shims. The intermediate shaft bolt has been
+torqued properly. The overhead camshaft bolt may or may not have been torqued yet. If not, be
+sure to torque it to 37 ft-lbs when you set up the crankshaft pulley holder to torque the crankshaft bolt.
+This ends the instructions for replacing the front seals.
+Go to Figure 15, in the main guide, to complete installation of the new timing belt.
+
+Thanks go to the tech guys at IPD for some help with questions about seal replacement.
+
+page B8
+
+

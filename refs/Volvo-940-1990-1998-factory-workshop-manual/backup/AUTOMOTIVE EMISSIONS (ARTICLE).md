@@ -1,0 +1,197 @@
+# AUTOMOTIVE EMISSIONS (ARTICLE)
+
+---
+
+The earth's atmosphere, at or near sea level, consists approximately of 78 percent nitrogen, 21 percent oxygen and 1 percent other gases. If it were possible to remain in this state, 100
+percent clean air would result. However, many varied sources allow other gases and particulates to mix with the clean air, causing our atmosphere to become unclean or polluted.
+Some of these pollutants are visible while others are invisible, with each having the capability of causing distress to the eyes, ears, throat, skin and respiratory system. Should these
+pollutants become concentrated in a specific area and under certain conditions, death could result due to the displacement or chemical change of the oxygen content in the air. These
+pollutants can also cause great damage to the environment and to the many man made objects that are exposed to the elements.
+To better understand the causes of air pollution, the pollutants can be categorized into 3 separate types, natural, industrial and automotive.
+
+---
+
+Before emission controls were mandated on internal combustion engines, other sources of engine pollutants were discovered along with the exhaust emissions. It was determined that engine
+combustion exhaust produced approximately 60 percent of the total emission pollutants, fuel evaporation from the fuel tank and carburetor vents produced 20 percent, with the final 20
+percent being produced through the crankcase as a by-product of the combustion process.
+
+---
+
+The third major source of air pollution is automotive emissions. The emissions from the internal combustion engines were not an appreciable problem years ago because of the small
+number of registered vehicles and the nation's small highway system. However, during the early 1950's, the trend of the American people was to move from the cities to the surrounding
+suburbs. This caused an immediate problem in transportation because the majority of suburbs were not afforded mass transit conveniences. This lack of transportation created an attractive
+market for the automobile manufacturers, which resulted in a dramatic increase in the number of vehicles produced and sold, along with a marked increase in highway construction between
+cities and the suburbs. Multi-vehicle families emerged with a growing emphasis placed on an individual vehicle per family member. As the increase in vehicle ownership and usage
+occurred, so did pollutant levels in and around the cities, as suburbanites drove daily to their businesses and employment, returning at the end of the day to their homes in the suburbs.
+It was noted that a smoke and fog type haze was being formed and at times, remained in suspension over the cities, taking time to dissipate. At first this "smog,'' derived from the words
+"smoke'' and "fog,'' was thought to result from industrial pollution but it was determined that automobile emissions shared the blame. It was discovered that when normal automobile
+emissions were exposed to sunlight for a period of time, complex chemical reactions would take place.
+It is now known that smog is a photo chemical layer which develops when certain oxides of nitrogen (NOx) and unburned hydrocarbons (HC) from automobile emissions are exposed to
+sunlight. Pollution was more severe when smog would become stagnant over an area in which a warm layer of air settled over the top of the cooler air mass, trapping and holding the cooler
+mass at ground level. The trapped cooler air would keep the emissions from being dispersed and diluted through normal air flows. This type of air stagnation was given the name
+"Temperature Inversion.''
+
+---
+
+Consider the internal combustion engine as a machine in which raw materials must be placed so a finished product comes out. As in any machine operation, a certain amount of wasted
+material is formed. When we relate this to the internal combustion engine, we find that through the input of air and fuel, we obtain power during the combustion process to drive the vehicle.
+The by-product or waste of this power is, in part, heat and exhaust gases with which we must dispose.
+The heat from the combustion process can rise to over 4000°F (2204°C). The dissipation of this heat is controlled by a ram air effect, the use of cooling fans to cause air flow and a liquid
+coolant solution surrounding the combustion area to transfer the heat of combustion through the cylinder walls and into the coolant. The coolant is then directed to a thin-finned, multi-tubed
+radiator, from which the excess heat is transferred to the atmosphere by 1 of the 3 heat transfer methods, conduction, convection or radiation.
+The cooling of the combustion area is an important part in the control of exhaust emissions. To understand the behavior of the combustion and transfer of its heat, consider the air/fuel charge.
+It is ignited and the flame front burns progressively across the combustion chamber until the burning charge reaches the cylinder walls. Some of the fuel in contact with the walls is not hot
+enough to burn, thereby snuffing out or quenching the combustion process. This leaves unburned fuel in the combustion chamber. This unburned fuel is then forced out of the cylinder and
+into the exhaust system, along with the exhaust gases.
+Many attempts have been made to minimize the amount of unburned fuel in the combustion chambers due to quenching, by increasing the coolant temperature and lessening the contact
+area of the coolant around the combustion area. However, design limitations within the combustion chambers prevent the complete burning of the air/fuel charge, so a certain amount of the
+unburned fuel is still expelled into the exhaust system, regardless of modifications to the engine.
+
+---
+
+In normal weather situations, surface air is warmed by heat radiating from the earth's surface and the sun's rays. This causes it to rise upward, into the atmosphere. Upon rising it will cool
+through a convection type heat exchange with the cooler upper air. As warm air rises, the surface pollutants are carried upward and dissipated into the atmosphere.
+When a temperature inversion occurs, we find the higher air is no longer cooler, but is warmer than the surface air, causing the cooler surface air to become trapped. This warm air blanket
+can extend from above ground level to a few hundred or even a few thousand feet into the air. As the surface air is trapped, so are the pollutants, causing a severe smog condition. Should
+this stagnant air mass extend to a few thousand feet high, enough air movement with the inversion takes place to allow the smog layer to rise above ground level but the pollutants still
+cannot dissipate. This inversion can remain for days over an area, with the smog level only rising or lowering from ground level to a few hundred feet high. Meanwhile, the pollutant levels
+increase, causing eye irritation, respiratory problems, reduced visibility, plant damage and in some cases, even disease.
+This inversion phenomenon was first noted in the Los Angeles, California area. The city lies in terrain resembling a basin and with certain weather conditions, a cold air mass is held in the
+basin while a warmer air mass covers it like a lid.
+Because this type of condition was first documented as prevalent in the Los Angeles area, this type of trapped pollution was named Los Angeles Smog, although it occurs in other areas
+where a large concentration of automobiles are used and the air remains stagnant for any length of time.
+
+---
+
+Crankcase emissions are made up of water, acids, unburned fuel, oil fumes and particulates. These emissions are classified as hydrocarbons (HC) and are formed by the small amount of
+unburned, compressed air/fuel mixture entering the crankcase from the combustion area (between the cylinder walls and piston rings) during the compression and power strokes. The head
+of the compression and combustion help to form the remaining crankcase emissions.
+Since the first engines, crankcase emissions were allowed into the atmosphere through a road draft tube, mounted on the lower side of the engine block. Fresh air came in through an open
+oil filler cap or breather. The air passed through the crankcase mixing with blow-by gases. The motion of the vehicle and the air blowing past the open end of the road draft tube caused a
+low pressure area (vacuum) at the end of the tube. Crankcase emissions were simply drawn out of the road draft tube into the air.
+To control the crankcase emission, the road draft tube was deleted. A hose and/or tubing was routed from the crankcase to the intake manifold so the blow-by emission could be burned with
+the air/fuel mixture. However, it was found that intake manifold vacuum, used to draw the crankcase emissions into the manifold, would vary in strength at the wrong time and not allow the
+proper emission flow. A regulating valve was needed to control the flow of air through the crankcase.
+Testing, showed the removal of the blow-by gases from the crankcase as quickly as possible, was most important to the longevity of the engine. Should large accumulations of blow-by
+gases remain and condense, dilution of the engine oil would occur to form water, soots, resins, acids and lead salts, resulting in the formation of sludge and varnishes. This condensation of
+the blow-by gases occurs more frequently on vehicles used in numerous starting and stopping conditions, excessive idling and when the engine is not allowed to attain normal operating
+temperature through short runs.
+
+---
+
+Gasoline fuel is a major source of pollution, before and after it is burned in the automobile engine. From the time the fuel is refined, stored, pumped and transported, again stored until it is
+pumped into the fuel tank of the vehicle, the gasoline gives off unburned hydrocarbons (HC) into the atmosphere. Through the redesign of storage areas and venting systems, the pollution
+factor was diminished, but not eliminated, from the refinery standpoint. However, the automobile still remained the primary source of vaporized, unburned hydrocarbon (HC) emissions.
+Fuel pumped from an underground storage tank is cool but when exposed to a warmer ambient temperature, will expand. Before controls were mandated, an owner might fill the fuel tank
+with fuel from an underground storage tank and park the vehicle for some time in warm area, such as a parking lot. As the fuel would warm, it would expand and should no provisions or area
+be provided for the expansion, the fuel would spill out of the filler neck and onto the ground, causing hydrocarbon (HC) pollution and creating a severe fire hazard. To correct this condition, the
+vehicle manufacturers added overflow plumbing and/or gasoline tanks with built in expansion areas or domes.
+However, this did not control the fuel vapor emission from the fuel tank. It was determined that most of the fuel evaporation occurred when the vehicle was stationary and the engine not
+operating. Most vehicles carry 5–25 gallons (19–95 liters) of gasoline. Should a large concentration of vehicles be parked in one area, such as a large parking lot, excessive fuel vapor
+emissions would take place, increasing as the temperature increases.
+To prevent the vapor emission from escaping into the atmosphere, the fuel systems were designed to trap the vapors while the vehicle is stationary, by sealing the system from the
+atmosphere. A storage system is used to collect and hold the fuel vapors from the carburetor (if equipped) and the fuel tank when the engine is not operating. When the engine is started, the
+storage system is then purged of the fuel vapors, which are drawn into the engine and burned with the air/fuel mixture.
+
+---
+
+The exhaust gases emitted into the atmosphere are a combination of burned and unburned fuel. To understand the exhaust emission and its composition, we must review some basic
+chemistry.
+When the air/fuel mixture is introduced into the engine, we are mixing air, composed of nitrogen (78 percent), oxygen (21 percent) and other gases (1 percent) with the fuel, which is 100
+percent hydrocarbons (HC), in a semi-controlled ratio. As the combustion process is accomplished, power is produced to move the vehicle while the heat of combustion is transferred to the
+cooling system. The exhaust gases are then composed of nitrogen, a diatomic gas (N2), the same as was introduced in the engine, carbon dioxide (CO2), the same gas that is used in
+beverage carbonation, and water vapor (H2O). The nitrogen (N2), for the most part, passes through the engine unchanged, while the oxygen (O2) reacts (burns) with the hydrocarbons (HC)
+and produces the carbon dioxide (CO2) and the water vapors (H2O). If this chemical process would be the only process to take place, the exhaust emissions would be harmless. However,
+during the combustion process, other compounds are formed which are considered dangerous. These pollutants are hydrocarbons (HC), carbon monoxide (CO), oxides of nitrogen (NOx)
+oxides of sulfur (SOx) and engine particulates.
+
+---
+
+Carbon monoxide is formed when not enough oxygen is present during the combustion process to convert carbon (C) to carbon dioxide (CO2). An increase in the carbon monoxide (CO)
+emission is normally accompanied by an increase in the hydrocarbon (HC) emission because of the lack of oxygen to completely burn all of the fuel mixture.
+Carbon monoxide (CO) also increases the rate at which the photo chemical smog is formed by speeding up the conversion of nitric oxide (NO) to nitrogen dioxide (NO2). To accomplish this,
+carbon monoxide (CO) combines with oxygen (O2) and nitric oxide (NO) to produce carbon dioxide (CO2) and nitrogen dioxide (NO2). (CO + O2+ NO = CO2+ NO2).
+The dangers of carbon monoxide, which is an odorless and colorless toxic gas are many. When carbon monoxide is inhaled into the lungs and passed into the blood stream, oxygen is
+replaced by the carbon monoxide in the red blood cells, causing a reduction in the amount of oxygen supplied to the many parts of the body. This lack of oxygen causes headaches, lack of
+coordination, reduced mental alertness and, should the carbon monoxide concentration be high enough, death could result.
+
+---
+
+Hydrocarbons (HC) are essentially fuel which was not burned during the combustion process or which has escaped into the atmosphere through fuel evaporation. The main sources of
+incomplete combustion are rich air/fuel mixtures, low engine temperatures and improper spark timing. The main sources of hydrocarbon emission through fuel evaporation on most vehicles
+used to be the vehicle's fuel tank and carburetor float bowl.
+To reduce combustion hydrocarbon emission, engine modifications were made to minimize dead space and surface area in the combustion chamber. In addition, the air/fuel mixture was
+made more lean through the improved control which feedback carburetion and fuel injection offers and by the addition of external controls to aid in further combustion of the hydrocarbons
+outside the engine. Two such methods were the addition of air injection systems, to inject fresh air into the exhaust manifolds and the installation of catalytic converters, units that are able to
+burn traces of hydrocarbons without affecting the internal combustion process or fuel economy.
+To control hydrocarbon emissions through fuel evaporation, modifications were made to the fuel tank to allow storage of the fuel vapors during periods of engine shut-down. Modifications were
+also made to the air intake system so that at specific times during engine operation, these vapors may be purged and burned by blending them with the air/fuel mixture.
+
+---
+
+Normally, nitrogen is an inert gas. When heated to approximately 2500°F (1371°C) through the combustion process, this gas becomes active and causes an increase in the nitric oxide
+(NO) emission.
+Oxides of nitrogen (NOx) are composed of approximately 97–98 percent nitric oxide (NO). Nitric oxide is a colorless gas but when it is passed into the atmosphere, it combines with
+oxygen and forms nitrogen dioxide (NO2). The nitrogen dioxide then combines with chemically active hydrocarbons (HC) and when in the presence of sunlight, causes the formation of photochemical smog.
+
+Ozone
+To further complicate matters, some of the nitrogen dioxide (NO2) is broken apart by the sunlight to form nitric oxide and oxygen. (NO2+ sunlight = NO + O). This single atom of oxygen then
+combines with diatomic (meaning 2 atoms) oxygen (O2) to form ozone (O3). Ozone is one of the smells associated with smog. It has a pungent and offensive odor, irritates the eyes and lung
+tissues, affects the growth of plant life and causes rapid deterioration of rubber products. Ozone can be formed by sunlight as well as electrical discharge into the air.
+The most common discharge area on the automobile engine is the secondary ignition electrical system, especially when inferior quality spark plug cables are used. As the surge of high
+voltage is routed through the secondary cable, the circuit builds up an electrical field around the wire, which acts upon the oxygen in the surrounding air to form the ozone. The faint glow
+along the cable with the engine running that may be visible on a dark night, is called the "corona discharge.'' It is the result of the electrical field passing from a high along the cable, to a low
+in the surrounding air, which forms the ozone gas. The combination of corona and ozone has been a major cause of cable deterioration. Recently, different and better quality insulating
+materials have lengthened the life of the electrical cables.
+Although ozone at ground level can be harmful, ozone is beneficial to the earth's inhabitants. By having a concentrated ozone layer called the "ozonosphere,'' between 10 and 20 miles (16
+–32 km) up in the atmosphere, much of the ultra violet radiation from the sun's rays are absorbed and screened. If this ozone layer were not present, much of the earth's surface would be
+burned, dried and unfit for human life.
+
+---
+
+Oxides of sulfur (SOx) were initially ignored in the exhaust system emissions, since the sulfur content of gasoline as a fuel is less than 1 ⁄ 10 of 1 percent. Because of this small amount, it
+was felt that it contributed very little to the overall pollution problem. However, because of the difficulty in solving the sulfur emissions in industrial pollutions and the introduction of catalytic
+converter to the automobile exhaust systems, a change was mandated. The automobile exhaust system, when equipped with a catalytic converter, changes the sulfur dioxide (SO2) into
+sulfur trioxide (SO3).
+When this combines with water vapors (H2O), a sulfuric acid mist (H2SO4) is formed and is a very difficult pollutant to handle since it is extremely corrosive. This sulfuric acid mist that is
+formed, is the same mist that rises from the vents of an automobile battery when an active chemical reaction takes place within the battery cells.
+When a large concentration of vehicles equipped with catalytic converters are operating in an area, this acid mist may rise and be distributed over a large ground area causing land, plant,
+crop, paint and building damage.
+
+---
+
+A certain amount of particulate matter is present in the burning of any fuel, with carbon constituting the largest percentage of the particulates. In gasoline, the remaining particulates are the
+burned remains of the various other compounds used in its manufacture. When a gasoline engine is in good internal condition, the particulate emissions are low but as the engine wears
+internally, the particulate emissions increase. By visually inspecting the tail pipe emissions, a determination can be made as to where an engine defect may exist. An engine with light gray
+or blue smoke emitting from the tail pipe normally indicates an increase in the oil consumption through burning due to internal engine wear. Black smoke would indicate a defective fuel
+delivery system, causing the engine to operate in a rich mode. Regardless of the color of the smoke, the internal part of the engine or the fuel delivery system should be repaired to prevent
+excess particulate emissions.
+Diesel and turbine engines emit a darkened plume of smoke from the exhaust system because of the type of fuel used. Emission control regulations are mandated for this type of emission
+and more stringent measures are being used to prevent excess emission of the particulate matter. Electronic components are being introduced to control the injection of the fuel at precisely
+the proper time of piston travel, to achieve the optimum in fuel ignition and fuel usage. Other particulate after-burning components are being tested to achieve a cleaner emission.
+Good grades of engine lubricating oils should be used, which meet the manufacturer's specification. Cut-rate oils can contribute to the particulate emission problem because of their low
+flash or ignition temperature point. Such oils burn prematurely during the combustion process causing emission of particulate matter.
+The cooling system is an important factor in the reduction of particulate matter. The optimum combustion will occur, with the cooling system operating at a temperature specified by the
+manufacturer. The cooling system must be maintained in the same manner as the engine oiling system, as each system is required to perform properly in order for the engine to operate
+efficiently for a long time.
+
+---
+
+Industrial pollution is caused primarily by industrial processes, the burning of coal, oil and natural gas, which in turn produce smoke and fumes. Because the burning fuels contain large
+amounts of sulfur, the principal ingredients of smoke and fumes are sulfur dioxide and particulate matter. This type of pollutant occurs most severely during still, damp and cool weather,
+such as at night. Even in its less severe form, this pollutant is not confined to just cities. Because of air movements, the pollutants move for miles over the surrounding countryside, leaving
+in its path a barren and unhealthy environment for all living things.
+Working with Federal, State and Local mandated regulations and by carefully monitoring emissions, big business has greatly reduced the amount of pollutant introduced from its industrial
+sources, striving to obtain an acceptable level. Because of the mandated industrial emission clean up, many land areas and streams in and around the cities that were formerly barren of
+vegetation and life, have now begun to move back in the direction of nature's intended balance.
+
+---
+
+Natural pollution has been present on earth since before man appeared and continues to be a factor when discussing air pollution, although it causes only a small percentage of the overall
+pollution problem. It is the direct result of decaying organic matter, wind born smoke and particulates from such natural events as plain and forest fires (ignited by heat or lightning), volcanic
+ash, sand and dust which can spread over a large area of the countryside.
+Such a phenomenon of natural pollution has been seen in the form of volcanic eruptions, with the resulting plume of smoke, steam and volcanic ash blotting out the sun's rays as it spreads
+and rises higher into the atmosphere. As it travels into the atmosphere the upper air currents catch and carry the smoke and ash, while condensing the steam back into water vapor. As the
+water vapor, smoke and ash travel on their journey, the smoke dissipates into the atmosphere while the ash and moisture settle back to earth in a trail hundreds of miles long. In some
+cases, lives are lost and millions of dollars of property damage result.
+
