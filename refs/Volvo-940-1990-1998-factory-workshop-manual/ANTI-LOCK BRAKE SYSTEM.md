@@ -1,286 +1,258 @@
 # ANTI-LOCK BRAKE SYSTEM
 
----
-
 ## Bleeding the ABS Brake System
 
-
-The ABS system is bled the same way as a conventional system; refer to Bleeding the Brake System, earlier in this section.
-Brake Specifications
-
----
+The ABS system is bled the same way as a conventional system; refer to Bleeding
+the Brake System, earlier in this section.  Brake Specifications
 
 ## Troubleshooting and Inspection Steps for ABS System Faults
 
-
 1990–93 Vehicles
-The Control Unit (CU) contains a monitoring circuit to detect any internal faults within the control unit, as well as electrical faults in the sensors, solenoids, modulator unit, etc.
-If the monitoring circuit detects a fault, the control unit will disable the ABS system and light the warning lamp on the dashboard. If the light comes on during vehicle operation, perform the
-following checks. All tests must be performed, in order.
-1.
 
-Remove the soundproofing under the left side of the dashboard. Inspect the 10 amp fuse on the transient surge protector, located adjacent to the ABS control unit.
+The Control Unit (CU) contains a monitoring circuit to detect any internal
+faults within the control unit, as well as electrical faults in the sensors,
+solenoids, modulator unit, etc.
 
-2.
+If the monitoring circuit detects a fault, the control unit will disable the ABS
+system and light the warning lamp on the dashboard. If the light comes on during
+vehicle operation, perform the following checks. All tests must be performed, in
+order.
 
-Check all connectors, wires and ground connections for the ABS system. Inspect the connectors at each component.
+1.  Remove the soundproofing under the left side of the dashboard. Inspect the
+    10 amp fuse on the transient surge protector, located adjacent to the ABS
+    control unit.
 
-3.
+2.  Check all connectors, wires and ground connections for the ABS system.
+    Inspect the connectors at each component.
 
-Insure that the ignition is switched OFF.
-A.
+3.  Insure that the ignition is switched OFF.
+    
+    A.  At the CU under the dashboard, depress the lock spring and swing out the
+    connector, disconnecting it from the CU.
 
-At the CU under the dashboard, depress the lock spring and swing out the connector, disconnecting it from the CU.
 
-B.
 
-Remove the cover from the connector. Remove the white protective moldings from the sides of the connector.
+    B.  Remove the cover from the connector. Remove the white protective
+    moldings from the sides of the connector.
 
-C.
 
-Use an ohmmeter to check ground circuits. Terminal numbers are stamped into the side of the connector. The ABS wiring grounds at the left A-pillar. Test between
-ground and terminals 10, 20, 32 and 34.
+    C.  Use an ohmmeter to check ground circuits. Terminal numbers are stamped
+    into the side of the connector. The ABS wiring grounds at the left A-pillar.
+    Test between ground and terminals 10, 20, 32 and 34.
+
 NOTE: Never check connectors from the front or terminal side; damage may be caused. Always check through the holes in the side of the
 connector without using excessive force to make contact.
 
-4.
+4.  
 
 5.
 
-D.
 
-Resistance should be 0 ohms in all cases. If any other reading is encountered, check for damaged wiring or improper connections. Wires are grounded on the left
-A-post.
+    D.  Resistance should be 0 ohms in all cases. If any other reading is
+    encountered, check for damaged wiring or improper connections. Wires are
+    grounded on the left A-post.
 
-E.
 
-If a fault is found at terminal 32, replace the solenoid relay on the hydraulic modulator and retest.
+    E.  If a fault is found at terminal 32, replace the solenoid relay on the
+    hydraulic modulator and retest.
 
 Check the transient surge protector:
-A.
 
-Turn the ignition switch ON.
+    A.  Turn the ignition switch ON.
 
-B.
 
-Connect a voltmeter between ground and terminal 1 on the control unit connector; 12 volts should be present.
+    B.  Connect a voltmeter between ground and terminal 1 on the control unit
+    connector; 12 volts should be present.
 
-C.
 
-If no voltage is present, measure voltage directly at the transient surge protector connector. Terminals 1, 2 and 4 should be energized and terminal 3 should be
-grounded.
+    C.  If no voltage is present, measure voltage directly at the transient
+    surge protector connector. Terminals 1, 2 and 4 should be energized and
+    terminal 3 should be grounded.
 
-D.
 
-If only terminal 1 and 4 are energized when terminal 3 is grounded, the transient surge protector has failed and must be replaced.
+    D.  If only terminal 1 and 4 are energized when terminal 3 is grounded, the
+    transient surge protector has failed and must be replaced.
 
 Check the power supply to the control unit connector:
-A.
 
-Connect the voltmeter to a known good ground. Depress the brake pedal and at the same time, connect the meter to terminals 25, 27, 28 and 29.
+    A.  Connect the voltmeter to a known good ground. Depress the brake pedal
+    and at the same time, connect the meter to terminals 25, 27, 28 and 29.
 
-B.
 
-The voltmeter should read 12 volts at all terminals, except terminal 29.
+    B.  The voltmeter should read 12 volts at all terminals, except terminal 29.
 
-C.
 
-Voltage should read 0.5 — 1.0 volt at terminal 29.
+    C.  Voltage should read 0.5 — 1.0 volt at terminal 29.
 
-6.
 
-Start the engine. The voltmeter should read 12 volts at terminal 25.
+6.  Start the engine. The voltmeter should read 12 volts at terminal 25.
 
-7.
+7.  If no voltage or incorrect voltage is found in the above tests, proceed as
+    follows. For a problem at:
 
-If no voltage or incorrect voltage is found in the above tests, proceed as follows. For a problem at:
-A.
+    A.  Terminal 25: Check brake lamp switch and replace if needed. Inspect
+    brake light bulbs and replace as needed.
 
-Terminal 25: Check brake lamp switch and replace if needed. Inspect brake light bulbs and replace as needed.
 
-B.
+    B.  Terminal 27: Replace defective solenoid relay.
 
-Terminal 27: Replace defective solenoid relay.
 
-C.
+    C.  Terminal 28: Replace defective pump relay.
 
-Terminal 28: Replace defective pump relay.
 
-D.
+    D.  Terminal 29: If reading at 27 is correct, voltage at 29 should be
+    0.5–1.0 volts. If not, replace solenoid relay.
 
-Terminal 29: If reading at 27 is correct, voltage at 29 should be 0.5–1.0 volts. If not, replace solenoid relay.
+8.  Turn the ignition switch OFF.
 
-8.
+9.  Check voltage to the hydraulic modulator:
 
-Turn the ignition switch OFF.
+10.  
 
-9.
+    A.  Remove the cover from the hydraulic modulator. Detach the connector from
+    the hydraulic modulator.
 
-Check voltage to the hydraulic modulator:
 
-10.
+    B.  Switch the ignition ON.
 
-A.
 
-Remove the cover from the hydraulic modulator. Detach the connector from the hydraulic modulator.
+    C.  Connect the voltmeter to a know good ground and to terminals 6, 7, 10
+    and 12. Voltage in all cases should be 12 volts.
 
-B.
+If there is no voltage or improper voltage to any terminal, proceed as follows.
+For a problem at:
 
-Switch the ignition ON.
+    A.  Terminal 6: Inspect wiring for shorts and/or poor connections.
 
-C.
 
-Connect the voltmeter to a know good ground and to terminals 6, 7, 10 and 12. Voltage in all cases should be 12 volts.
+    B.  Terminal 7: Attach the connector to the hydraulic modulator with the
+    ignition OFF. Turn the ignition ON when connected; the ABS warning lamp on
+    the dashboard should come on. If not, replace the warning lamp bulb.
 
-If there is no voltage or improper voltage to any terminal, proceed as follows. For a problem at:
-A.
 
-Terminal 6: Inspect wiring for shorts and/or poor connections.
+    C.  Terminal 10: Transient surge protector failed.
 
-B.
 
-Terminal 7: Attach the connector to the hydraulic modulator with the ignition OFF. Turn the ignition ON when connected; the ABS warning lamp on the dashboard
-should come on. If not, replace the warning lamp bulb.
+    D.  Terminal 12: Inspect wiring for shorts and/or poor connections.
 
-C.
+11.  Turn the ignition OFF; attach the connector to the hydraulic modulator.
 
-Terminal 10: Transient surge protector failed.
+12.  At the control unit connector, use an ohmmeter to measure the resistance of
+     each wheel speed sensor.
 
-D.
+13.  
 
-Terminal 12: Inspect wiring for shorts and/or poor connections.
+    A.  Test the left front sensor between terminals 4 and 6. Test the right
+    front sensor between terminals 11 and 21.
 
-11.
 
-Turn the ignition OFF; attach the connector to the hydraulic modulator.
+    B.  Resistance for the front sensors must be 900–2200 ohms (0.9–2.2
+    kilohms). If the resistance is not within specifications, unfasten the
+    harness connectors in the engine compartment and measure resistance directly
+    at the sensor. If the readings still differ, inspect the wiring and/or
+    replace the sensor. Also, check the pulse wheels for defects or damage;
+    maximum radial run-out is 0.006 inch (0.15mm).
 
-12.
 
-At the control unit connector, use an ohmmeter to measure the resistance of each wheel speed sensor.
+    C.  Measure resistance of the rear speed sensor by testing at terminals 7
+    and 9. Resistance should be 600–1600 ohms (0.6–1.6 kilohms).
 
-13.
 
-A.
-
-Test the left front sensor between terminals 4 and 6. Test the right front sensor between terminals 11 and 21.
-
-B.
-
-Resistance for the front sensors must be 900–2200 ohms (0.9–2.2 kilohms). If the resistance is not within specifications, unfasten the harness connectors in the
-engine compartment and measure resistance directly at the sensor. If the readings still differ, inspect the wiring and/or replace the sensor. Also, check the pulse
-wheels for defects or damage; maximum radial run-out is 0.006 inch (0.15mm).
-
-C.
-
-Measure resistance of the rear speed sensor by testing at terminals 7 and 9. Resistance should be 600–1600 ohms (0.6–1.6 kilohms).
-
-D.
-
-If resistance is not correct, detach the sensor connector on the fuel filler pipe in the trunk. It will be necessary to break the connector seal; do so without damaging
-the wiring. If readings are still not within specification, inspect wiring and/or replace the sensor.
+    D.  If resistance is not correct, detach the sensor connector on the fuel
+    filler pipe in the trunk. It will be necessary to break the connector seal;
+    do so without damaging the wiring. If readings are still not within
+    specification, inspect wiring and/or replace the sensor.
 
 Check the wiring to each sensor.
-A.
 
-Raise and safely support the vehicle.
+    A.  Raise and safely support the vehicle.
 
-B.
 
-Connect an ohmmeter to the pairs of terminals use in Step 11.
+    B.  Connect an ohmmeter to the pairs of terminals use in Step 11.
 
-C.
 
-As each pair is tested, have an assistant turn the correct wheel on the vehicle including the rear. Rotate the wheel(s) about one revolution per second; the
-resistance should vary as the wheel spins.
+    C.  As each pair is tested, have an assistant turn the correct wheel on the
+    vehicle including the rear. Rotate the wheel(s) about one revolution per
+    second; the resistance should vary as the wheel spins.
 
-14.
+14.  Test the hydraulic modulator solenoid valves: Connect one ohmmeter lead to
+     terminal 32 on the control unit connector. Connect the other test lead to
+     terminal 2 (LF solenoid), then 35 (RF) and then 18 (rear); Resistance
+     should be 0.7–1.7 ohms.
 
-Test the hydraulic modulator solenoid valves: Connect one ohmmeter lead to terminal 32 on the control unit connector. Connect the other test lead to terminal 2 (LF solenoid), then
-35 (RF) and then 18 (rear); Resistance should be 0.7–1.7 ohms.
+15.  Test the pump relay in the hydraulic modulator:
 
-15.
+    A.  Turn the ignition ON.
 
-Test the pump relay in the hydraulic modulator:
-A.
 
-Turn the ignition ON.
+    B.  Connect a jumper between terminal 28 on the control unit connector and
+    ground. The pump should run.
 
-B.
 
-Connect a jumper between terminal 28 on the control unit connector and ground. The pump should run.
+    C.  Repeat the test. Simultaneously, measure the voltage between terminal 14
+    and ground. With the jumper grounding terminal 28, 12 volts should be
+    present.
 
-C.
 
-Repeat the test. Simultaneously, measure the voltage between terminal 14 and ground. With the jumper grounding terminal 28, 12 volts should be present.
-
-D.
-
-If the modulator does not start, inspect the wiring and connectors. If no fault is found, replace the pump relay and retest.
+    D.  If the modulator does not start, inspect the wiring and connectors. If
+    no fault is found, replace the pump relay and retest.
 
 NOTE: Do not maintain the connection longer than 2 seconds; damage can occur.
 
-16.
+16.  Test the valve relay in the hydraulic modulator:
 
-Test the valve relay in the hydraulic modulator:
 
-A.
+    A.  Connect the voltmeter between terminal 32 on the control unit connector
+    and ground. Use a jumper wire to connect terminal 27 to ground. The valve
+    relay on the hydraulic modulator should activate (listen for distinct click)
+    and the voltmeter should show 12 volts.
 
-Connect the voltmeter between terminal 32 on the control unit connector and ground. Use a jumper wire to connect terminal 27 to ground. The valve relay on the
-hydraulic modulator should activate (listen for distinct click) and the voltmeter should show 12 volts.
 
-B.
+    B.  If the relay does not energize, or the correct voltage is not present,
+    inspect the wiring and connectors carefully.
 
-If the relay does not energize, or the correct voltage is not present, inspect the wiring and connectors carefully.
 
-C.
+    C.  If no wiring fault is found, replace the valve relay.
 
-If no wiring fault is found, replace the valve relay.
+17.  Turn the ignition switch OFF. Disconnect all test equipment.
 
-17.
+18.  If no faults were found during testing, replace the ABS control unit and
+     retest.
 
-Turn the ignition switch OFF. Disconnect all test equipment.
+19.  Reinstall the hydraulic modulator cover and the soundproofing at the left
+     side of the dashboard.
 
-18.
-
-If no faults were found during testing, replace the ABS control unit and retest.
-
-19.
-
-Reinstall the hydraulic modulator cover and the soundproofing at the left side of the dashboard.
-
-20.
-
-Road test the vehicle and confirm proper system operation.
-
----
+20.  Road test the vehicle and confirm proper system operation.
 
 ## Diagnostic Procedures for Pre-1993 and 1993-1995 Volvo 940 Anti-Lock Brake System
 
 
-1990–92 Vehicles
+### 1990–92 Vehicles
 On pre-1993 vehicles, the control unit does not store diagnostic codes; therefore diagnosis must be made in a progressive and logical order. The control unit contains a monitoring circuit to
 detect any internal faults within the control unit as well as electrical faults in the sensors, solenoids, modulator unit, etc. Refer to the fault tracing procedure, later in this section.
 
-1993–95 Vehicles
+### 1993–95 Vehicles
 The CU stores trouble codes when a fault is detected. These DTCs can be retrieved using the Data Link Connector (DLC) located on the driver's side of the engine compartment. Connect the
 selector cable to the DLC terminal 3. Turn the ignition to the ON position with the engine off. Press the button on the DLC and hold it down for about one second. Then press the button once,
 pausing then four times, the Light Emitting Diode (LED) on the DLC will then flash the code. The LED will pause after each number. The codes are three-digit numbers; for example, flash,
 pause, flash, flash, pause, flash, pause, would indicate code 121.
 Fig. 1: Use the DLC to retrieve the ABS trouble codes
 
-1996–98 Vehicles
+### 1996–98 Vehicles
 1996 and later Volvos are equipped with OBD-II diagnostic capability. Codes are retrieved via the Data Link Connector (DLC), located in the console. The codes can be read after hooking
 up the Volvo Scan tool or equivalent Diagnostic tool. Follow the menu on the scan tool to retrieve the DTCs.
 Fig. 2: The DLC is located on the center console, in front of
 the shifter handle
 
----
-
 ## Pre-Diagnostic Inspection for ABS Functionality
 
 
-Before diagnosing an apparent ABS problem, make absolutely certain that the regular service braking system is in correct working order. Many common brake problems (dragging parking
-brake, seepage, etc.) will affect the ABS system. A visual check of specific system components may reveal problems creating an apparent ABS malfunction.
+Before diagnosing an apparent ABS problem, make absolutely certain that the
+regular service braking system is in correct working order. Many common brake
+problems (dragging parking brake, seepage, etc.) will affect the ABS system. A
+visual check of specific system components may reveal problems creating an
+apparent ABS malfunction.
+
 Performing this inspection may reveal a simple failure, thus eliminating extended diagnostic time.
 Inspect the tire pressures; they must be approximately equal for the system to operate correctly.
 Inspect the brake fluid level in the reservoir.
@@ -300,60 +272,104 @@ If the ANTI-LOCK warning lamp is on during vehicle operation, the control unit h
 If the monitoring circuit detects a fault, the control unit will disable the ABS system and light the warning lamp on the dashboard. If the light comes on during vehicle operation, perform
 diagnostics.
 
----
-
 ## ABS Operation and Components
 
 
-The Anti-lock Braking System, designated ABS, prevents wheel lock-up. The ABS provides the shortest possible braking distance while maintaining full directional stability. The ABS
-controls the front wheels individually and the rear wheels together. The rear piston in the master cylinder operates the front brakes and the front piston operates the rear axle brakes.
-Under normal conditions, the ABS system functions in the same manner as a standard brake system and is transparent to the operator. The system is a combination of electrical and
-hydraulic components, working together to control the flow of brake fluid to the wheels when necessary.
-The Control Unit (CU) is the electronic brain of the system, receiving and interpreting signals from the wheel speed sensors. The unit will enter anti-lock mode when it senses impending
-wheel lock at any wheel and immediately control the brake line pressures to the affected wheel(s) by issuing output signals to the hydraulic modulator.
-The hydraulic modulator contains solenoids which react to the signals from the CU. When not activated, the solenoids allow brake line pressure to be modulated by the brake pedal in the
-normal fashion. At the direction of the (CU), the solenoids move to positions either isolating the brake line from pedal pressure (pressure hold) or isolating the line and opening a passage to
-relieve line pressure (pressure release). In this manner, brake application is controlled or actually lessened, dependent on the locking tendency of each wheel.
-The decisions regarding these functions are made very rapidly and each solenoid can be cycled several times per second. Volvo employs a 3-channel control system. The front wheels are
-controlled separately; the rears are watched by a single sensor on all models except the 850/C70/S70/V70 which have two, and the common feed line to the rear brakes is controlled by
-one output on the hydraulic modulator.
-The operator may feel a slight pulsing in the brake pedal and/or hear popping or clicking noises when the system engages. These sensations are due to the valves cycling and the
-pressures being changed rapidly within the brake system. While completely normal and not a sign of system failure, these sensations can be disconcerting to an operator unfamiliar with the
-system.
-Although the ABS system prevents wheel lock-up under hard braking, as brake pressure increases, wheel slip is allowed to increase as well. This slip will result in some tire chirp during
-ABS operation. The sound should not be interpreted as lock-up but rather as an indication of the system holding the wheel(s) just outside the locking point. Additionally, the final few feet of an
-ABS-engaged stop may be completed with the wheels locked; the system is inoperative below 3 mph.
-When the ignition is ON and vehicle speed is over 3 mph (5 kph), the CU monitors the function of the system. Should a fault be noted, such a loss of signal from a sensor, the ABS system
-is immediately disabled by the CU. The ANTI-LOCK dashboard warning lamp is illuminated to inform the operator. When the ABS system is disabled, the vehicle retains normal braking
-capacity without the benefits of anti-lock.
-Some vehicles have a Traction Control System (TRACS) incorporated into the ABS system. The CU monitors the speed sensors just as it does for the ABS, and if one of the drive wheels is
-detected moving faster than the other, it engages that wheel's brakes to reduce the power to the wheel. This is accomplished by closing and opening the solenoids in the hydraulic modulator,
-causing the brake fluid to be "pumped" to that wheel, slowing the wheel rotation down and applying power equally.
+The Anti-lock Braking System, designated ABS, prevents wheel lock-up. The ABS
+provides the shortest possible braking distance while maintaining full
+directional stability. The ABS controls the front wheels individually and the
+rear wheels together. The rear piston in the master cylinder operates the front
+brakes and the front piston operates the rear axle brakes.  Under normal
+conditions, the ABS system functions in the same manner as a standard brake
+system and is transparent to the operator. The system is a combination of
+electrical and hydraulic components, working together to control the flow of
+brake fluid to the wheels when necessary.  The Control Unit (CU) is the
+electronic brain of the system, receiving and interpreting signals from the
+wheel speed sensors. The unit will enter anti-lock mode when it senses impending
+wheel lock at any wheel and immediately control the brake line pressures to the
+affected wheel(s) by issuing output signals to the hydraulic modulator.
+
+The hydraulic modulator contains solenoids which react to the signals from the
+CU. When not activated, the solenoids allow brake line pressure to be modulated
+by the brake pedal in the normal fashion. At the direction of the (CU), the
+solenoids move to positions either isolating the brake line from pedal pressure
+(pressure hold) or isolating the line and opening a passage to relieve line
+pressure (pressure release). In this manner, brake application is controlled or
+actually lessened, dependent on the locking tendency of each wheel.
+
+The decisions regarding these functions are made very rapidly and each solenoid
+can be cycled several times per second. Volvo employs a 3-channel control
+system. The front wheels are controlled separately; the rears are watched by a
+single sensor on all models except the 850/C70/S70/V70 which have two, and the
+common feed line to the rear brakes is controlled by one output on the hydraulic
+modulator.
+
+The operator may feel a slight pulsing in the brake pedal and/or hear popping or
+clicking noises when the system engages. These sensations are due to the valves
+cycling and the pressures being changed rapidly within the brake system. While
+completely normal and not a sign of system failure, these sensations can be
+disconcerting to an operator unfamiliar with the system.
+
+Although the ABS system prevents wheel lock-up under hard braking, as brake
+pressure increases, wheel slip is allowed to increase as well. This slip will
+result in some tire chirp during ABS operation. The sound should not be
+interpreted as lock-up but rather as an indication of the system holding the
+wheel(s) just outside the locking point. Additionally, the final few feet of an
+ABS-engaged stop may be completed with the wheels locked; the system is
+inoperative below 3 mph.  When the ignition is ON and vehicle speed is over 3
+mph (5 kph), the CU monitors the function of the system. Should a fault be
+noted, such a loss of signal from a sensor, the ABS system is immediately
+disabled by the CU. The ANTI-LOCK dashboard warning lamp is illuminated to
+inform the operator. When the ABS system is disabled, the vehicle retains normal
+braking capacity without the benefits of anti-lock.
+
+Some vehicles have a Traction Control System (TRACS) incorporated into the ABS
+system. The CU monitors the speed sensors just as it does for the ABS, and if
+one of the drive wheels is detected moving faster than the other, it engages
+that wheel's brakes to reduce the power to the wheel. This is accomplished by
+closing and opening the solenoids in the hydraulic modulator, causing the brake
+fluid to be "pumped" to that wheel, slowing the wheel rotation down and applying
+power equally.
+
 Fig. 1: ABS braking circuit for 1990–91 models
 
 Fig. 2: ABS braking circuit for 1992–98 models
 
----
-
 ## Wheel Speed Sensors and Electronic Control Unit (CU)
 
+### Wheel Speed Sensors
+The speed signal is sent to the control unit via a sensor and pulse wheel
+assembly. Each front wheel has its own assembly. Rear wheel speed is measured by
+one sensor and pulse wheel assembly on all vehicles except for the
+850/C70/S70/V70 models which have one on each wheel.  As the teeth of the pulse
+generator pass the tip of the sensor, the changes from peak to valley to peak
+generate a small AC voltage in the sensor. The frequency of the voltage — which
+increases with wheel speed — is used by the CU to determine wheel speed. By
+comparing wheel speed during braking, the control unit determines impending
+wheel lock.
 
-Wheel Speed Sensors
-The speed signal is sent to the control unit via a sensor and pulse wheel assembly. Each front wheel has its own assembly. Rear wheel speed is measured by one sensor and pulse wheel
-assembly on all vehicles except for the 850/C70/S70/V70 models which have one on each wheel.
-As the teeth of the pulse generator pass the tip of the sensor, the changes from peak to valley to peak generate a small AC voltage in the sensor. The frequency of the voltage — which
-increases with wheel speed — is used by the CU to determine wheel speed. By comparing wheel speed during braking, the control unit determines impending wheel lock.
 Fig. 1: Various wheel speed sensors
 
-Electronic Control Unit (CU)
-The CU is located below the left dashboard, above the left kick panel on the 240 and most of the 700 series. It is located on the right front wheel housing on 760 models with a B280 engine.
-On most other models, it is attached to the hydraulic modulator and is alongside the brake master cylinder. The unit is a microprocessor that receives and processes signals according to
-predetermined logic, and supplies a control signal to the solenoid valves located on the hydraulic modulator.
-The control unit contains the safety or monitor circuitry which will disable the ABS system if any electrical fault is detected. The safety circuit also monitors battery voltage and will disable the
-system if voltage becomes too high or too low.
-The electronic control unit cannot be repaired or serviced; if an internal fault is detected, the unit must be replaced.
+### Electronic Control Unit (CU)
+The CU is located below the left dashboard, above the left kick panel on the 240
+and most of the 700 series. It is located on the right front wheel housing on
+760 models with a B280 engine.
 
-Hydraulic Modulator
+On most other models, it is attached to the hydraulic modulator and is alongside
+the brake master cylinder. The unit is a microprocessor that receives and
+processes signals according to predetermined logic, and supplies a control
+signal to the solenoid valves located on the hydraulic modulator.
+
+The control unit contains the safety or monitor circuitry which will disable the
+ABS system if any electrical fault is detected. The safety circuit also monitors
+battery voltage and will disable the system if voltage becomes too high or too
+low.
+
+The electronic control unit cannot be repaired or serviced; if an internal fault
+is detected, the unit must be replaced.
+
+
+### Hydraulic Modulator
 Usually located under or near the brake master cylinder in the engine compartment, the hydraulic modulator contains the solenoid valves, the system recirculation pump, the solenoid control
 relay and the pump control relay. Certain engine and body combinations will locate the hydraulic modulator on the left wheel arch.
 The 3 internal solenoids are electrically operated valves. When no current is applied, the valves are in the normal or open position, allowing brake fluid pressure to be controlled by the
@@ -364,11 +380,11 @@ the operator. Once released from the accumulator, the fluid is pumped back into 
 With the exception of the two relays mounted on the unit, the hydraulic unit has no serviceable parts and cannot be repaired. If an internal fault is found, the unit must be replaced.
 Fig. 2: Cutaway view of the hydraulic modulator assembly
 
-Brake Lamp
+### Brake Lamp
 The red dashboard BRAKE warning lamp functions in a manner identical to non-ABS vehicles. If the fluid level should drop below an acceptable level, the lamp will light as a warning to the
 operator. If the BRAKE lamp is lit, braking function on the vehicle may be impaired; do not operate the vehicle until the status and reliability of the braking system is determined.
 
-Anti-lock Lamp
+### Anti-lock Lamp
 The Anti-lock Braking System (ABS) warning lamp is coupled to the ABS CU. The lamp will light briefly during engine start-up as the CU performs an initial check of the system. If no faults
 are found, the CU will extinguish the lamp within a few seconds. After this initial test, the lamp should not come on during vehicle operation.
 
@@ -376,148 +392,91 @@ If the ABS lamp does come on during operation, the CU has detected a fault and d
 and may be safely driven. If both warning lamps are lit, the braking capacity of the vehicle may be impaired.
 Fig. 3: Location of the ABS light on the instrument cluster
 
----
-
 ## Removing and Installing the Hydraulic Modulator for the Anti-Lock Brake System
 
 
-Hydraulic Modulator
+### Hydraulic Modulator
 
-1.
+1.  Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2.  Remove the cover (if equipped) from the hydraulic modulator.
 
-2.
+3.  Remove both relays (if equipped) from the top of the unit; disconnect the
+    wiring connector at the unit.
 
-Remove the cover (if equipped) from the hydraulic modulator.
+4.  Remove the air inlet hose.
 
-3.
+5.  Unplug any connectors from the unit.
 
-Remove both relays (if equipped) from the top of the unit; disconnect the wiring connector at the unit.
+6.  Place rags or towels around the unit to absorb brake fluid which will be
+    spilled.
 
-4.
+7.  Clean the line connections thoroughly.
 
-Remove the air inlet hose.
+8.  Label each line for installation.
 
-5.
+9.  Remove the brake lines from the modulator.
 
-Unplug any connectors from the unit.
+10.  Remove the bolts from the modulator support and push the support to the
+     right.
 
-6.
+11.  Remove the hydraulic modulator.
 
-Place rags or towels around the unit to absorb brake fluid which will be spilled.
+12.  If a new modulator is being installed, remove the hexagonal plugs from the
+     old unit and install on the new unit. Check that the rubber pads are not
+     damaged; install the rubber pads onto the hexagonal plugs.
 
-7.
+13.  Install the modulator and tighten the support. If installing a new unit,
+     remove the plugs from the brake line ports.
 
-Clean the line connections thoroughly.
+14.  Reconnect the brake lines according to the labels made at removal. The
+     lines must be in their exact original positions.
 
-8.
+15.  Remove the rags from the work area and dispose of them properly.
 
-Label each line for installation.
+16.  Plug in any removed connectors.
 
-9.
+17.  Install the air inlet hose.
 
-Remove the brake lines from the modulator.
+18.  Install the relays (if equipped) on the hydraulic modulator.
 
-10.
+19.  Install the cover on the unit.
 
-Remove the bolts from the modulator support and push the support to the right.
+20.  Bleed the brake system. Vehicles with hydraulic clutches may require
+     bleeding of the clutch system as well.
 
-11.
+21.  When bleeding is complete, test the brake system by having an assistant
+     press hard on the brake pedal; keep it depressed for 30 seconds. During the
+     30 second period, check that no leakage occurs at the brake line
+     connections on the hydraulic modulator.
 
-Remove the hydraulic modulator.
+22.  Connect the negative battery cable.
 
-12.
-
-If a new modulator is being installed, remove the hexagonal plugs from the old unit and install on the new unit. Check that the rubber pads are not damaged; install the rubber
-pads onto the hexagonal plugs.
-
-13.
-
-Install the modulator and tighten the support. If installing a new unit, remove the plugs from the brake line ports.
-
-14.
-
-Reconnect the brake lines according to the labels made at removal. The lines must be in their exact original positions.
-
-15.
-
-Remove the rags from the work area and dispose of them properly.
-
-16.
-
-Plug in any removed connectors.
-
-17.
-
-Install the air inlet hose.
-
-18.
-
-Install the relays (if equipped) on the hydraulic modulator.
-
-19.
-
-Install the cover on the unit.
-
-20.
-
-Bleed the brake system. Vehicles with hydraulic clutches may require bleeding of the clutch system as well.
-
-21.
-
-When bleeding is complete, test the brake system by having an assistant press hard on the brake pedal; keep it depressed for 30 seconds. During the 30 second period,
-check that no leakage occurs at the brake line connections on the hydraulic modulator.
-
-22.
-
-Connect the negative battery cable.
-
-23.
-
-Test drive the vehicle, confirming system function.
+23.  Test drive the vehicle, confirming system function.
 
 To install:
 
-Control Unit
+### Control Unit
 
 1990–93 MODELS
 The control unit is located under the steering wheel, behind the knee bolster panel.
-1.
+1.  Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2.  Remove the knee bolster panel under the steering wheel..
 
-2.
+3.  Loosen or remove the clips and retainers holding the control unit.
 
-Remove the knee bolster panel under the steering wheel..
+4.  Lift out the unit.
 
-3.
+5.  Remove the electrical harness from the unit.
 
-Loosen or remove the clips and retainers holding the control unit.
+6.  Attach the harness to the control module.
 
-4.
+7.  Place the control module into place and install the clips and retainers.
 
-Lift out the unit.
+8.  Install the knee bolster panel.
 
-5.
-
-Remove the electrical harness from the unit.
-
-6.
-
-Attach the harness to the control module.
-
-7.
-
-Place the control module into place and install the clips and retainers.
-
-8.
-
-Install the knee bolster panel.
-
-9.
-
-Connect the negative battery cable.
+9.  Connect the negative battery cable.
 
 To install:
 
@@ -526,41 +485,23 @@ Fig. 1: Control unit location on 1990–93 vehicles
 1994–98 MODELS
 The control unit is located in the engine compartment, near the master cylinder/brake booster.
 
-1.
+1.  Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2.  Clean the connector of any dirt, grime and/or oil.
 
-2.
+3.  Remove the connector from the control unit.
 
-Clean the connector of any dirt, grime and/or oil.
+4.  Remove the control unit retaining bolts.
 
-3.
+5.  Lift the control unit out of the engine compartment.
 
-Remove the connector from the control unit.
+6.  Lower the control unit into place aligning the bolts holes.
 
-4.
+7.  Tighten the retaining bolts.
 
-Remove the control unit retaining bolts.
+8.  Install the connector on the control unit.
 
-5.
-
-Lift the control unit out of the engine compartment.
-
-6.
-
-Lower the control unit into place aligning the bolts holes.
-
-7.
-
-Tighten the retaining bolts.
-
-8.
-
-Install the connector on the control unit.
-
-9.
-
-Connect the negative battery cable.
+9.  Connect the negative battery cable.
 
 To install:
 
@@ -571,53 +512,38 @@ Wheel Speed Sensors
 
 FRONT
 
-1.
+1.  Raise and safely support the front of the vehicle.
 
-Raise and safely support the front of the vehicle.
+2.  Remove the tire and wheel.
 
-2.
+3.  With the ignition switch OFF, disconnect the wheel speed sensor lead from
+    the ABS harness. Remove any retaining bolts or clips holding the harness in
+    place.  NOTE: Clips and retainers must be reinstalled in their exact
+    original location. Take careful note of the position of each retainer and of
+    the correct harness routing during removal.
 
-Remove the tire and wheel.
+4.  Remove the single bolt holding the speed sensor.
 
-3.
+5.  Carefully remove the sensor straight out of its mount. Do not subject the
+    sensor to shock or vibration; protect the tip of the sensor at all times.
 
-With the ignition switch OFF, disconnect the wheel speed sensor lead from the ABS harness. Remove any retaining bolts or clips holding the harness in place.
-NOTE: Clips and retainers must be reinstalled in their exact original location. Take careful note of the position of each retainer and of the correct harness
-routing during removal.
+6.  Fit the sensor into position. Make certain the sensor sits flush against the
+    mounting surface; it must not be crooked.
 
-4.
+7.  Install the retaining bolt.
 
-Remove the single bolt holding the speed sensor.
+8.  Route the sensor cable correctly and install the harness clips and
+    retainers. The cable must be in its original position and completely clear
+    of moving components.
 
-5.
-
-Carefully remove the sensor straight out of its mount. Do not subject the sensor to shock or vibration; protect the tip of the sensor at all times.
-
-6.
-
-Fit the sensor into position. Make certain the sensor sits flush against the mounting surface; it must not be crooked.
-
-7.
-
-Install the retaining bolt.
-
-8.
-
-Route the sensor cable correctly and install the harness clips and retainers. The cable must be in its original position and completely clear of moving components.
-
-9.
-
-Connect the sensor cable to the ABS harness.
+9.  Connect the sensor cable to the ABS harness.
 
 To install:
 
-10.
+10.  Install the wheel.
 
-Install the wheel.
+11.  Lower the vehicle to the ground.
 
-11.
-
-Lower the vehicle to the ground.
 Fig. 3: Unplug the sensor connector
 
 Fig. 4: Remove the sensor retaining bolt
@@ -627,375 +553,285 @@ Fig. 5: Carefully lift the sensor straight up and remove it
 Fig. 6: If the sensor is going to be reused, clean the tip off
 before installing
 
-REAR WITHOUT MULTI-LINK SUSPENSION — EXCEPT 850
+### REAR WITHOUT MULTI-LINK SUSPENSION — EXCEPT 850
 
-1.
+1.  Raise and safely support the vehicle.
 
-Raise and safely support the vehicle.
+2.  Disconnect the sensor connector from the harness.
 
-2.
+3.  Remove the clips and retainers holding the sensor wire to the axle. Take
+    note of the routing of the sensor wire; exact reinstallation is required.
 
-Disconnect the sensor connector from the harness.
+4.  Remove the retaining bolt holding the sensor to the differential housing.
 
-3.
+5.  Remove the sensor straight from its housing; protect the tip from impact.
 
-Remove the clips and retainers holding the sensor wire to the axle. Take note of the routing of the sensor wire; exact reinstallation is required.
+6.  Install the sensor into the housing.
 
-4.
+7.  Tighten the retaining bolt.
 
-Remove the retaining bolt holding the sensor to the differential housing.
+8.  Route the wire harness and attach the connectors.
 
-5.
-
-Remove the sensor straight from its housing; protect the tip from impact.
-
-6.
-
-Install the sensor into the housing.
-
-7.
-
-Tighten the retaining bolt.
-
-8.
-
-Route the wire harness and attach the connectors.
-
-9.
-
-Install the clips and retainers to the harness.
+9.  Install the clips and retainers to the harness.
 
 To install:
 
-10.
+10.  Lower the vehicle.
 
-Lower the vehicle.
 Fig. 7: Sensor connector location
 
-REAR WITH MULTI-LINK SUSPENSION — EXCEPT 850
+### REAR WITH MULTI-LINK SUSPENSION — EXCEPT 850
 
-1.
+1.  Remove the spare tire and fold back the trunk carpet to expose the fuel
+    filler pipe.
 
-Remove the spare tire and fold back the trunk carpet to expose the fuel filler pipe.
+2.  Remove the cover(s) from the filler pipe.
 
-2.
+3.  Break the seal on the speed sensor harness connector and disconnect the
+    sensor from the ABS harness.
 
-Remove the cover(s) from the filler pipe.
+4.  Press the rubber grommet free of the bodywork and feed the sensor harness to
+    the outside of the vehicle.
 
-3.
+5.  Raise and safely support the vehicle.
 
-Break the seal on the speed sensor harness connector and disconnect the sensor from the ABS harness.
+6.  Install a jack with support fixture 5972 or its equivalent under the rear
+    axle.
 
-4.
+7.  Remove the 2 bolts on each side of the rear axle assembly which hold the
+    member to the body.
 
-Press the rubber grommet free of the bodywork and feed the sensor harness to the outside of the vehicle.
+8.  Lower the rear axle slightly, but do not allow the drive shaft to press
+    against the fuel tank.
 
-5.
+9.  Disconnect the right brake wire from its attachment.
 
-Raise and safely support the vehicle.
+10.  Remove the sensor cable from the retaining clips and clamps. Take note of
+     the routing of the cable; it must be reinstalled in its exact original
+     position.
 
-6.
+11.  Clean the sensor area; remove the retaining bolts and remove the sensor.
+     Protect the tip from damage or impact.
 
-Install a jack with support fixture 5972 or its equivalent under the rear axle.
+12.  Apply a light coat of oil to the O-ring on the new sensor.
 
-7.
+13.  Fit the sensor into place without damaging the tip.
 
-Remove the 2 bolts on each side of the rear axle assembly which hold the member to the body.
+14.  Tighten the retaining bolts to 90 inch lbs. (10 Nm).
 
-8.
+15.  Install the sensor harness into the cable retainers, making certain it is
+     routed correctly and out of the way of all moving parts.
 
-Lower the rear axle slightly, but do not allow the drive shaft to press against the fuel tank.
+16.  Feed the cable through the body and secure the grommet.
 
-9.
+17.  Connect the right brake wire.
 
-Disconnect the right brake wire from its attachment.
+18.  Raise the rear axle assembly and install the 4 bolts. Tighten each bolt to
+     52 ft. lbs. (70 Nm), then angle tighten each an additional 60 degrees.
 
-10.
+19.  Lower the vehicle.
 
-Remove the sensor cable from the retaining clips and clamps. Take note of the routing of the cable; it must be reinstalled in its exact original position.
+20.  Connect the sensor wiring harness to the ABS harness in the trunk and
+     reseal the connector.
 
-11.
+21.  Clamp the cable to the filler pipe.
 
-Clean the sensor area; remove the retaining bolts and remove the sensor. Protect the tip from damage or impact.
+22.  Install the filler covers, reposition the carpet and install the spare
+     tire.
 
-12.
-
-Apply a light coat of oil to the O-ring on the new sensor.
-
-13.
-
-Fit the sensor into place without damaging the tip.
-
-14.
-
-Tighten the retaining bolts to 90 inch lbs. (10 Nm).
-
-15.
-
-Install the sensor harness into the cable retainers, making certain it is routed correctly and out of the way of all moving parts.
-
-16.
-
-Feed the cable through the body and secure the grommet.
-
-17.
-
-Connect the right brake wire.
-
-18.
-
-Raise the rear axle assembly and install the 4 bolts. Tighten each bolt to 52 ft. lbs. (70 Nm), then angle tighten each an additional 60 degrees.
-
-19.
-
-Lower the vehicle.
-
-20.
-
-Connect the sensor wiring harness to the ABS harness in the trunk and reseal the connector.
-
-21.
-
-Clamp the cable to the filler pipe.
-
-22.
-
-Install the filler covers, reposition the carpet and install the spare tire.
-
-23.
-
-Test drive the vehicle, confirming correct function of the ABS system and the dashboard warning lamp.
+23.  Test drive the vehicle, confirming correct function of the ABS system and
+     the dashboard warning lamp.
 
 To install:
 
 850/C70/S70/V70 REAR SENSORS
 
-1.
+1.  Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2.  On sedans and the C70:
 
-2.
+    A.  Fold the passenger side rear seat forward.
 
-On sedans and the C70:
-A.
 
-Fold the passenger side rear seat forward.
+    B.  Remove the luggage compartment mat.
 
-B.
 
-Remove the luggage compartment mat.
+    C.  Remove the fuel pump and level sensor covers.
 
-C.
+3.  On wagons:
 
-Remove the fuel pump and level sensor covers.
+4.  Remove the wheel sensor connector.
 
-3.
+5.  Raise and safely support the vehicle.
 
-On wagons:
+6.  Note the direction and installation of the sensor harness for
+    reinstallation. Pull the wheel sensor harness through from underneath the
+    vehicle.
 
-4.
+7.  Remove the wheel(s).
 
-Remove the wheel sensor connector.
+8.  Remove the sensor attaching bolt, and remove the sensor.
 
-5.
+9.  Install the new sensor into place, and tighten the retaining bolt.
 
-Raise and safely support the vehicle.
 
-6.
-
-Note the direction and installation of the sensor harness for reinstallation. Pull the wheel sensor harness through from underneath the vehicle.
-
-7.
-
-Remove the wheel(s).
-
-8.
-
-Remove the sensor attaching bolt, and remove the sensor.
-
-9.
-
-Install the new sensor into place, and tighten the retaining bolt.
-
-A.
-
-Fold up the floor panel, and bend mat back to access the fuel pump and level sensor covers.
+    A.  Fold up the floor panel, and bend mat back to access the fuel pump and
+    level sensor covers.
 
 To install:
-10.
 
-Route the harness through the suspension and place into opening in floor.
+10.  Route the harness through the suspension and place into opening in floor.
 
-11.
+11.  Install the wheel(s).
 
-Install the wheel(s).
+12.  Lower the vehicle.
 
-12.
+13.  Attach the sensor connector.
 
-Lower the vehicle.
+14.  Install the removed covers and trim.
 
-13.
+15.  Connect the negative battery cable.
 
-Attach the sensor connector.
-
-14.
-
-Install the removed covers and trim.
-
-15.
-
-Connect the negative battery cable.
 Fig. 8: The rear wheel speed sensor as viewed with the
 brake disc removed
 
 Pulse Wheel
 
-INTEGRAL WITH THE ROTOR
+### INTEGRAL WITH THE ROTOR
 
-1.
+1.  Raise and safely support the vehicle.
 
-Raise and safely support the vehicle.
+2.  Remove the wheel(s) of the pulse wheel being replaced.
 
-2.
+3.  Remove the brake rotor.
 
-Remove the wheel(s) of the pulse wheel being replaced.
+4.  Remove the grease seal and the wheel bearings from the rotor.
 
-3.
+5.  Place the rotor in a shop vise or other suitable holding fixture.
 
-Remove the brake rotor.
+6.  Using a suitable puller, remove the pulse wheel from the rotor.
 
-4.
+7.  Install the new pulse wheel onto the rotor, and using handle 1801 and driver
+    5276 or equivalent bearing/race/seal driver, press the pulse wheel onto the
+    rotor.
 
-Remove the grease seal and the wheel bearings from the rotor.
+8.  Repack wheel bearings and install them into the rotor, and install a new grease seal.
 
-5.
-
-Place the rotor in a shop vise or other suitable holding fixture.
-
-6.
-
-Using a suitable puller, remove the pulse wheel from the rotor.
-
-7.
-
-Install the new pulse wheel onto the rotor, and using handle 1801 and driver 5276 or equivalent bearing/race/seal driver, press the pulse wheel onto the rotor.
-
-8.
-
-Repack wheel bearings and install them into the rotor, and install a new grease seal.
-
-9.
-
-Install the brake rotor onto the vehicle.
+9.  Install the brake rotor onto the vehicle.
 
 To install:
 
-10.
+10.  Install the wheel(s).
 
-Install the wheel(s).
-
-11.
-
-Lower the vehicle.
+11.  Lower the vehicle.
 
 INTEGRAL WITH THE HUB
 
-1.
+1.  Raise and safely support the vehicle.
 
-Raise and safely support the vehicle.
+2.  Remove the wheel(s) of the pulse wheel being replaced.
 
-2.
+3.  Remove the brake rotor.
 
-Remove the wheel(s) of the pulse wheel being replaced.
+4.  Remove the hub from the vehicle.
 
-3.
+5.  Place the hub in a vise or other suitable holding fixture.
 
-Remove the brake rotor.
+6.  Using a suitable puller, remove the pulse wheel from the hub.
 
-4.
+7.  Place the hub into a shop press, and using the suitable adapter press the
+    new wheel onto the hub.
 
-Remove the hub from the vehicle.
+8.  Install the hub onto the vehicle.
 
-5.
-
-Place the hub in a vise or other suitable holding fixture.
-
-6.
-
-Using a suitable puller, remove the pulse wheel from the hub.
-
-7.
-
-Place the hub into a shop press, and using the suitable adapter press the new wheel onto the hub.
-
-8.
-
-Install the hub onto the vehicle.
-
-9.
-
-Install the brake rotor.
+9.  Install the brake rotor.
 
 To install:
 
-10.
+10.  Install the wheel(s).
 
-Install the wheel(s).
+11.  Lower the vehicle.
 
-11.
+### INTEGRAL WITH THE AXLE SHAFT
 
-Lower the vehicle.
+1.  Raise and safely support the vehicle.
 
-INTEGRAL WITH THE AXLE SHAFT
+2.  Remove the wheel(s) of the pulse wheel being replaced.
 
-1.
+3.  Remove the brake rotor.
 
-Raise and safely support the vehicle.
+4.  Remove the axle shaft from the vehicle.
 
-2.
+5.  Install the axle shaft in a vise or suitable fixture, ensuring not to damage
+    the axle, or rip the CV-joint boot.
 
-Remove the wheel(s) of the pulse wheel being replaced.
+6.  Using a suitable puller, remove the pulse wheel from the outer CV-joint.
 
-3.
+7.  Place the axle shaft into a shop press and, using the suitable adapter,
+    press the new wheel onto the outer joint.
 
-Remove the brake rotor.
+8.  Install the axle shaft into the vehicle.
 
-4.
-
-Remove the axle shaft from the vehicle.
-
-5.
-
-Install the axle shaft in a vise or suitable fixture, ensuring not to damage the axle, or rip the CV-joint boot.
-
-6.
-
-Using a suitable puller, remove the pulse wheel from the outer CV-joint.
-
-7.
-
-Place the axle shaft into a shop press and, using the suitable adapter, press the new wheel onto the outer joint.
-
-8.
-
-Install the axle shaft into the vehicle.
-
-9.
-
-Install the brake rotor.
+9.  Install the brake rotor.
 
 To install:
 
-10.
+10.  Install the wheel(s).
 
-Install the wheel(s).
+11.  Lower the vehicle.
 
-11.
+### ON THE DIFFERENTIAL
 
-Lower the vehicle.
-
-ON THE DIFFERENTIAL
-The pulse wheel is located on the ring gear inside the differential. Teardown of the differential is necessary to replace the pulse wheel. This job requires many special tools and is not
+The pulse wheel is located on the ring gear inside the differential. Teardown of
+the differential is necessary to replace the pulse wheel. This job requires many
+special tools and is not
 recommended for the do-it-yourselfer.
 
----
+
+## Safety Notes
+
+If the vehicle is equipped with an air bag system, always properly disable the
+system before commencing work on the ABS system. Refer to Section 6 for the
+correct disabling procedure.
+
+Certain components within the ABS system are not intended to be serviced or
+repaired individually. Only those components with removal and installation
+procedures should be serviced.
+
+Do not use rubber hoses or other parts not specifically specified for the ABS
+system. When using repair kits, replace all parts included in the kit. Partial
+or incorrect repair may lead to functional problems and require the replacement
+of other components.  Lubricate rubber parts with clean, fresh brake fluid to
+ease assembly. Do not use lubricated shop air to clean parts; damage to rubber
+components may result.  Use only brake fluid from an unopened container. Use of
+suspect or contaminated brake fluid can reduce system performance and/or
+durability.
+
+A clean repair area is essential. Perform repairs after components have been
+thoroughly cleaned. Do not allow ABS components to come into contact with any
+substance containing mineral oil; this includes used shop rags.
+
+The control unit is a microprocessor similar to other computer units in the
+vehicle. Insure that the ignition switch is OFF before removing or installing
+controller harnesses. Avoid static electricity discharge at or near the
+controller.
+
+Never disconnect any electrical connection with the ignition switch ON unless
+instructed to do so in a test.
+
+Avoid touching connector pins with fingers.
+
+Leave new components and modules in the shipping package until ready to install
+them.
+
+To avoid static discharge, always touch a vehicle ground after sliding across a
+vehicle seat or walking across carpeted or vinyl floors.
+
+If any arc welding is to be done on the vehicle, the ABS control unit should be
+disconnected before welding operations begin.  Never allow welding cables to lie
+on, near or across any vehicle electrical wiring.
+
+If the vehicle is to be baked after paint repairs, disconnect and remove the
+control unit from the vehicle.
+
+

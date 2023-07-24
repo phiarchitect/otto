@@ -1,7 +1,5 @@
 # ENGINE RECONDITIONING
 
----
-
 ## Factors to Consider Before Rebuilding Your Engine
 
 
@@ -21,8 +19,6 @@ minimal fee.
 So, as you can see, you can replace everything inside the engine, but, it is wiser to replace only those parts which are really needed, and, if possible, repair the more expensive ones.
 Later in this section, we will break the engine down into its two main components: the cylinder head and the engine block. We will discuss each component, and the recommended parts to
 replace during a rebuild on each.
-
----
 
 ## Proper Installation of Valve Components in OHC Engines
 
@@ -131,8 +127,6 @@ Repeat Steps 2 through 8 until all of the springs have been installed.
 10.
 
 Install the camshaft(s), rockers, shafts and any other components that were removed for disassembly.
-
----
 
 ## Proper Labeling and Identification of Cylinder Head Components
 
@@ -264,8 +258,6 @@ these valve spring shims. Remove all of them as well
 If equipped, remove the valve spring shim. A small magnetic tool or screwdriver will aid in removal.
 Repeat Steps 3 though 9 until all of the valves have been removed.
 
----
-
 ## Valve Inspection and Wear Analysis
 
 
@@ -347,8 +339,6 @@ unrepairable, the head should be replaced.
 
 Camshaft and Followers
 Inspect the camshaft(s) and followers as described earlier in this section.
-
----
 
 ## Valve Maintenance and Refacing Procedures
 
@@ -448,8 +438,6 @@ Certain cracks can be repaired in both cast iron and aluminum heads. For cast ir
 inserts, however welding is the preferred method. Some physical damage can be repaired through brazing or welding. Contact a machine shop to get expert advice for your particular
 dilemma.
 
----
-
 ## Importance of Regular Maintenance for Engine Longevity
 
 
@@ -465,8 +453,6 @@ and valve seats. An oil pressure test can warn you of possible engine bearing, o
 smoke from the tail pipe may indicate worn piston rings, worn valve guides and/or valve seals. As a general rule, an engine that uses no more than one quart of oil every 1000 miles is in
 good condition. Engines that use one quart of oil or more in less than 1000 miles should first be checked for oil leaks. If any oil leaks are present, have them fixed before determining how
 much oil is consumed by the engine, especially if blue smoke is not visible at the tail pipe.
-
----
 
 ## Cylinder Compression Check Procedure
 
@@ -536,8 +522,6 @@ help raise compression, there is leakage past the head gasket. Oil and coolant i
 symptoms of this problem. However, don't be alarmed by the normal white smoke emitted from the tail pipe during engine warm-up or from cold weather driving. There may be
 evidence of water droplets on the engine dipstick and/or oil droplets in the cooling system if a head gasket is blown.
 
----
-
 ## Engine Oil Pressure Testing Procedure
 
 
@@ -575,8 +559,6 @@ specification, and the hot reading was lower than the specification, you may hav
 quantity, then repeat the test.
 Low oil pressure readings could be attributed to internal component wear, pump related problems, a low oil level, or oil viscosity that is too low. High oil pressure readings
 could be caused by an overfilled crankcase, too high of an oil viscosity or a faulty pressure relief valve.
-
----
 
 ## Crankshaft Preparation and Installation
 
@@ -795,8 +777,6 @@ Engine Covers and Components
 
 Install the timing cover(s) and oil pan. Refer to your notes and drawings made prior to disassembly and install all of the components that were removed. Install the engine into the vehicle.
 
----
-
 ## Engine Disassembly Instructions for a 1993 Volvo 940
 
 
@@ -833,8 +813,6 @@ of the pistons from one bank, then reposition the engine with the other cylinder
 The only remaining component in the engine block should now be the crankshaft. Loosen the main bearing caps evenly until the fasteners can be turned by hand, then remove them and the
 caps. Remove the crankshaft from the engine block. Thoroughly clean all of the components.
 
----
-
 ## Engine Reconditioning and Cylinder Ridge Removal
 
 
@@ -868,8 +846,6 @@ Follow the tool manufacturers instructions and cut away the ridge, exercising ex
 4.
 
 Remove the ridge reamer, the rag and as many of the cuttings as possible. Continue until all of the cylinder ridges have been removed.
-
----
 
 ## Inspection and Analysis of Engine Components for Wear and Damage
 
@@ -994,8 +970,6 @@ the engine.
 Completely disassemble the oil pump and thoroughly clean all of the components. Inspect the oil pump gears and housing for wear and/or damage. Insure that the pressure relief valve
 operates properly and there is no binding or sticking due to varnish or debris. If all of the parts are in proper working condition, lubricate the gears and relief valve, and assemble the pump.
 
----
-
 ## Engine Block Refinishing and Piston Installation
 
 
@@ -1014,8 +988,6 @@ it may be the letter F cast or stamped into the piston.
 Fig. 2: Most pistons are marked to indicate positioning in the
 engine (usually a mark means the side facing the front)
 
----
-
 ## Engine Overhaul and Rebuilding Guidelines
 
 
@@ -1025,8 +997,6 @@ Competent and accurate machine shop services will ensure maximum performance, re
 remove, clean and inspect the component, buy the necessary parts and deliver these to a shop for actual machine work.
 Much of the assembly work (crankshaft, bearings, piston rods, and other components) is well within the scope of the do-it-yourself mechanic's tools and abilities. You will have to decide for
 yourself the depth of involvement you desire in an engine repair or rebuild.
-
----
 
 ## Engine Cleaning and Inspection
 
@@ -1061,8 +1031,6 @@ WARNING
 Use extreme care when cleaning around the cylinder head valve seats. A mistake or slip may cost you a new seat.
 When cleaning the cylinder head, remove carbon from the combustion chamber with the valves installed. This will avoid damaging the valve seats.
 
----
-
 ## Precautions for Handling Aluminum Parts in Engine Reconditioning
 
 
@@ -1075,8 +1043,6 @@ When assembling the engine, any parts that will be exposed to frictional contact
 purpose can be used, but engine oil is not recommended as a prelube in most cases.
 When semi-permanent (locked, but removable) installation of bolts or nuts is desired, threads should be cleaned and coated with Loctite(r) or another similar, commercial non-hardening
 sealant.
-
----
 
 ## Thread Repair Methods for Damaged Bolt Holes
 
@@ -1112,8 +1078,6 @@ Before attempting to repair a threaded hole, remove any snapped, broken or damag
 removed with locking pliers or using a screw/stud extractor. After the hole is clear, the thread can be repaired, as shown in the series of accompanying illustrations and in the kit
 manufacturer's instructions.
 
----
-
 ## Required Tools for Engine Overhaul and Parts Replacement
 
 
@@ -1133,8 +1097,6 @@ Engine stand
 The use of most of these tools is illustrated in this section. Many can be rented for a one-time use from a local parts jobber or tool supply house specializing in automotive work.
 Occasionally, the use of special tools is called for. See the information on Special Tools and the Safety Notice in the front of this book before substituting another tool.
 
----
-
 ## Engine Disassembly and Preparation
 
 
@@ -1153,16 +1115,12 @@ covers may require the vibration damper and/or crank pulley to be removed before
 crankshaft, pistons and connecting rods), plus any other 'in block' components such as oil pumps, balance shafts and auxiliary shafts.
 Finally, remove the cylinder head(s) from the engine block and carefully place on a bench. Disassembly instructions for each component follow later in this section.
 
----
-
 ## Engine Break-In and Maintenance
 
 
 Make the first miles on the new engine, easy ones. Vary the speed but do not accelerate hard. Most importantly, do not lug the engine, and avoid sustained high speeds until at least 100
 miles (161 km). Check the engine oil and coolant levels frequently. Expect the engine to use a little oil until the rings seat. Change the oil and filter at 500 miles (805 km), 1500 miles (2415
 km), then every 3000 miles (4830 km) past that.
-
----
 
 ## Maintaining Your Reconditioned Engine
 
@@ -1171,4 +1129,3 @@ Now that you have just gone through all of that hard work, keep yourself from do
 could have had one to two hundred thousand miles on it before doing this. However, you may have bought the vehicle used, and the previous owner did not keep up on maintenance. Which
 is why you just went through all of that hard work. See?
 
----

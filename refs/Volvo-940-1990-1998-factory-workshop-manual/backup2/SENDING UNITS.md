@@ -1,14 +1,10 @@
 # SENDING UNITS
 
----
-
 ## Engine Coolant Temperature (ECT) Sensor/Unit
 
 
 The Engine Coolant Temperature (ECT) sensor is used as the sending unit on Volvos. Please refer to Section 4 of this manual for information.
 Fig. 1: Location of the ECT sensor/temperature sending unit
-
----
 
 ## "Replacing the Thermal Switch on the Radiator"
 
@@ -72,16 +68,12 @@ Never open, service or drain the radiator or cooling system when hot; serious bu
 Fig. 1: The cooling fan switch is located at the upper corner
 of the radiator
 
----
-
 ## Testing the Electric Fan Switch
 
 
 The electric fan switch, or thermal switch, can be checked by placing the element in a bucket of water using an ohmmeter. Heat the water to approximately 207°–216°F (97°–102°C) and
 connect the switch leads to an ohmmeter. The switch should have no continuity until the temperature reaches this level. Let the water cool off below 207°F (97°C) and the switch should lose
 continuity. If the switch has no continuity at any temperature, replace it.
-
----
 
 ## Sending Unit Removal and Installation Procedure for 1993 Volvo 940
 
@@ -149,16 +141,12 @@ Fig. 4: Using a socket wrench and tool 999-5486 or
 equivalent, remove the retaining ring and lift the sending unit
 out of the tank
 
----
-
 ## Testing the Fuel Level Sender for a 1993 Volvo 940
 
 
 The easiest way to test the fuel level sender is to use an assistant and remove the sending unit from the fuel tank. Turn the ignition ON, but leave the engine OFF. While your assistant
 watches the fuel gauge, slowly move the sending unit arm upward and have your assistant check if the fuel gauge responds accordingly. If the gauge does not move, check the circuit to the
 gauge, and check the gauge; if both are OK, replace the sending unit.
-
----
 
 ## Replacing the Oil Pressure Sensor
 
@@ -200,8 +188,6 @@ Fig. 2: Unplug the connector from the oil pressure sensor
 
 Fig. 3: Unfasten the retaining bolts and remove the sensor
 
----
-
 ## Troubleshooting Procedure for Sending Unit Light
 
 
@@ -222,4 +208,3 @@ If the light is on, check the harness and dashboard light.
 If the light is off, replace the sensor and recheck the light operation.
 Fig. 1: Connect a jumper wire between terminals 1 and 2
 
----

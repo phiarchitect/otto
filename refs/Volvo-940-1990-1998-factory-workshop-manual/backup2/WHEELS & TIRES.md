@@ -1,7 +1,5 @@
 # WHEELS & TIRES
 
----
-
 ## Replacing Lug Studs on a 1993 Volvo 940
 
 
@@ -55,8 +53,6 @@ Install the wheel, then remove the jackstands and carefully lower the vehicle.
 
 Tighten the lug nuts to the proper torque.
 
----
-
 ## Tire and Wheel Inspection and Maintenance
 
 
@@ -64,4 +60,3 @@ Inspect the tires for lacerations, puncture marks, nails and other sharp objects
 of this manual.
 Check the wheel assemblies for dents, cracks, rust and metal fatigue. Repair or replace as necessary.
 
----

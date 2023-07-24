@@ -1,18 +1,10 @@
 # EZK and REX 1 DISTRIBUTOR IGNITION SYSTEMS
 
----
-
 Ignition system functions are controlled by the control module, so no adjustment is necessary. To check or adjust the ignition timing, refer to Section 1 of this manual.
-
----
 
 The Camshaft position sensor is covered in Section 4, under Electronic Engine Controls.
 
----
-
 The Crankshaft position sensor is covered in Section 4, under Electronic Engine Controls.
-
----
 
 The best way to perform this procedure is to use a spark tester (available at most automotive parts stores). Two types of spark testers are commonly available. The Neon Bulb type is
 connected to the spark plug wire and flashes with each ignition pulse. The Air Gap type must be adjusted to the individual spark plug gap specified for the engine. This type of tester allows
@@ -45,8 +37,6 @@ If the rotor is turning, perform the spark test again using the ignition coil wi
 
 If spark does not exist at the ignition coil wire, test the ignition coil, and other distributor related components or wiring. Repair or replace components as necessary.
 
----
-
 Fig. 1: Take care in working around the ignition system; high
 voltage is present and electrical shock can occur
 
@@ -71,12 +61,8 @@ Damaged or improperly engaged electrical connections, spark plug wires, etc.
 Discharged battery
 Blown fuses
 
----
-
 The only function of the distributor is to distribute voltage to the spark plugs. There are no advance functions built into the distributor. It is no longer possible to adjust ignition timing through the
 distributor.
-
----
 
 NOTE: For information on understanding electricity and troubleshooting electrical circuits, please refer to Section 6 of this manual.
 The EZ115K, EZ116K, EZ129K, and REX-1 ignition systems, used on Coupe, 240, 700 series, 1993–94 850, and 940 models are like most engine management systems currently in use,
@@ -87,8 +73,6 @@ temperature sensor, throttle position sensor or switch, and inputs from the elec
 Fig. 1: REX-1 ignition system
 
 Fig. 2: Typical EZK series ignition system
-
----
 
 EZ115K and EZ116K Systems
 
@@ -231,8 +215,6 @@ To install:
 
 Connect the negative battery cable.
 Fig. 2: REX-1 coil/power stage assembly
-
----
 
 EZ115K and EZ116K Systems
 
@@ -431,12 +413,8 @@ connector and terminal 16 of the ECU may be helpful. If the line is problem-free
 
 Install the air cleaner assembly.
 
----
-
 The power stage on the REX-1 and EZ129K systems is combined with the ignition coil into a single unit (Power Stage/Ignition Coil). Refer to the ignition coil removal and installation procedure
 earlier in this section.
-
----
 
 EZ115K and EZ116K Systems
 

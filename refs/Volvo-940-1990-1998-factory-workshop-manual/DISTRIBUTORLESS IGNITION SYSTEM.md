@@ -1,56 +1,36 @@
 # DISTRIBUTORLESS IGNITION SYSTEM
 
----
-
 ## Ignition System Adjustment and Control
 
 
 All adjustments in the ignition system are controlled by the Engine Control Module (ECM) for optimum performance. No adjustments are possible.
-
----
 
 ## Camshaft Position Sensor: Electronic Engine Control in Section 4
 
 
 The Camshaft position sensor is covered in Section 4, under Electronic Engine Controls.
 
----
-
 ## Crankshaft Position Sensor: Electronic Engine Control in Distributorless Ignition System
 
 
 The Crankshaft position sensor is covered in Section 4, under Electronic Engine Controls.
-
----
 
 ## Distributorless Ignition System Testing and Troubleshooting
 
 
 The best way to perform this procedure is to use a spark tester (available at most automotive parts stores). The Air Gap type must be adjusted to the individual spark plug gap specified for
 the engine. This type of tester allows the user to not only detect the presence of spark, but also the intensity (orange/yellow is weak, blue is strong).
-1.
+1. Remove a coil from a cylinder.
 
-Remove a coil from a cylinder.
+2. Connect the coil to the spark tester and ground the tester to an appropriate location on the engine.
 
-2.
+3. Crank the engine and check for spark at the tester.
 
-Connect the coil to the spark tester and ground the tester to an appropriate location on the engine.
+4. If spark exists at the tester, the ignition system is functioning properly.
 
-3.
-
-Crank the engine and check for spark at the tester.
-
-4.
-
-If spark exists at the tester, the ignition system is functioning properly.
-
-5.
-
-If spark does not exist at the spark tester, there is a fault in the ignition system. Further testing of the ignition system is needed. refer to component testing procedures.
+5. If spark does not exist at the spark tester, there is a fault in the ignition system. Further testing of the ignition system is needed. refer to component testing procedures.
 
 NOTE: The coil must be connected to the harness during this test.
-
----
 
 ## Distributorless Ignition System with Coil over Plug Technology
 
@@ -69,46 +49,26 @@ the vehicle may exhibit more driveability problems; it should be diagnosed as so
 Fig. 1: Motronic distributorless ignition system — B6304
 engine
 
----
-
 ## Distributorless Ignition Coil Removal and Installation
 
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Disconnect the harness from the ignition coil.
 
-2.
+3. Remove the retaining bolt from the ignition coil-to-upper cylinder head.
 
-Disconnect the harness from the ignition coil.
+4. Lift the coil off of the spark plug and from the cylinder.
 
-3.
-
-Remove the retaining bolt from the ignition coil-to-upper cylinder head.
-
-4.
-
-Lift the coil off of the spark plug and from the cylinder.
-
-5.
-
-Place the ignition coil into the correct cylinder and onto the spark plug. Push gently downward until a click is either felt or heard; the coil is now attached to the spark plug.
+5. Place the ignition coil into the correct cylinder and onto the spark plug. Push gently downward until a click is either felt or heard; the coil is now attached to the spark plug.
 
 To install:
-6.
+6. Install and tighten the retaining bolt on the ignition coil-to-upper cylinder head.
 
-Install and tighten the retaining bolt on the ignition coil-to-upper cylinder head.
+7. Connect the harness to the ignition coil.
 
-7.
-
-Connect the harness to the ignition coil.
-
-8.
-
-Connect the negative battery cable.
+8. Connect the negative battery cable.
 Fig. 1: Cutaway view of ignition coil-to-spark plug mounting
-
----
 
 ## Ignition Coil Resistance Test
 
@@ -118,4 +78,3 @@ ohm; if out of range, replace the ignition coil.
 Fig. 1: Connect an ohmmeter across the two terminals of the
 ignition coil to test the coil
 
----

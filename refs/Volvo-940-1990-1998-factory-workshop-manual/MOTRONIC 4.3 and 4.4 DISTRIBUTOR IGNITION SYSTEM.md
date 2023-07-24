@@ -1,51 +1,27 @@
 # MOTRONIC 4.3 and 4.4 DISTRIBUTOR IGNITION SYSTEM
 
----
-
 Ignition system functions are controlled by the ECM, so no adjustment is necessary. To check or adjust the ignition timing, refer to Section 1 of this manual.
-
----
 
 The Camshaft position sensor is covered in Section 4, under Electronic Engine Controls.
 
----
-
 The Crankshaft position sensor is covered in Section 4, under Electronic Engine Controls.
-
----
 
 The best way to perform this procedure is to use a spark tester (available at most automotive parts stores). Two types of spark testers are commonly available. The Neon Bulb type is
 connected to the spark plug wire and flashes with each ignition pulse. The Air Gap type must be adjusted to the individual spark plug gap specified for the engine. This type of tester allows
 the user to not only detect the presence of spark, but also the intensity (orange/yellow is weak, blue is strong).
-1.
+1. Disconnect a spark plug wire at the spark plug end.
 
-Disconnect a spark plug wire at the spark plug end.
+2. Connect the plug wire to the spark tester and ground the tester to an appropriate location on the engine.
 
-2.
+3. Crank the engine and check for spark at the tester.
 
-Connect the plug wire to the spark tester and ground the tester to an appropriate location on the engine.
+4. If spark exists at the tester, the ignition system is functioning properly.
 
-3.
+5. If spark does not exist at the spark plug wire, remove the distributor cap and ensure that the rotor is turning when the engine is cranked.
 
-Crank the engine and check for spark at the tester.
+6. If the rotor is turning, perform the spark test again using the ignition coil wire.
 
-4.
-
-If spark exists at the tester, the ignition system is functioning properly.
-
-5.
-
-If spark does not exist at the spark plug wire, remove the distributor cap and ensure that the rotor is turning when the engine is cranked.
-
-6.
-
-If the rotor is turning, perform the spark test again using the ignition coil wire.
-
-7.
-
-If spark does not exist at the ignition coil wire, test the ignition coil, and other distributor related components or wiring. Repair or replace components as necessary.
-
----
+7. If spark does not exist at the ignition coil wire, test the ignition coil, and other distributor related components or wiring. Repair or replace components as necessary.
 
 The ignition system operates with a very high output and there are hazardous voltages in the low and high voltage circuits.
 Always turn the ignition OFF, before separating connectors.
@@ -66,12 +42,8 @@ Damaged or improperly engaged electrical connections, spark plug wires, etc.
 Discharged battery
 Blown fuses
 
----
-
 On these Motronic systems, the distributor is essentially a rotor bolted onto the end of the intake camshaft. There is no distributor housing to remove. Once the distributor cap is removed, the
 rotor can be removed from the camshaft. See Section 1 for Distributor Cap and Rotor removal and installation.
-
----
 
 The Motronic 4.3 and 4.4 system on 850/C70/S70/V70 models is a total control system. Both engine and ignition controls are incorporated into one system with one control module. The
 control module receives the inputs from various sensors and controls all the outputs together.
@@ -84,50 +56,28 @@ The system has a fail safe or "limp home mode" where it defaults to a predetermi
 the vehicle may exhibit more driveability problems; it should be diagnosed as soon as possible.
 Fig. 1: Motronic 4.3 distributor ignition system
 
----
-
 The ignition coil and power stage are an assembly.
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Remove the air cleaner assembly.
 
-2.
+3. Carefully remove the coil wire from the coil tower.
 
-Remove the air cleaner assembly.
+4. Remove the mounting bolt(s) from the retaining bracket and remove the ignition coil and power stage.
 
-3.
+5. Unplug the power stage connector.
 
-Carefully remove the coil wire from the coil tower.
+6. Install the coil and power stage and tighten the retaining bolts.
 
-4.
+7. Plug the power stage connector in.
 
-Remove the mounting bolt(s) from the retaining bracket and remove the ignition coil and power stage.
+8. Install the coil wire on the coil tower.
 
-5.
-
-Unplug the power stage connector.
-
-6.
-
-Install the coil and power stage and tighten the retaining bolts.
-
-7.
-
-Plug the power stage connector in.
-
-8.
-
-Install the coil wire on the coil tower.
-
-9.
-
-Install the air cleaner assembly.
+9. Install the air cleaner assembly.
 
 To install:
 
-10.
-
-Connect the negative battery cable.
+10. Connect the negative battery cable.
 Fig. 1: Remove the coil wire from the coil
 
 Fig. 2: Unfasten the mounting bolts . . .
@@ -137,29 +87,17 @@ Fig. 3: . . . then remove the assembly from the strut tower
 Fig. 4: Unplug the power stage connector and remove the
 assembly from the vehicle
 
----
-
 Primary Winding Test
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Remove the air cleaner assembly.
 
-2.
+3. Remove the coil primary leads.
 
-Remove the air cleaner assembly.
+4. Connect an ohmmeter between the primary windings connectors on the outside of the coil.
 
-3.
-
-Remove the coil primary leads.
-
-4.
-
-Connect an ohmmeter between the primary windings connectors on the outside of the coil.
-
-5.
-
-Resistance should be 0.5–1.5 ohms.
+5. Resistance should be 0.5–1.5 ohms.
 Fig. 1: Remove the coil primary leads
 
 Fig. 2: Attach the ohmmeter probes to the studs after
@@ -169,28 +107,17 @@ Fig. 3: Testing the primary windings of the ignition coil
 
 Secondary Winding Test
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Remove the air cleaner assembly.
 
-2.
+3. Remove the coil wire from the coil.
 
-Remove the air cleaner assembly.
+4. Connect an ohmmeter between one of the primary winding connectors on the outside of the coil and the coil wire tower on the coil.
 
-3.
+5. Resistance should be 8–9 kilohms.
 
-Remove the coil wire from the coil.
-
-4.
-
-Connect an ohmmeter between one of the primary winding connectors on the outside of the coil and the coil wire tower on the coil.
-
-5.
-
-Resistance should be 8–9 kilohms.
 Fig. 4: Testing the secondary windings of the ignition coil
-
----
 
 The ignition coil and power stage are an assembly. Refer to the Ignition Coil removal and installation procedure in this section.
 

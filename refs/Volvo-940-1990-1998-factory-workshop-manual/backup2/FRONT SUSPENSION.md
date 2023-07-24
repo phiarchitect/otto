@@ -1,21 +1,15 @@
 # FRONT SUSPENSION
 
----
-
 ## "Coil Spring Integration and MacPherson Strut Procedures"
 
 
 The coil springs are integrated into the strut assembly. See the MacPherson Strut removal and installation and overhaul procedures which follow.
-
----
 
 ## Control Arm Strut and Bushing Inspection and Replacement
 
 
 The control arm strut, also called the radius rod or strut rod, serve to locate the lower control arm and prevent fore-and-aft movement. Except for impact damage, the rods rarely fail. The
 rubber bushings on each end are prone to fatigue and wear, and may need to be replaced after a few years. This part is found on all 960/S90/V90 models.
-
----
 
 ## Front Suspension Removal and Installation Procedure
 
@@ -71,15 +65,11 @@ Lower the vehicle.
 Connect the negative battery cable.
 Fig. 1: Strut rod — 900 series vehicles
 
----
-
 ## Front Wheel Bearing Maintenance for Front Drive Vehicles
 
 
 850, S70, C70 and V70 Models
 The front wheel bearings are not adjustable on front drive vehicles. If the lateral run-out on the hub with the disc removed exceeds 0.0007 inch (0.020mm), the hub must be replaced.
-
----
 
 ## Front Suspension Removal and Installation Procedure for 1993 Volvo 940
 
@@ -177,8 +167,6 @@ shown removed from the spindle, this can be done on the car
 Fig. 2: Separate the hub from the spindle after the retaining
 bolts are removed
 
----
-
 ## Front Suspension: MacPherson Type with Independent Wheel Suspension
 
 
@@ -186,15 +174,11 @@ The front suspension is the MacPherson type, which means that the wheels are ind
 the wheel spindle. The strut assembly is retained by a threaded screw in an upper mount, which is fixed to the wheel housing, and by its seating at the bottom. The upper end of the spring
 is fixed to the wheel arch and rests on the upper mount, through the upper mount seat. The seating for the lower end of the spring is a welded perch on the bottom of the strut tube.
 
----
-
 ## Front Wheel Bearing Replacement for Rear Drive Vehicles
 
 
 Except 850, C70, S70 and V70
 The front wheel bearings are not adjustable on the rear drive vehicles. If the lateral run-out on the hub with the disc removed exceeds 0.0012 inch (0.030mm), the hub must be replaced.
-
----
 
 ## Wheel Bearing Inspection and Maintenance
 
@@ -202,8 +186,6 @@ The front wheel bearings are not adjustable on the rear drive vehicles. If the l
 To check wheel bearing play, raise the vehicle and support it safely. Rock the wheel at 12 and 6 o'clock position. If there is movement, the wheel bearing should be serviced.
 To check wheel bearing noise, raise the wheel off the ground, then spin the wheel by hand and let it rotate freely after spinning. Check for wheel bearing noise. If the wheel bearing remains
 noisy after proper adjustment, replace the wheel bearing.
-
----
 
 ## Front Suspension: Wheel Bearing Replacement Procedure
 
@@ -321,8 +303,6 @@ drift 2725 or equivalent
 Fig. 3: Press the sealing ring onto the spindle before
 installing the hub assembly
 
----
-
 ## Front Suspension Removal and Installation Procedure
 
 
@@ -408,14 +388,10 @@ Install the wheel(s).
 
 Lower the vehicle.
 
----
-
 ## Ball Joint Axial and Radial Play Measurement
 
 
 Check the ball joint axial play. Maximum axial play permitted is 0.12 inch (3mm). Check the radial play. Maximum radial play permitted is 0.02 inch (0.5mm).
-
----
 
 ## Front Suspension: Ball Joint Removal and Installation
 
@@ -580,8 +556,6 @@ To install:
 10.
 
 Lower the car.
-
----
 
 ## Front Suspension Removal and Installation Procedure
 
@@ -801,8 +775,6 @@ losing them or getting the bolts mixed up
 
 Fig. 8: Pull the control arm from the subframe to remove it
 
----
-
 ## Front Suspension Replacement and Installation Procedure for 1993 Volvo 940
 
 
@@ -939,8 +911,6 @@ Install the wheel(s).
 Lower the vehicle.
 
 To install:
-
----
 
 ## Front Suspension Removal and Spring Compressor Procedure
 
@@ -1097,8 +1067,6 @@ Fig. 10: Disassembled strut components include a strut tube
 (1), retaining nut (2), bearing dust cap (3) and locknut (4),
 bearing and upper spring seat (5), boot (6) and compressed
 spring (7)
-
----
 
 ## Front Suspension Removal and Installation Procedure for 1993 Volvo 940
 
@@ -1275,8 +1243,6 @@ vehicle
 
 Fig. 8: Carefully remove the strut from the vehicle
 
----
-
 ## Maintaining and Upgrading the Sway Bar and Bushings
 
 
@@ -1284,8 +1250,6 @@ The sway bar, variously called the anti-roll bar or stabilizer bar, serves to co
 it are prone to wear. If the bar is not rigidly mounted to the vehicle, it cannot do its job properly.
 Sway bars of different diameters (thickness) can stiffen or soften the roll characteristics of a vehicle. Bushings are easily replaced and well worth the effort in terms of restoring proper
 cornering manners to your vehicle.
-
----
 
 ## Front Suspension Removal and Installation Procedure
 
@@ -1559,8 +1523,6 @@ the vehicle
 
 Fig. 5: The sway bar bushings are located on the subframe
 
----
-
 ## Front Suspension Alignment and Handling
 
 
@@ -1571,8 +1533,6 @@ adjustments which must be accurate; it should only be performed by a trained tec
 Following is a description of the alignment angles which are adjustable on most vehicles and how they affect vehicle handling. Although these angles can apply to both the front and rear
 wheels, usually only the front suspension is adjustable.
 
----
-
 ## Understanding Camber and Its Effects on Tire Contact and Vehicle Stability
 
 
@@ -1580,8 +1540,6 @@ Looking from the front of the vehicle, camber is the inward or outward tilt of t
 positive. In a turn, a slight amount of negative camber helps maximize contact of the tire with the road. However, too much negative camber compromises straight-line stability, increases
 bump steer and torque steer.
 Fig. 1: Camber influences tire contact with the road
-
----
 
 ## Understanding Caster Angle and its Impact on Steering Stability
 
@@ -1593,4 +1551,3 @@ Overloading the vehicle or sagging rear springs will affect caster, as will rais
 Fig. 1: Caster affects straight-line stability. Caster wheels
 used on shopping carts, for example, employ positive caster
 
----

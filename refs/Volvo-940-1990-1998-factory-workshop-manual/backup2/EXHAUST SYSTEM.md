@@ -1,7 +1,5 @@
 # EXHAUST SYSTEM
 
----
-
 ## Safety Precautions and Inspection Guidelines for the Exhaust System
 
 
@@ -33,4 +31,3 @@ need replacement
 Fig. 7: Some systems, like this one, use large O-rings
 (donuts) in between the flanges
 
----

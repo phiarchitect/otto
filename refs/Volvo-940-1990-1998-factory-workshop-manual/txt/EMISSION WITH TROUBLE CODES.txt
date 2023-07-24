@@ -199,4 +199,3 @@ Read the control module memory with the Generic Scan Tool (GST)
 Read the control module memory with the vehicle manufacturer's specific tester
 To read the fault codes, connect the scan tool or tester according to the manufacturer's instructions. Follow the manufacturer's specified procedure for reading the codes.
 
-

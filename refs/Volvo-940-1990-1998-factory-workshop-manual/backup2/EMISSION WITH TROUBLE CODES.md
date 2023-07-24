@@ -1,7 +1,5 @@
 # EMISSION WITH TROUBLE CODES
 
----
-
 ## Resetting Emission Fault Codes and Memory for 1990-94 and 1995-98 Volvo 940 Vehicles
 
 
@@ -48,12 +46,8 @@ alarms.
 NOTE: The MIL will may also be de-activated for some codes if the vehicle completes three consecutive trips without a fault detected with vehicle conditions similar to
 those present during the fault.
 
----
-
 ## Trouble Code Emission Diagnostics
 
-
----
 
 ## Location of Data Link Connector (DLC) for Emission Troubleshooting
 
@@ -68,8 +62,6 @@ Fig. 2: Lift the cover up to access the OBD-II DLC
 
 Fig. 3: The OBD-II connector located in the center console
 with the cover removed
-
----
 
 ## Understanding the Electronic Engine Control System
 
@@ -98,4 +90,3 @@ NOTE: If the battery cable(s) is disconnected for longer than 5 minutes, the ada
 10 miles to allow the processor to relearn the correct factors. The driving period should include steady-throttle open road driving if possible. During the drive, the
 vehicle may exhibit driveability symptoms not noticed before. These symptoms should clear as the ECM computes the correction factor.
 
----

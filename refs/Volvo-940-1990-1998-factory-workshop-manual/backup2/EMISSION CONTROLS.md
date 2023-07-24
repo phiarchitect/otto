@@ -1,14 +1,10 @@
 # EMISSION CONTROLS
 
----
-
 ## Crankcase Ventilation System Servicing and Troubleshooting
 
 
 Servicing the crankcase ventilation system consists of checking the hoses for cracks or vacuum leaks and checking the hoses, calibrated nipple and flame guard for clogging. Remove the
 hose from the air inlet tube and with engine running, check for a presence of vacuum. If no vacuum is present, find the restriction in the PCV system.
-
----
 
 ## Crankcase Emission Control and Recycling
 
@@ -30,14 +26,10 @@ manifold. If the valve should become blocked or plugged, the gases will be preve
 find their own way out of the crankcase. This alternate route is usually a weak oil seal or gasket in the engine. As the gas escapes by the gasket, it also creates an oil leak. Besides causing
 oil leaks, a clogged PCV valve also allows these gases to remain in the crankcase for an extended period of time, promoting the formation of sludge in the engine.
 
----
-
 ## PCV Valve Inspection and Maintenance
 
 
 Refer to Section 1 for removal and installation of the PCV valve. The PCV nipple should be removed and inspected every 60,000 miles (96,000 km).
-
----
 
 ## EVAP System Inspection and Canister Purge Valve Testing
 
@@ -58,8 +50,6 @@ Connect a hand-held vacuum pump to the fitting and pump up vacuum.
 3.
 
 If vacuum holds, valve is ok. If vacuum falls off, valve diaphragm is leaking, replace the valve.
-
----
 
 ## Evaporative Emission Control System: Fuel Vapor Storage and Purge
 
@@ -89,8 +79,6 @@ are used and they are mounted on the drivers side of the vehicle. The canister p
 included and located below the brake booster. The test port is used to pressurize the system with a special gas and serious precautions must be taken to avoid damage to the EVAP system
 and the fuel tank. This is a procedure best suited to a professional shop, due to the precautions and the equipment needed to test this system. The ECM can store trouble codes for EVAP
 system performance, a list of the codes is provided later in this section. Normal testing procedure can be used for any component listed in EVAP testing in this book.
-
----
 
 ## Replacing and Installing the Evaporative (Carbon) Canister and Canister Purge Valve
 
@@ -155,8 +143,6 @@ Fig. 4: EVAP system hose connections on the intake manifold
 Canister Purge Valve
 NOTE: The valve is located on the top of the canister. When the canister is removed, the valve can be removed from the canister by carefully pulling the valve off of the
 canister.
-
----
 
 ## Testing EGR Temperature Sensor, Gas Flow, and Valve Leakage
 
@@ -302,8 +288,6 @@ Fig. 4: Remove the outlet hose of the controller and . . .
 Fig. 5: . . . connect a vacuum gauge to the port to check
 operation of the controller valve
 
----
-
 ## Emission Controls: EGR System and Components
 
 
@@ -338,8 +322,6 @@ The EGR temperature sensor measures the temperature of exhaust gases returned to
 resistance through the sensor will rise with the temperature. The sensor is designed to measure temperatures up to 930°F (500°C). Detection of temperature variations enables the control
 unit to determine whether or not the EGR system is working. The sensor is located in the EGR upper pipe, between the intake manifold and EGR valve.
 Fig. 4: An EGR temperature sensor
-
----
 
 ## EGR Valve Replacement Procedure
 
@@ -476,8 +458,6 @@ Install any components removed to access the valve.
 
 Connect the negative battery cable.
 
----
-
 ## Emission Controls: Control Valve and Air Supply Pump Functional Tests
 
 
@@ -516,8 +496,6 @@ Run the engine to normal operating temperature and let it idle.
 Disconnect the air supply hose from the shut-off valve. If the pump is operating properly, airflow should be felt at the hose. The flow should increase as you increase the engine
 speed. The pump is not serviceable and should be replaced if it is not functioning properly.
 
----
-
 ## Pulsed Secondary Air System
 
 
@@ -527,8 +505,6 @@ The system uses a shut-off valve which is used to prevent backfire in the exhaus
 be created which could not normally be burned. This mixture becomes burnable when it reaches the exhaust area and combines with the injected air. The shut-off valve senses the sudden
 increase in the intake manifold vacuum causing the valve to open, allowing air from the air pump to pass through the valve and silencer into the atmosphere.
 Fig. 1: Pulsed Secondary Air System
-
----
 
 ## Air Pump Removal and Installation Procedure
 
@@ -573,14 +549,10 @@ Connect the negative battery cable.
 
 To install:
 
----
-
 ## Resetting Maintenance Light
 
 
 See Section 1 for maintenance light resetting.
-
----
 
 ## Intake Air Control for Constant Temperature and Ice Prevention
 
@@ -588,8 +560,6 @@ See Section 1 for maintenance light resetting.
 A thermostatically controlled shutter is housed in the air cleaner. The thermostat senses the intake air temperature and changes the position of the shutter, to vary the proportions of hot and
 cold air entering the air cleaner.
 Intake air preheating provides the engine with nearly constant temperature intake air, regardless of ambient air temperature. This provides for smooth engine running and prevents ice buildup.
-
----
 
 ## "Shutter Removal and Installation Procedure"
 
@@ -612,4 +582,3 @@ Install the air cleaner housing.
 
 To install:
 
----

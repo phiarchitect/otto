@@ -1,7 +1,5 @@
 # ENGINE MECHANICAL
 
----
-
 ## Left Shaft and Housing Removal
 
 
@@ -201,8 +199,6 @@ Connect the negative battery cable.
 To install:
 
 NOTE: Make certain the shaft does not seize within the housing during installation.
-
----
 
 ## Camshaft Removal and Inspection
 
@@ -645,8 +641,6 @@ Fig. 10: Inspect the camshaft lobes for wear
 
 Fig. 11: Remove the camshaft followers, noting their position
 
----
-
 ## Engine Component Removal and Installation
 
 
@@ -890,8 +884,6 @@ Fig. 4: Keep the damper from turning while you remove the
 center nut
 
 Fig. 5: Remove the damper from the crankshaft
-
----
 
 ## Engine Disassembly and Cylinder Head Removal
 
@@ -1957,8 +1949,6 @@ Fig. 18: A torque angle gauge can be helpful when angletightening the head bolts
 Fig. 19: 2.3L and 2.4L 5-cylinder engine head bolt tightening
 sequence
 
----
-
 ## Engine Fan Removal and Installation
 
 
@@ -2139,8 +2129,6 @@ maneuver the fan up . . .
 
 Fig. 7: . . . and out of the engine compartment
 
----
-
 ## Engine Mechanical Specifications
 
 
@@ -2168,8 +2156,6 @@ HEADS, VALVES AND SPRINGS)
 
 ENGINE MECHANICAL SPECIFICATIONS (VALVES
 AND SPRINGS)
-
----
 
 ## Engine Removal and Installation Process and Tips
 
@@ -3043,8 +3029,6 @@ To install:
 Fig. 1: Typical engine mount on the 2.3L and 2.4L 5-cylinder
 engine
 
----
-
 ## Procedure for Removing and Installing Engine Components
 
 
@@ -3331,8 +3315,6 @@ Fig. 10: The exhaust manifold uses individual gaskets
 around each port in the head; replace them before manifold
 installation
 
----
-
 ## Ring Gear Replacement Procedure for Manual Transmission Vehicles
 
 
@@ -3425,8 +3407,6 @@ to hold the flywheel
 
 Fig. 2: Check the ring gear's teeth for damage; if damage is
 noted, replace the ring gear
-
----
 
 ## Timing Belt Replacement and Seal Installation for 1993 Volvo 940's 2.3L 4-Cylinder Engine
 
@@ -3688,8 +3668,6 @@ Connect the negative battery cable.
 Test run the engine.
 
 To install:
-
----
 
 ## Intake Manifold Removal and Installation
 
@@ -4235,8 +4213,6 @@ Fig. 7: You can see the valves through the intake ports.
 Inspect the valves for carbon build-up while the intake
 manifold is off
 
----
-
 ## Engine Removal and Oil Pan Replacement
 
 
@@ -4439,8 +4415,6 @@ Tighten the pan bolts in a crisscross pattern to 12 ft. lbs. (17 Nm).
 10.
 
 Install the oil filter.
-
----
 
 ## Oil Pump Removal and Installation Procedure
 
@@ -4846,8 +4820,6 @@ NOTE: There are tabs on the oil pump housing located at the 6 o'clock and 11 o'c
 
 To install:
 
----
-
 ## Radiator Removal and Coolant Drainage
 
 
@@ -4983,8 +4955,6 @@ Fig. 10: After the radiator support brackets are removed . . .
 
 Fig. 11: . . . the radiator can be removed. (On some models
 such as this 850, you remove it from below)
-
----
 
 ## Seal Housing Removal and Installation
 
@@ -5250,8 +5220,6 @@ Lower the vehicle.
 
 Connect the negative battery cable.
 
----
-
 ## Engine Disassembly and Preparation
 
 
@@ -5352,8 +5320,6 @@ NOTE: Do not jar the head while the rocker and bolts are loose, as the cylinder 
 To install:
 
 Fig. 1: Rocker arm shaft assembly — 2.8L 6-cylinder engine
-
----
 
 ## Valve Cover Removal and Installation
 
@@ -5566,8 +5532,6 @@ Fig. 6: Carefully lift the upper cylinder head up and off the
 lower section. Note the integral camshaft bearing caps in the
 casting
 
----
-
 ## Thermostat Replacement and Cooling System Refill
 
 
@@ -5631,8 +5595,6 @@ Fig. 2: Unfasten the retaining bolts and remove the thermostat
 housing
 
 Fig. 3: Remove the thermostat from the engine
-
----
 
 ## B234F Engine Belt Tensioning Procedure
 
@@ -5715,8 +5677,6 @@ Read the gauge. If the belt tension is correct, the gauge should read between 3.
 
 If the reading is incorrect, replace the tensioner.
 
----
-
 ## Timing Belt Inspection and Replacement Guidelines
 
 
@@ -5745,8 +5705,6 @@ indicate a faulty guide
 
 Fig. 8: ALWAYS replace the timing belt at the interval
 specified by the manufacturer
-
----
 
 ## Timing Belt Replacement and Tensioner Maintenance for B230F and B230FT Engines
 
@@ -6281,8 +6239,6 @@ wrench, as used here)
 Fig. 21: Remove the tensioner from the vise, leaving the pin
 or Allen wrench in the piston
 
----
-
 ## Engine Disassembly and Reassembly
 
 
@@ -6501,8 +6457,6 @@ Fig. 8: Remove the water pump pulley; it is retained by a
 Fig. 9: Remove the retaining bolts and carefully remove the
 timing belt cover
 
----
-
 ## Timing Chain Removal and Installation Procedure
 
 
@@ -6622,8 +6576,6 @@ sprocket assembly
 Fig. 3: Driver's side timing chain installation sequence
 
 Fig. 4: Passenger side timing chain installation sequence
-
----
 
 ## Engine Cover and Seal Removal and Installation Procedure
 
@@ -6775,8 +6727,6 @@ Connect the negative battery cable.
 14.
 
 Start the engine and check for leaks.
-
----
 
 ## Engine Disassembly and Preparation
 
@@ -7063,4 +7013,3 @@ NOTE: It may be necessary to reset a fault code after replacing the turbocharger
 Fig. 4: Turbocharger assembly and related
 components — 2.3L and 2.4L 5-cylinder engines
 
----

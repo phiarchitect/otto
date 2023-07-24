@@ -1,27 +1,19 @@
 # DISTRIBUTORLESS IGNITION SYSTEM
 
----
-
 ## Ignition System Adjustment and Control
 
 
 All adjustments in the ignition system are controlled by the Engine Control Module (ECM) for optimum performance. No adjustments are possible.
-
----
 
 ## Camshaft Position Sensor: Electronic Engine Control in Section 4
 
 
 The Camshaft position sensor is covered in Section 4, under Electronic Engine Controls.
 
----
-
 ## Crankshaft Position Sensor: Electronic Engine Control in Distributorless Ignition System
 
 
 The Crankshaft position sensor is covered in Section 4, under Electronic Engine Controls.
-
----
 
 ## Distributorless Ignition System Testing and Troubleshooting
 
@@ -50,8 +42,6 @@ If spark does not exist at the spark tester, there is a fault in the ignition sy
 
 NOTE: The coil must be connected to the harness during this test.
 
----
-
 ## Distributorless Ignition System with Coil over Plug Technology
 
 
@@ -68,8 +58,6 @@ The system has a fail safe or "limp home mode" where it defaults to a predetermi
 the vehicle may exhibit more driveability problems; it should be diagnosed as soon as possible.
 Fig. 1: Motronic distributorless ignition system — B6304
 engine
-
----
 
 ## Distributorless Ignition Coil Removal and Installation
 
@@ -108,8 +96,6 @@ Connect the harness to the ignition coil.
 Connect the negative battery cable.
 Fig. 1: Cutaway view of ignition coil-to-spark plug mounting
 
----
-
 ## Ignition Coil Resistance Test
 
 
@@ -118,4 +104,3 @@ ohm; if out of range, replace the ignition coil.
 Fig. 1: Connect an ohmmeter across the two terminals of the
 ignition coil to test the coil
 
----

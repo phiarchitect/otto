@@ -1,7 +1,5 @@
 # CHARGING & STARTING SYSTEM
 
----
-
 ## Precautions for Working on Alternator Equipment
 
 
@@ -13,8 +11,6 @@ When charging a battery that is installed in the vehicle, disconnect the negativ
 When utilizing a booster battery as a starting aid, always connect it in parallel; negative to negative, and positive to positive.
 When arc (electric) welding is to be performed on any part of the vehicle, disconnect the negative battery cable and alternator leads.
 Never unplug the ECM while the engine is running or with the ignition in the ON position. Severe and expensive damage may result within the solid state equipment.
-
----
 
 ## Alternator Removal and Installation Procedure
 
@@ -157,8 +153,6 @@ Fig. 9: Unfasten the alternator mounting bolts . . .
 
 Fig. 10: . . . and remove the alternator
 
----
-
 ## Charging and Starting System Testing Procedures
 
 
@@ -235,8 +229,6 @@ faulty wiring and other problems can cause the charging system to malfunction. F
 component failure. Many automotive parts stores have alternator bench testers available for use by customers. An alternator bench test is the most
 definitive way to determine the condition of your alternator.
 
----
-
 ## Spark Plug Wire Replacement and Firing Order for Volvo 940
 
 
@@ -256,8 +248,6 @@ Distributorless Ignition
 Fig. 4: 2.3L and 2.4L 5-Cylinder Engines Firing Order: 1–2–4
 –5–3 Distributor Rotation: Counterclockwise
 
----
-
 ## "Overview of the Starting System and Components in a 1993 Volvo 940"
 
 
@@ -266,8 +256,6 @@ to prevent the vehicle from being started with the vehicle in gear.
 When the ignition key is turned to the START position, current flows and energizes the starter's solenoid coil. The solenoid plunger and clutch shift lever are activated and the clutch pinion
 engages the ring gear on the flywheel. The switch contacts close and the starter cranks the engine until it starts.
 To prevent damage caused by excessive starter armature rotation when the engine starts, the starter incorporates an over-running clutch in the pinion gear.
-
----
 
 ## Understanding the Charging & Starting System
 
@@ -285,8 +273,6 @@ but unidirectional flow at the alternator output. The alternator's field is wire
 The regulator consists of several circuits. Each circuit has a core, or magnetic coil of wire, which operates a switch. Each switch is connected to ground through one or more resistors. The
 coil of wire responds directly to system voltage. When the voltage reaches the required level, the magnetic field created by the winding of wire closes the switch and inserts a resistance into
 the generator field circuit, thus reducing the output. The contacts of the switch cycle open and close many times each second to precisely control voltage.
-
----
 
 ## Replacing the External Regulator
 
@@ -322,8 +308,6 @@ Connect the harness to the regulator.
 Connect the negative battery cable.
 
 To install:
-
----
 
 ## Starter Motor Removal and Installation
 
@@ -368,4 +352,3 @@ Fig. 3: Unfasten the starter retaining bolts . . .
 
 Fig. 4: . . . and remove the starter from the engine
 
----

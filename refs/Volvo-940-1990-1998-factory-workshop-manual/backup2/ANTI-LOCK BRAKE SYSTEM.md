@@ -1,14 +1,10 @@
 # ANTI-LOCK BRAKE SYSTEM
 
----
-
 ## Bleeding the ABS Brake System
 
 
 The ABS system is bled the same way as a conventional system; refer to Bleeding the Brake System, earlier in this section.
 Brake Specifications
-
----
 
 ## Troubleshooting and Inspection Steps for ABS System Faults
 
@@ -252,8 +248,6 @@ Reinstall the hydraulic modulator cover and the soundproofing at the left side o
 
 Road test the vehicle and confirm proper system operation.
 
----
-
 ## Diagnostic Procedures for Pre-1993 and 1993-1995 Volvo 940 Anti-Lock Brake System
 
 
@@ -273,8 +267,6 @@ Fig. 1: Use the DLC to retrieve the ABS trouble codes
 up the Volvo Scan tool or equivalent Diagnostic tool. Follow the menu on the scan tool to retrieve the DTCs.
 Fig. 2: The DLC is located on the center console, in front of
 the shifter handle
-
----
 
 ## Pre-Diagnostic Inspection for ABS Functionality
 
@@ -299,8 +291,6 @@ harness and component connectors carefully.
 If the ANTI-LOCK warning lamp is on during vehicle operation, the control unit has detected a fault and disabled the system.
 If the monitoring circuit detects a fault, the control unit will disable the ABS system and light the warning lamp on the dashboard. If the light comes on during vehicle operation, perform
 diagnostics.
-
----
 
 ## ABS Operation and Components
 
@@ -332,8 +322,6 @@ causing the brake fluid to be "pumped" to that wheel, slowing the wheel rotation
 Fig. 1: ABS braking circuit for 1990–91 models
 
 Fig. 2: ABS braking circuit for 1992–98 models
-
----
 
 ## Wheel Speed Sensors and Electronic Control Unit (CU)
 
@@ -375,8 +363,6 @@ are found, the CU will extinguish the lamp within a few seconds. After this init
 If the ABS lamp does come on during operation, the CU has detected a fault and disabled the system. If only the ABS warning lamp is lit, the vehicle retains normal braking characteristics
 and may be safely driven. If both warning lamps are lit, the braking capacity of the vehicle may be impaired.
 Fig. 3: Location of the ABS light on the instrument cluster
-
----
 
 ## Removing and Installing the Hydraulic Modulator for the Anti-Lock Brake System
 
@@ -998,4 +984,3 @@ ON THE DIFFERENTIAL
 The pulse wheel is located on the ring gear inside the differential. Teardown of the differential is necessary to replace the pulse wheel. This job requires many special tools and is not
 recommended for the do-it-yourselfer.
 
----

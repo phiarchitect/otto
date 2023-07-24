@@ -1,13 +1,9 @@
 # PARKING BRAKE SYSTEM
 
----
-
 ## Parking Brake Cable Adjustment Procedure
 
 
 Refer to the Parking Brake Cable adjustment procedure, earlier in this section.
-
----
 
 ## Parking Brake System Maintenance and Adjustment
 
@@ -111,8 +107,6 @@ backing plates
 Fig. 8: Disassembled view of the parking brake shoes and
 associated hardware
 
----
-
 ## Adjusting the Parking Brake System for 1993 Volvo 940
 
 
@@ -179,8 +173,6 @@ Fig. 2: Parking brake adjustment on 240, Coupe and 700
 series models
 
 Fig. 3: Parking brake adjustment on 900 series models
-
----
 
 ## Parking Brake System Maintenance and Adjustment
 
@@ -505,4 +497,3 @@ Fig. 1: Parking brake and cable exploded view
 Fig. 2: Release the tension on the cable by backing off the
 bolt on the handle
 
----

@@ -1,7 +1,5 @@
 # REAR SUSPENSION
 
----
-
 ## Rear Suspension Spring Removal and Installation
 
 
@@ -296,8 +294,6 @@ Remove the jack from under the control arm.
 
 Lower the vehicle.
 
----
-
 ## Rear Suspension: Removal and Installation of Hub and Rotor
 
 
@@ -369,8 +365,6 @@ Install the wheels.
 16.
 
 Lower the vehicle.
-
----
 
 ## Procedure for Removing Rear Suspension Components
 
@@ -619,8 +613,6 @@ To install:
 NOTE: The leaf spring is marked with a center line.
 
 Fig. 1: Leaf spring compression tool J-41470
-
----
 
 ## Rear Suspension Removal and Installation Procedure
 
@@ -971,8 +963,6 @@ Lower the vehicle.
 
 To install:
 
----
-
 ## Rear Suspension Options for 1993 Volvo 940
 
 
@@ -987,8 +977,6 @@ To install:
 900 series solid rear axle suspension
 
 1991â€“94 900 series multi-link rear suspension
-
----
 
 ## Rear Suspension Replacement Procedure for 1993 Volvo 940
 
@@ -1294,8 +1282,6 @@ Fig. 4: Remove the upper mount and bushing if replacing
 the shock absorber; it will need to be attached to the
 replacement shock
 
----
-
 ## Shock Absorber Function and Impact on Vehicle Handling
 
 
@@ -1312,8 +1298,6 @@ time to replace it
 
 While each shock absorber can be replaced individually, it is recommended that they be changed as a pair (both front or both rear) to maintain equal response on both sides of the vehicle.
 Chances are quite good that if one has failed, its mate is weak also.
-
----
 
 ## Rear Suspension Removal and Installation Procedure
 
@@ -1458,8 +1442,6 @@ left side rear bolt to 48 ft. lbs. (65 Nm) and angle tighten 90°
 Cut the tie wrap holding the silencer and install the rubber mount.
 Lower the vehicle.
 
----
-
 ## Rear Suspension Removal and Installation Procedure
 
 
@@ -1562,8 +1544,6 @@ Fig. 2: Sway bar mounting
 Fig. 3: Driver side trailing arm mounting
 
 Fig. 4: Trailing arm-to-body mounting
-
----
 
 ## Rear Suspension Removal and Disassembly
 
@@ -1797,11 +1777,8 @@ Install the wheels.
 
 Lower the vehicle.
 
----
-
 ## Rear Wheel Bearings and Adjustment
 
 
 The rear wheel bearings are sealed, pressed-in units, and no adjustment is possible.
 
----

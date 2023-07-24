@@ -6895,144 +6895,89 @@ cylinder head. Note the manifold bolt locations
 
 2.3L and 2.4L 5-Cylinder Engines
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2.  Drain and recycle the engine coolant.
 
-2.
+3.  Drain the engine oil.
 
-Drain and recycle the engine coolant.
+4.  Remove the heat shield from over the exhaust manifold.
 
-3.
+5.  Remove the upper air charge pipe and rubber hose from the turbo and move it to one side.
 
-Drain the engine oil.
+6.  Remove the fresh air intake hose and inner heat shield.
 
-4.
+7. Disconnect the upper turbo coolant return pipe and clamp off the hose, move it to the side.
 
-Remove the heat shield from over the exhaust manifold.
+8. Disconnect the oil inlet pipe nipple.
 
-5.
+9. Raise and safely support the vehicle.
 
-Remove the upper air charge pipe and rubber hose from the turbo and move it to one side.
+10. Remove or disconnect the following from under side:
 
-6.
+- clamp between the pipes
+- oil return pipe
+- exhaust pipe bracket and bolt
+- exhaust pipe to turbo nut
+- exhaust manifold to turbo nuts
 
-Remove the fresh air intake hose and inner heat shield.
+11. From the top side remove the exhaust pipe to turbo nuts.
 
-7.
+12. Disconnect the coolant inlet pipe to the turbo.
 
-Disconnect the upper turbo coolant return pipe and clamp off the hose, move it to the side.
+13. Remove the turbo/exhaust manifold nuts.
 
-8.
+14. Disconnect the following hoses from the turbo:
 
-Disconnect the oil inlet pipe nipple.
+- red boost pressure
+- white bypass valve
+- yellow pressure regulator
 
-9.
+15. Remove the turbo and the old pin bolts from the exhaust manifold.
 
-Raise and safely support the vehicle.
+16. Coat new O-rings with oil, and install them in the pipes.
 
-10.
+17. Remove the old O-rings from the pipes.
 
-Remove or disconnect the following from under side:
-clamp between the pipes
-oil return pipe
-exhaust pipe bracket and bolt
-exhaust pipe to turbo nut
-exhaust manifold to turbo nuts
+18. Install new pin bolts with threadlocking compound and tighten to 15 ft. lbs. (20 Nm).
 
-11.
+19. Install the turbo and connect the red, white, and yellow hoses to it.
 
-From the top side remove the exhaust pipe to turbo nuts.
+20. Install the upper exhaust manifold nuts and tighten them lightly.
 
-12.
+21. Working from under the vehicle, install the lower exhaust manifold nuts and tighten them to 18 ft. lbs. (25 Nm).
 
-Disconnect the coolant inlet pipe to the turbo.
+22. On the top side, tighten the upper exhaust manifold nuts to 18 ft. lbs. (25 Nm).
 
-13.
+23. Tighten the exhaust manifold/turbo nuts to 22 ft. lbs. (30 Nm) and check that they are mated properly.
 
-Remove the turbo/exhaust manifold nuts.
+24. Under the vehicle install the oil pipe, grease the O-ring.
 
-14.
+25. Install the exhaust pipe bracket bolt.
 
-Disconnect the following hoses from the turbo:
-red boost pressure
-white bypass valve
-yellow pressure regulator
-
-15.
-
-Remove the turbo and the old pin bolts from the exhaust manifold.
-
-16.
-
-Coat new O-rings with oil, and install them in the pipes.
-
-17.
-
-Remove the old O-rings from the pipes.
-
-18.
-
-Install new pin bolts with threadlocking compound and tighten to 15 ft. lbs. (20 Nm).
-
-19.
-
-Install the turbo and connect the red, white, and yellow hoses to it.
-
-20.
-
-Install the upper exhaust manifold nuts and tighten them lightly.
-
-21.
-
-Working from under the vehicle, install the lower exhaust manifold nuts and tighten them to 18 ft. lbs. (25 Nm).
-
-22.
-
-On the top side, tighten the upper exhaust manifold nuts to 18 ft. lbs. (25 Nm).
-
-23.
-
-Tighten the exhaust manifold/turbo nuts to 22 ft. lbs. (30 Nm) and check that they are mated properly.
-
-24.
-
-Under the vehicle install the oil pipe, grease the O-ring.
-
-25.
-
-Install the exhaust pipe bracket bolt.
-
-26.
-
-Lower the vehicle and install or connect the following:
+26. Lower the vehicle and install or connect the following:
 
 To install:
 
-oil inlet pipe
-inlet and outlet coolant pipes (make sure the clamps are removed)
-fresh air intake hose
+- oil inlet pipe
+- inlet and outlet coolant pipes (make sure the clamps are removed)
+- fresh air intake hose
+- inner heat shield
+- upper air charge pipe
+- outer heat shield
 
-inner heat shield
-upper air charge pipe
-outer heat shield
 NOTE: Replace the copper coolant pipe and upper oil pipe washers.
-27.
 
-Raise the vehicle and remove the clamp from coolant return hose.
+27. Raise the vehicle and remove the clamp from coolant return hose.
 
-28.
+28. Connect the negative battery cable.
 
-Connect the negative battery cable.
+29. Run the engine to check the boost pressure.
 
-29.
+30. Check oil and coolant levels.
 
-Run the engine to check the boost pressure.
-
-30.
-
-Check oil and coolant levels.
 NOTE: It may be necessary to reset a fault code after replacing the turbocharger.
+
 Fig. 4: Turbocharger assembly and related
 components — 2.3L and 2.4L 5-cylinder engines
 
@@ -7042,303 +6987,171 @@ Fuel Delivery: FI | Fuel: GAS
 
 2.3L 4-Cylinder Engine
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Set the heater control to MAX heat.
 
-2.
+3. Remove the expansion tank cap.
 
-Set the heater control to MAX heat.
+4. Open the draincocks on the right-hand side of the engine block and on the radiator, and drain the coolant into a suitable container.
 
-3.
+5. Close the draincocks when the coolant is completely drained.
 
-Remove the expansion tank cap.
+6. Remove the radiator shroud and fan.
 
-4.
+7. Remove the lower radiator hose at the water pump.
 
-Open the draincocks on the right-hand side of the engine block and on the radiator, and drain the coolant into a suitable container.
+8. If required, remove the retaining bolt for the coolant pipe beneath the exhaust manifold and pull the pipe rearward.
 
-5.
+9. Remove the drive belts and water pump pulleys.
 
-Close the draincocks when the coolant is completely drained.
+10. Remove the water pump bolts, washers and nuts.
 
-6.
+11. Remove the water pump assembly.
 
-Remove the radiator shroud and fan.
-
-7.
-
-Remove the lower radiator hose at the water pump.
-
-8.
-
-If required, remove the retaining bolt for the coolant pipe beneath the exhaust manifold and pull the pipe rearward.
-
-9.
-
-Remove the drive belts and water pump pulleys.
-
-10.
-
-Remove the water pump bolts, washers and nuts.
-
-11.
-
-Remove the water pump assembly.
-
-12.
-
-Clean the gasket contact surfaces thoroughly and use a new gasket and O-rings. Coat the O-rings with coolant prior to installing them. Install a thin layer of gasket sealer on the
+12. Clean the gasket contact surfaces thoroughly and use a new gasket and O-rings. Coat the O-rings with coolant prior to installing them. Install a thin layer of gasket sealer on the
 water pump to help the gasket stay in place during installation.
 
 To install:
 
 CAUTION
 Make sure that the water pump is aligned before tightening the retaining bolts, it is extremely easy to misalign the pump and break it.
-13.
 
-Install the water pump and tighten the bolts to 11–15 ft. lbs. (15–20 Nm) in a crisscross pattern.
+13. Install the water pump and tighten the bolts to 11–15 ft. lbs. (15–20 Nm) in a crisscross pattern.
 
-14.
+14. Install the coolant pipe and lower radiator hose.
 
-Install the coolant pipe and lower radiator hose.
+15. Install the accessory drive belts and water pump pulley.
 
-15.
+16. Install the fan and shroud.
 
-Install the accessory drive belts and water pump pulley.
+17. Connect the negative battery cable.
 
-16.
+18. Fill the cooling system with coolant.
 
-Install the fan and shroud.
+19. Start the engine and allow it to reach normal operating temperature.
 
-17.
+20. Check for leaks.
 
-Connect the negative battery cable.
+21. Add coolant as necessary.
 
-18.
-
-Fill the cooling system with coolant.
-
-19.
-
-Start the engine and allow it to reach normal operating temperature.
-
-20.
-
-Check for leaks.
-
-21.
-
-Add coolant as necessary.
 Fig. 1: Water pump installation on the 2.3L 4-cylinder
 
 2.8L 6-Cylinder Engine
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Remove the overflow tank cap and drain the cooling system.
 
-2.
+3. Disconnect both radiator hoses.
 
-Remove the overflow tank cap and drain the cooling system.
+4. On automatic transmission vehicles, disconnect the transmission cooler lines at the radiator.
 
-3.
+5. Disconnect the fan shroud.
 
-Disconnect both radiator hoses.
+6. Remove the radiator and fan shroud.
 
-4.
+7. Remove the fan.
 
-On automatic transmission vehicles, disconnect the transmission cooler lines at the radiator.
+8. Remove the hoses from the water pump to each cylinder head.
 
-5.
-
-Disconnect the fan shroud.
-
-6.
-
-Remove the radiator and fan shroud.
-
-7.
-
-Remove the fan.
-
-8.
-
-Remove the hoses from the water pump to each cylinder head.
-
-9.
-
-Remove the fan belts.
+9. Remove the fan belts.
 
 NOTE: On some variants of this engine, it may be necessary to remove the front and main sections of the intake manifold.
 
-10.
+10. Remove the water pump pulley.
 
-Remove the water pump pulley.
+11. Loosen the hose clamps at the rear of the water pump.
 
-11.
+12. Remove the water pump from the block (3 bolts).
 
-Loosen the hose clamps at the rear of the water pump.
+13. Transfer the thermal sender and temperature sensor to the new water pump.
 
-12.
+14. Transfer the thermostat cover, thermostat and rear pump cover to the new pump.
 
-Remove the water pump from the block (3 bolts).
+15. Install the new pump and tighten the bolts to 11–15 ft. lbs. (15–20 Nm).
 
-13.
+16. Install the clamps, water pump pulley and fan belts.
 
-Transfer the thermal sender and temperature sensor to the new water pump.
+17. Install the hoses that reach to each cylinder head.
 
-14.
+18. Install the fan, shroud and radiator.
 
-Transfer the thermostat cover, thermostat and rear pump cover to the new pump.
-
-15.
-
-Install the new pump and tighten the bolts to 11–15 ft. lbs. (15–20 Nm).
-
-16.
-
-Install the clamps, water pump pulley and fan belts.
-
-17.
-
-Install the hoses that reach to each cylinder head.
-
-18.
-
-Install the fan, shroud and radiator.
-
-19.
-
-If equipped with an automatic transmission, connect the transmission cooler lines.
+19. If equipped with an automatic transmission, connect the transmission cooler lines.
 
 To install:
 
-20.
+20. Install the intake manifold, as necessary.
 
-Install the intake manifold, as necessary.
+21. Connect the negative battery cable.
 
-21.
+22. Fill the radiator with coolant if necessary.
 
-Connect the negative battery cable.
+23. Start the engine and allow it to reach operating temperature.
 
-22.
+24. Check for leaks.
 
-Fill the radiator with coolant if necessary.
-
-23.
-
-Start the engine and allow it to reach operating temperature.
-
-24.
-
-Check for leaks.
-Fig. 2: Exploded view of the water pump assembly on the
-2.8L 6-cylinder engine
+Fig. 2: Exploded view of the water pump assembly on the 2.8L 6-cylinder engine
 
 2.9L 6-Cylinder Engine
 
-1.
+1. Disconnect the negative battery cable.
 
-Disconnect the negative battery cable.
+2. Drain the cooling system by opening the draincock on the right side of the cylinder block.
 
-2.
+3. Remove the timing belt.
 
-Drain the cooling system by opening the draincock on the right side of the cylinder block.
+4. Remove the water pump retaining bolts (7) and remove the water pump.
 
-3.
-
-Remove the timing belt.
-
-4.
-
-Remove the water pump retaining bolts (7) and remove the water pump.
-
-5.
-
-Before installing the water pump, clean the mating surfaces.
+5. Before installing the water pump, clean the mating surfaces.
 
 To install:
-6.
 
-Install the water pump, using a new gasket.
+6. Install the water pump, using a new gasket.
 
-7.
+7. Tighten the mounting bolts to 15 ft. lbs. (20 Nm).
 
-Tighten the mounting bolts to 15 ft. lbs. (20 Nm).
+8. Install the timing belt.
 
-8.
+9. Fill the cooling system.
 
-Install the timing belt.
+10. Connect the negative battery cable.
 
-9.
-
-Fill the cooling system.
-
-10.
-
-Connect the negative battery cable.
-
-11.
-
-Start the engine and check for leaks.
+11. Start the engine and check for leaks.
 
 2.3L and 2.4L 5-Cylinder Engines
 
-1.
+1. Properly relieve the fuel system pressure.
 
-Properly relieve the fuel system pressure.
+2. Disconnect the negative battery cable.
 
-2.
+3. Raise and safely support vehicle.
 
-Disconnect the negative battery cable.
+4. Remove the splashguard from below the engine.
 
-3.
+5. Drain the cooling system.
 
-Raise and safely support vehicle.
-
-4.
-
-Remove the splashguard from below the engine.
-
-5.
-
-Drain the cooling system.
-
-6.
-
-Remove the following:
+6. Remove the following:
 Fuel line clips
 Expansion tank
 Front timing cover
 Accessory belts
 
-7.
+7. Remove the timing belt.
 
-Remove the timing belt.
+8. Remove the water pump retaining bolts and remove the water pump from the block.
 
-8.
-
-Remove the water pump retaining bolts and remove the water pump from the block.
-
-9.
-
-Clean the cylinder block where the two mate.
+9. Clean the cylinder block where the two mate.
 To install:
 NOTE: The replacement pump may look different than your original, this is normal as Volvo redesigned the pump on later models and the replacement
 pump is the new design.
 
-10.
+10. Install the new water pump and gasket, and tighten the bolts to 15 ft. lbs. (20 Nm).
 
-Install the new water pump and gasket, and tighten the bolts to 15 ft. lbs. (20 Nm).
+11. Install the timing belt.
 
-11.
+12. Install the following:
 
-Install the timing belt.
-
-12.
-
-Install the following:
 The two fuel line clips
 Front timing cover
 Accessory belts

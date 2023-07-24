@@ -1,7 +1,5 @@
 # BODY AND TRIM (INTERIOR)
 
----
-
 ## Removing and Installing the Front Console Assembly
 
 
@@ -84,8 +82,6 @@ of obstructions for console removal
 Fig. 9: Lift off the cover beneath the parking brake handle
 
 Fig. 10: Carefully lift the console up and remove
-
----
 
 ## Replacing and Installing Manual Window Regulator
 
@@ -261,8 +257,6 @@ correctly, you might need to lubricate the run channels. There are specific lubr
 
 Install the moisture barrier and the door pad.
 
----
-
 ## Replacing the Lock Cylinder in the Inner Door Panel
 
 
@@ -319,8 +313,6 @@ Connect the negative battery cable.
 Fig. 1: Front door lock components
 
 Fig. 2: Rear door lock components
-
----
 
 ## Door Panel Removal Procedure
 
@@ -437,8 +429,6 @@ door panel; there are usually 5 screws
 
 Fig. 9: Carefully and gently lift the door panel off of the door
 
----
-
 ## Removing and Installing Power Window Motor in Volvo 940
 
 
@@ -493,8 +483,6 @@ Install the door panel.
 Connect the negative battery cable.
 Fig. 1: Remove the three motor retaining bolts
 
----
-
 ## Rear View Mirror Removal and Installation
 
 
@@ -526,8 +514,6 @@ To install:
 
 Fig. 1: Unfasten the two retaining screws and remove the
 mirror with the mount
-
----
 
 ## "Interior Disassembly: Removing Steering Column, Dash Components, and Console"
 
@@ -647,8 +633,6 @@ To install:
 
 Fig. 1: Location of the instrument panel mounting screws
 
----
-
 ## Seat Motor Removal and Installation
 
 
@@ -694,8 +678,6 @@ To install:
 10.
 
 Check the operation of the seat.
-
----
 
 ## "Removal and Installation of Manual Seats and Seat Belts"
 
@@ -750,8 +732,6 @@ Install the rail covers.
 Connect the negative battery cable.
 
 To install:
-
----
 
 ## Replacing the Lock Cylinder in the Trunk Lid or Liftgate of a 1993 Volvo 940
 
@@ -825,8 +805,6 @@ Install any trim removed.
 
 Connect the negative battery cable.
 
----
-
 ## Importance of Professional Installation for Automotive Glass
 
 
@@ -846,4 +824,3 @@ from water leaks can add to your stress level and subtract from your wallet. Aft
 driving and water damage during rainstorms, the cost of having a professional do it correctly the first time may be much more alluring. We, therefore, advise that you have a professional
 automotive glass technician service any broken glass on your vehicle.
 
----

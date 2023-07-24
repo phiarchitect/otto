@@ -1,7 +1,5 @@
 # HVAC SYSTEM
 
----
-
 ## Proper Servicing and Certification Requirements for HVAC System
 
 
@@ -12,8 +10,6 @@ automotive technician.
 NOTE: If your vehicle's A/C system uses R-12 refrigerant and is in need of recharging, the A/C system can be converted over to R-134a refrigerant (less
 environmentally harmful and expensive). Refer to Section 1 for additional information on R-12 to R-134a conversions, and for additional considerations dealing with
 your vehicle's A/C system.
-
----
 
 ## HVAC System Disassembly and Component Removal
 
@@ -317,15 +313,11 @@ Test the fan motor function.
 Fig. 2: The blower motor is accessible after the glove box is
 removed
 
----
-
 ## "Air Mix Shutter Assembly Calibration"
 
 
 On all vehicles, make sure the air mix shutter assembly touches both end stops when the control cable is moved between the COOL and WARM positions on the manual control head
 assembly.
-
----
 
 ## HVAC Control Cable Replacement Procedure
 
@@ -469,8 +461,6 @@ Install the glove box and panel.
 
 Connect the negative battery cable.
 Fig. 1: Control cable replacement points — 960 shown
-
----
 
 ## Removing and Installing Manual Control Head for HVAC System
 
@@ -634,8 +624,6 @@ To install:
 
 Fig. 1: Exploded view of an electronic control panel
 assembly
-
----
 
 ## HVAC System Disassembly Procedure for 1993 Volvo 940
 
@@ -1506,4 +1494,3 @@ Start the engine, allow it to reach normal operating temperature, and check for 
 
 Check the heating system for proper operation.
 
----

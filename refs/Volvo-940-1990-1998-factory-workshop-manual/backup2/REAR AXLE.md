@@ -3,8 +3,6 @@
 
 # REAR AXLE
 
----
-
 ## Rear Axle Removal and Disassembly Procedure
 
 
@@ -144,8 +142,6 @@ Lower the vehicle.
 
 Tighten the axle nut to 103 ft. lbs. (140 Nm) PLUS 60 degrees of rotation.
 
----
-
 ## Removing the Halfshaft on a Multi-Link Rear Suspension
 
 
@@ -215,8 +211,6 @@ Fig. 1: The axle halfshafts are connected to the differential by
 retaining bolts
 
 Fig. 2: Rear halfshaft assembly
-
----
 
 ## Rear Axle Removal and Safety Precautions
 
@@ -496,8 +490,6 @@ Lower the vehicle.
 
 To install:
 
----
-
 ## Rear Axle Removal and Disassembly Procedure
 
 
@@ -605,8 +597,6 @@ Install the wheel and adjust the parking brake.
 Lower the vehicle.
 Fig. 1: Removing the axle shaft using the brake disc
 
----
-
 ## Determining the Rear Axle Ratio
 
 
@@ -616,8 +606,6 @@ the number of teeth on the ring gear, the numerical axle ratio (4.11) is obtaine
 Another method of determining gear ratio is to jack up and support the vehicle so that both rear wheels are off the ground. Make a chalk mark on the rear wheel and the driveshaft. Put the
 transmission in neutral. Turn the rear wheel one complete turn and count the number of turns that the driveshaft makes. The number of turns that the driveshaft makes in one complete
 revolution of the rear wheel is an approximation of the rear axle ratio.
-
----
 
 ## Rear Axle Flange and Seal Replacement Procedure
 
@@ -766,4 +754,3 @@ Lower the vehicle.
 Fig. 2: Removing the pinion seal using puller 5069 or
 equivalent
 
----

@@ -1,7 +1,5 @@
 # BRAKE OPERATING SYSTEM
 
----
-
 ## Function and Components of the Brake Operating System
 
 
@@ -45,8 +43,6 @@ The hydraulic system may be checked for leaks by applying pressure to the pedal 
 confused with a springy or spongy feel due to the compression of air within the lines. If the system leaks, there will be a gradual change in the position of the pedal with a constant pressure.
 Check for leaks along all lines and at wheel cylinders. If no external leaks are apparent, the problem is inside the master cylinder.
 
----
-
 ## Understanding Disc Brake Systems
 
 
@@ -64,8 +60,6 @@ The fixed caliper design uses two pistons mounted on either side of the rotor (i
 The sliding and floating designs are quite similar. In fact, these two types are often lumped together. In both designs, the pad on the inside of the rotor is moved into contact with the rotor by
 hydraulic force. The caliper, which is not held in a fixed position, moves slightly, bringing the outside pad into contact with the rotor. There are various methods of attaching floating calipers.
 Some pivot at the bottom or top, and some slide on mounting bolts. In any event, the end result is the same.
-
----
 
 ## Operation of Vacuum Assisted Power Brake System
 
@@ -114,8 +108,6 @@ WARNING
 Clean, high quality brake fluid is essential to the safe and proper operation of the brake system. You should always buy the highest quality brake fluid that is available. If the
 brake fluid becomes contaminated, drain and flush the system, then refill the master cylinder with new fluid. Never reuse any brake fluid. Any brake fluid that is removed
 from the system should be discarded.
-
----
 
 ## Brake System Bleeding Procedure
 
@@ -193,8 +185,6 @@ Fig. 5: Remove the nipple exposing the bleeder valve
 Fig. 6: Install a clear tube on the bleeder valve to visually
 inspect for air bubbles
 
----
-
 ## Brake Line and Hose Inspection and Maintenance
 
 
@@ -203,8 +193,6 @@ deformation can restrict the proper flow of fluid and therefore impair braking a
 in the hose and it could fail under pressure.
 Any time the lines are removed or disconnected, extreme cleanliness must be observed. Clean all joints and connections before disassembly (use a stiff bristle brush and clean brake
 fluid); be sure to plug the lines and ports as soon as they are opened. New lines and hoses should be flushed clean with brake fluid before installation to remove any contamination.
-
----
 
 ## Replacing Brake Lines on a 1993 Volvo 940
 
@@ -276,14 +264,10 @@ Refill the brake master cylinder reservoir with clean, fresh brake fluid, meetin
 
 Connect the negative battery cable.
 
----
-
 ## Brake Light Switch Activation
 
 
 The switch controlling the brake lights is located at the brake pedal. As the pedal moves from its rest position, the switch engages and turns on the brake lights.
-
----
 
 ## Adjusting and Installing the Brake Light Switch
 
@@ -317,8 +301,6 @@ To install:
 Fig. 1: Older style brake light switch
 
 Fig. 2: Newer style brake light switch
-
----
 
 ## Removing and Installing the Master Cylinder and Reservoir Assembly
 
@@ -415,23 +397,17 @@ master cylinder is moved
 Fig. 8: The pushrod end should be inspected after the
 master cylinder is removed
 
----
-
 ## Checking Power Brake Function
 
 
 Remove the vacuum by depressing the brake pedal approximately 5 times. Depress the brake pedal and start the engine. The pedal position should drop slightly if the power brake is
 functioning properly.
 
----
-
 ## Brake Pedal Pressure Test
 
 
 Apply moderate pressure on the brake pedal for approximately 20 seconds. Then, repeat with high pedal pressure for 5 seconds. The pedal position must not drop. A drop indicates brake
 fluid leakage or booster vacuum leak.
-
----
 
 ## Replacing the Power Brake Booster
 
@@ -502,8 +478,6 @@ Fig. 1: Remove the four pedal-to-booster retaining nuts
 Fig. 2: Remember to install the check valve seal when
 replacing the booster
 
----
-
 ## Proportioning Valve Function and Importance in Brake System
 
 
@@ -512,8 +486,6 @@ Each of the brake circuits has a proportioning (relief) valve located inline bet
 compensates for the change in weight distribution under varied braking conditions.
 The harder the brakes are applied, the more weight there is on the front wheels. The valve regulates hydraulic pressure to the rear wheels, so that under hard braking conditions they
 receive a smaller percentage of the total braking effort. This prevents premature rear wheel lockup and possible skidding or loss of control.
-
----
 
 ## Replacing and Installing the Differential Warning Valve
 
@@ -551,4 +523,3 @@ Connect the brake pipe and tighten both connections, making sure there is no ten
 
 Bleed the brake system.
 
----

@@ -1,18 +1,10 @@
 # MOTRONIC 4.3 and 4.4 DISTRIBUTOR IGNITION SYSTEM
 
----
-
 Ignition system functions are controlled by the ECM, so no adjustment is necessary. To check or adjust the ignition timing, refer to Section 1 of this manual.
-
----
 
 The Camshaft position sensor is covered in Section 4, under Electronic Engine Controls.
 
----
-
 The Crankshaft position sensor is covered in Section 4, under Electronic Engine Controls.
-
----
 
 The best way to perform this procedure is to use a spark tester (available at most automotive parts stores). Two types of spark testers are commonly available. The Neon Bulb type is
 connected to the spark plug wire and flashes with each ignition pulse. The Air Gap type must be adjusted to the individual spark plug gap specified for the engine. This type of tester allows
@@ -45,8 +37,6 @@ If the rotor is turning, perform the spark test again using the ignition coil wi
 
 If spark does not exist at the ignition coil wire, test the ignition coil, and other distributor related components or wiring. Repair or replace components as necessary.
 
----
-
 The ignition system operates with a very high output and there are hazardous voltages in the low and high voltage circuits.
 Always turn the ignition OFF, before separating connectors.
 Never disconnect the battery while the engine is running.
@@ -66,12 +56,8 @@ Damaged or improperly engaged electrical connections, spark plug wires, etc.
 Discharged battery
 Blown fuses
 
----
-
 On these Motronic systems, the distributor is essentially a rotor bolted onto the end of the intake camshaft. There is no distributor housing to remove. Once the distributor cap is removed, the
 rotor can be removed from the camshaft. See Section 1 for Distributor Cap and Rotor removal and installation.
-
----
 
 The Motronic 4.3 and 4.4 system on 850/C70/S70/V70 models is a total control system. Both engine and ignition controls are incorporated into one system with one control module. The
 control module receives the inputs from various sensors and controls all the outputs together.
@@ -83,8 +69,6 @@ faulty knock sensor readings.
 The system has a fail safe or "limp home mode" where it defaults to a predetermined timing and voltage level if an input device fails. The Malfunction Indicator Lamp (MIL) will illuminate and
 the vehicle may exhibit more driveability problems; it should be diagnosed as soon as possible.
 Fig. 1: Motronic 4.3 distributor ignition system
-
----
 
 The ignition coil and power stage are an assembly.
 1.
@@ -137,8 +121,6 @@ Fig. 3: . . . then remove the assembly from the strut tower
 Fig. 4: Unplug the power stage connector and remove the
 assembly from the vehicle
 
----
-
 Primary Winding Test
 
 1.
@@ -189,8 +171,6 @@ Connect an ohmmeter between one of the primary winding connectors on the outside
 
 Resistance should be 8–9 kilohms.
 Fig. 4: Testing the secondary windings of the ignition coil
-
----
 
 The ignition coil and power stage are an assembly. Refer to the Ignition Coil removal and installation procedure in this section.
 

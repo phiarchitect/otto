@@ -1,7 +1,5 @@
 # GENERAL INFORMATION
 
----
-
 ## Towing Procedures and Recommendations
 
 
@@ -9,8 +7,6 @@ If a flatbed is unavailable, your vehicle can be towed using a T-hook wrecker. I
 train. Tow vehicle speed should not exceed 35 mph (56 km/h) when using this method.
 WARNING
 This method CANNOT be used on an AWD vehicle.
-
----
 
 ## Common Mistakes in Mechanical Work
 
@@ -47,8 +43,6 @@ encounter resistance, and the part has not seated fully, don't force it. Pull it
 Be sure to take your time and be patient, and always plan ahead. Allow yourself ample time to perform repairs and maintenance. You may find maintaining your car a
 satisfying and enjoyable experience.
 
----
-
 ## Labeling and Disconnecting Lines, Hoses, and Wires
 
 
@@ -58,8 +52,6 @@ You don't need to know the official or engineering name for each hose or line. A
 the letter A or a short name. As long as you remember your own code, the lines can be reconnected by matching similar letters or names. Do remember that tape will dissolve in gasoline
 or other fluids; if a component is to be washed or cleaned, use another method of identification. A permanent felt-tipped marker or a metal scribe can be very handy for marking metal parts.
 Remove any tape or paper labels after assembly.
-
----
 
 ## Fasteners and Retainers
 
@@ -98,8 +90,6 @@ WARNING
 Be aware that when you find a bolt with damaged threads, you may also find the nut or drilled hole it was threaded into has also been damaged. If this is the case, you may have to drill and
 tap the hole, replace the nut or otherwise repair the threads. NEVER try to force a replacement bolt to fit into the damaged threads.
 
----
-
 ## Safety Precautions
 
 
@@ -121,8 +111,6 @@ good screwdriver.
 Don't use an emergency jack (that little ratchet, scissors, or pantograph jack supplied with the vehicle) for anything other than changing a flat! These jacks are only intended for
 emergency use out on the road; they are NOT designed as a maintenance tool. If you are serious about maintaining your vehicle yourself, invest in a hydraulic floor jack of at least a
 1 1 ⁄ 2 ton capacity, and at least two sturdy jackstands.
-
----
 
 ## Safety Precautions
 
@@ -148,16 +136,12 @@ Do be sure that adjustable wrenches are tightly closed on the nut or bolt and pu
 Do strike squarely with a hammer; avoid glancing blows.
 Do set the parking brake and block the drive wheels if the work requires a running engine.
 
----
-
 ## Rear Axle Identification and Location
 
 
 The rear axle ratio and identification number (part number) are found on a label, located on the left-hand side of the axle housing.
 Fig. 7: Rear axle ID tag location — heavy duty version
 shown
-
----
 
 ## Engine Cooling and Oil System for Towing
 
@@ -168,8 +152,6 @@ designed for expansion tanks.
 Aftermarket engine oil coolers are helpful for prolonging engine oil life and reducing overall engine temperatures. Both of these factors increase engine life. While not absolutely necessary in
 towing Class I and some Class II trailers, they are recommended for heavier Class II and all Class III towing. Engine oil cooler systems usually consist of an adapter, screwed on in place of
 the oil filter, a remote filter mounting and a multi-tube, finned heat exchanger, which is mounted in front of the radiator or air conditioning condenser.
-
----
 
 ## Engine Identification
 
@@ -183,8 +165,6 @@ Fig. 5: Engine ID tag location — B280F engine
 
 Fig. 6: Engine ID tag location — B6304F engine
 
----
-
 ## Towing and Trailer Considerations
 
 
@@ -192,15 +172,11 @@ Your vehicle was primarily designed to carry passengers and cargo. It is importa
 braking and other systems. However, if you decide to tow a trailer, using the prior equipment is a must.
 Local laws may require specific equipment such as trailer brakes or fender mounted mirrors. Check your local laws.
 
----
-
 ## Trailer Towing Tips
 
 
 Towing a trailer with ease and safety requires a certain amount of experience. It's a good idea to learn the feel of a trailer by practicing turning, stopping and backing in an open area such as
 an empty parking lot.
-
----
 
 ## Determining Proper Hitch Weight and Trailer Class
 
@@ -216,8 +192,6 @@ maximum tongue weight of 200 lbs. Class I trailers fall into this category. Clas
 When you've determined the hitch that you'll need, follow the manufacturer's installation instructions, exactly, especially when it comes to fastener torque. The hitch will subjected to a lot of
 stress and good hitches come with hardened bolts. Never substitute an inferior bolt for a hardened bolt.
 
----
-
 ## Introduction and Purpose
 
 
@@ -228,8 +202,6 @@ things as rebuilding a differential for the simple reason that the expertise req
 instructions to help you change your own brake pads and shoes, replace spark plugs, and perform many more jobs that can save you money, give you personal satisfaction and help you
 avoid expensive problems.
 A secondary purpose of this book is a reference for owners who want to understand their vehicle and/or their mechanics better. In this case, no tools at all are required.
-
----
 
 ## Jacking Procedures and Safety Precautions
 
@@ -251,8 +223,6 @@ NOTE: Always position a block of wood or small rubber pad on top of the jack or 
 Small hydraulic, screw, or scissors jacks are satisfactory for raising the vehicle. Drive-on trestles or ramps are also a handy and safe way to both raise and support the vehicle. Be careful
 though, some ramps may be too steep to drive your vehicle onto without scraping the front bottom panels. Never support the vehicle on any suspension member (unless specifically
 instructed to do so by a repair manual) or by an underbody panel.
-
----
 
 ## 1. Safety Precautions for Jacking and Supporting the Vehicle
 2. Proper Techniques for Jacking and Supporting the Vehicle
@@ -277,8 +247,6 @@ Fig. 3: Raise the rear by jacking at the rear spring perch,
 then place the jackstand under the frame rail; raise only one
 side at a time
 
----
-
 ## Jump Starting Precautions and Procedure
 
 
@@ -295,8 +263,6 @@ negative terminal). Hooking the batteries up in parallel circuit increases batte
 hooking two 12 volt batteries up in a series circuit (positive terminal to negative terminal, positive terminal to negative terminal) increases total battery output to 24 volts (12 volts plus 12
 volts).
 
----
-
 ## Battery Safety Precautions
 
 
@@ -307,8 +273,6 @@ On serviceable batteries, be sure the vent cap holes are not obstructed.
 Do not smoke or allow sparks anywhere near the batteries.
 In cold weather, make sure the battery electrolyte is not frozen. This can occur more readily in a battery that has been in a state of discharge.
 Do not allow electrolyte to contact your skin or clothing.
-
----
 
 ## Jump-Starting Procedure
 
@@ -383,8 +347,6 @@ Carefully disconnect the cables in the reverse order of connection. Start with t
 Disconnect the positive cable from the donor battery and finally, disconnect the positive cable from the formerly dead battery. Be careful when disconnecting the cables from the
 positive terminals not to allow the alligator clips to touch any metal on either vehicle or a short and sparks will occur.
 
----
-
 ## Towing Methods and Considerations
 
 
@@ -392,8 +354,6 @@ If absolutely necessary, you can tow your vehicle with either the front or rear 
 not turning. All conditions which apply to the T-hook method also apply for the dolly method.
 WARNING
 This method CANNOT be used on an AWD vehicle.
-
----
 
 ## - Understanding Maintenance and Repair
 - Importance of Maintenance in Preventing Costly Repairs
@@ -412,8 +372,6 @@ the vehicle means the passenger's side. Second, screws and bolts are removed by 
 Safety is always the most important rule. Constantly be aware of the dangers involved in working on an automobile and take the proper precautions. See the information in this section
 regarding SERVICING YOUR VEHICLE SAFELY and the SAFETY NOTICE on the acknowledgment page.
 
----
-
 ## Towing and Transporting Procedures
 
 
@@ -421,8 +379,6 @@ For maximum safety to the components of your drive train and chassis, it is most
 the vehicle on a flatbed is to have it pulled on from the front.
 Fig. 1: Towing hooks are provided; they are exposed when
 the trim cover is removed
-
----
 
 ## Safety Precautions
 
@@ -442,8 +398,6 @@ possibility of rounding off a nut
 Fig. 4: NEVER work under a vehicle unless it is supported
 using safety stands (jackstands)
 
----
-
 ## Tools and Equipment
 
 
@@ -451,8 +405,6 @@ Normally, the use of special factory tools is avoided for repair procedures, sin
 more commonly available tools, it will be pointed out, but occasionally, a special tool was designed to perform a specific function and should be used. Before substituting another tool, you
 should be convinced that neither your safety nor the performance of the vehicle will be compromised.
 Special tools can usually be purchased from an automotive parts store or from your dealer. In some cases special tools may be available directly from the tool manufacturer.
-
----
 
 ## Measuring Units and Conversion Factors
 
@@ -468,8 +420,6 @@ in inches such as "free-play should be 2 in." but your ruler reads only in milli
 specification was given only in a Metric measurement, for example in Newton Meters (Nm), then look at the center column first. If the measurement is 100 Nm, multiply it by the conversion
 factor of 0.738 to get 73.8 ft. lbs.
 Fig. 2: Standard and metric conversion factors chart
-
----
 
 ## TOOLS AND EQUIPMENT: Importance and Recommendations
 
@@ -563,8 +513,6 @@ As a final note, you will probably find a torque wrench necessary for all but th
 are easier to use. The click type torque wrenches tend to be more expensive. Also keep in mind that all types of torque wrenches should be periodically checked and/or recalibrated. You
 will have to decide for yourself which better fits your pocketbook, and purpose.
 
----
-
 ## Understanding Torque and its Importance in Fastening
 
 
@@ -574,8 +522,6 @@ When tightening a threaded fastener, torque is applied in three distinct areas, 
 overcoming bearing friction. This is the friction between the bearing surface of the bolt head, screw head or nut face and the base material or washer (the surface on which the fastener is
 rotating). Approximately 40 percent of the applied torque is used in overcoming thread friction. This leaves only about 10 percent of the applied torque to develop a useful clamp load (the
 force which holds a joint together). This means that friction can account for as much as 90 percent of the applied torque on a fastener.
-
----
 
 ## Torque Angle Method for Precise Clamp Loads
 
@@ -588,8 +534,6 @@ significant enough to cause worry. But, in certain applications, a manufacturer'
 aluminum cylinder heads). In these cases, a torque angle method of installation would be specified. When installing fasteners which are torque angle tightened, a predetermined seating
 torque and standard torque wrench are usually used first to remove any compliance from the joint. The fastener is then tightened the specified additional portion of a turn measured in degrees.
 A torque angle gauge (mechanical protractor) is used for these applications.
-
----
 
 ## - Proper Use of Torque Wrenches and Fastener Installation
 
@@ -646,8 +590,6 @@ dial indicator to show torque
 A rigid case or direct reading torque wrench is equipped with a dial indicator to show torque values. One advantage of these wrenches is that they can be held at any position on the wrench
 without affecting accuracy. These wrenches are often preferred because they tend to be compact, easy to read and have a great degree of accuracy.
 
----
-
 ## Towing Capacity and Weight-to-Horsepower Ratio
 
 
@@ -655,14 +597,10 @@ The weight of the trailer is the most important factor. A good weight-to-horsepo
 Multiply the engine's rated horsepower by 35 and subtract the weight of the vehicle passengers and luggage. The number remaining is the approximate ideal maximum weight you should
 tow, although a numerically higher axle ratio can help compensate for heavier weight.
 
----
-
 ## Transfer Case or Bevel Gear Information
 
 
 The transfer case or bevel gear as Volvo refers to it, has a stamped steel tag attached on the side.
-
----
 
 ## Importance of Automatic Transmission Coolers for Trailer Towing
 
@@ -679,8 +617,6 @@ NOTE: A transmission cooler can, sometimes, cause slow or harsh shifting in the 
 operating temperature. Some coolers can be purchased with or retrofitted with a temperature bypass valve which will allow fluid flow through the cooler only when the
 fluid has reached above a certain operating temperature.
 
----
-
 ## Transmission Identification
 
 
@@ -689,8 +625,6 @@ transmissions/transaxles.
 The manual transmission can be identified by referring to the Service Designation Number plate, found on the upper right side radiator support. A 10-digit Vehicle Identification Code (VIC),
 located in the upper right-hand corner of the Service Designation Number plate, contains information on the type of transmission used. The 9th digit of the VIC designates the transmission
 type.
-
----
 
 ## 1. Vehicle Identification Number (VIN) Location
 2. Understanding the VIN: Decoding the Identification Code
@@ -713,4 +647,3 @@ engine compartment, also contains the VIN number
 Fig. 3: The certification label located on the driver's door also
 contains the VIN number
 
----

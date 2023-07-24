@@ -1,7 +1,5 @@
 # WIPER & WASHER
 
----
-
 ## Removing and Installing Headlight Wiper Blades
 
 
@@ -16,8 +14,6 @@ Fig. 2: . . . then remove the nut
 Fig. 3: Lift the arm off of the pivot shaft and . . .
 
 Fig. 4: . . . detach the washer tube from the blade
-
----
 
 ## Wiper Motor Removal and Installation
 
@@ -124,8 +120,6 @@ Fig. 4: Carefully lift the motor out of the engine compartment
 Fig. 5: The motor shaft is extremely long, and is best
 removed by pulling the motor upward, then out
 
----
-
 ## Wiper & Washer System Maintenance and Installation
 
 
@@ -217,8 +211,6 @@ Connect the negative battery cable.
 
 Check the operation of the washer motor.
 
----
-
 ## Wiper Arm Removal and Installation Procedure
 
 
@@ -255,4 +247,3 @@ Fig. 1: Remove the wiper arm retaining nut
 Fig. 2: Matchmark the wiper arm to the pivot, and gently lift
 off the arm
 
----

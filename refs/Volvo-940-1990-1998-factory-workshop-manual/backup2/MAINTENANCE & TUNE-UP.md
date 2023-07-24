@@ -1,7 +1,5 @@
 # MAINTENANCE & TUNE UP
 
----
-
 ## Air Cleaner Assembly Replacement Procedure
 
 
@@ -43,8 +41,6 @@ Fig. 2: . . . and lift up the air cleaner lid . . .
 
 Fig. 3: . . . then remove the filter from the housing
 
----
-
 ## Preventive Maintenance and Inspections for A/C System Efficiency
 
 
@@ -71,8 +67,6 @@ NOTE: Bug screens which are mounted in front of the condenser (unless they are o
 The condensation drain tube expels any water which accumulates on the bottom of the evaporator housing into the engine compartment. If this tube is obstructed, the air conditioning
 performance can be restricted and condensation buildup can spill over onto the vehicle's floor.
 
----
-
 ## Visual Inspection and Maintenance of Air Conditioning System
 
 
@@ -94,8 +88,6 @@ NOTE: Keep in mind that under conditions of high humidity, air discharged from t
 properly. This is because vaporized moisture in humid air retains heat more effectively than dry air, thereby making humid air more difficult to cool.
 Make sure the air passage selection lever is operating correctly. Start the engine and warm it to normal operating temperature, then make sure the temperature selection lever is
 operating correctly.
-
----
 
 ## Important Considerations for A/C System Maintenance and Service
 
@@ -132,8 +124,6 @@ systems can be easily converted to R-134a refrigerant by a certified automotive 
 The cost of R-12 is steadily rising and will continue to increase, because it is no longer imported or manufactured in the United States. Therefore, it is often possible to have an R-12 system
 converted to R-134a and recharged for less than it would cost to just charge the system with R-12.
 If you are interested in having your system converted, contact local automotive service stations for more details and information.
-
----
 
 ## Checking and Maintaining Battery Electrolyte Levels
 
@@ -180,8 +170,6 @@ gravity is then read by noting the position of the float. If gravity is low in o
 Generally, if after charging, the specific gravity between any two cells varies more than 50 points (0.50), the battery should be replaced, as it can no longer produce sufficient voltage to
 guarantee proper operation.
 
----
-
 ## Battery Terminal Cleaning and Maintenance
 
 
@@ -210,8 +198,6 @@ post
 
 Fig. 5: The cable ends should be cleaned as well
 
----
-
 ## Battery Safety and Charging Recommendations
 
 
@@ -220,8 +206,6 @@ The chemical reaction which takes place in all batteries generates explosive hyd
 sure there is proper ventilation and take appropriate fire safety precautions when connecting, disconnecting, or charging a battery and when using jumper cables.
 A battery should be charged at a slow rate to keep the plates inside from getting too hot. However, if some maintenance-free batteries are allowed to discharge until they are almost "dead,''
 they may have to be charged at a high rate to bring them back to "life.'' Always follow the charger manufacturer's instructions on charging the battery.
-
----
 
 ## Battery Maintenance and Cleaning
 
@@ -241,8 +225,6 @@ that increase parasitic load may discharge a battery sooner. If the vehicle is t
 battery cable should be disconnected at the onset of storage to protect the battery charge.
 Remember that constantly discharging and recharging will shorten battery life. Take care not to allow a battery to be needlessly discharged.
 
----
-
 ## Battery Safety Precautions and Maintenance
 
 
@@ -254,8 +236,6 @@ All batteries, regardless of type, should be carefully secured by a battery hold
 during vehicle operation. A battery which is not secured may allow acid to leak out, making it discharge faster; such leaking corrosive acid can also eat away at components under the hood.
 Always visually inspect the battery case for cracks, leakage and corrosion. A white corrosive substance on the battery case or on nearby components would indicate a leaking or cracked
 battery. If the battery is cracked, it should be replaced immediately.
-
----
 
 ## Battery Removal and Maintenance
 
@@ -301,16 +281,12 @@ Install the battery and tighten the hold-down clamp or strap securely. Do not ov
 
 Connect the positive and then the negative battery cables.
 
----
-
 ## Battery Replacement and Upgrading
 
 
 When it becomes necessary to replace the battery, select one with an amperage rating equal to or greater than the battery originally installed. Deterioration and just plain aging of the battery
 cables, starter motor, and associated wires makes the battery's job harder in successive years. The slow increase in electrical resistance over time makes it prudent to install a new
 battery with a greater capacity than the old.
-
----
 
 ## V-Belt Inspection and Adjustment Procedure
 
@@ -334,8 +310,6 @@ vehicles with a V-belt
 Serpentine Belt
 All engines with a serpentine belt use an automatic drive belt tensioner. No adjustment is necessary.
 
----
-
 ## Drive Belt Inspection and Maintenance
 
 
@@ -357,8 +331,6 @@ reinforcing cords to excessive wear
 
 Fig. 5: Installing too wide a belt can result in serious belt
 wear and/or breakage
-
----
 
 ## Replacing V-Belts and Serpentine Belt for 1993 Volvo 940
 
@@ -439,8 +411,6 @@ tensioner on the 2.9L 6-cylinder engine
 
 Fig. 3: Typical serpentine belt routing
 
----
-
 ## Inspecting and Replacing CV-Boots for Optimal Performance
 
 
@@ -455,8 +425,6 @@ Fig. 2: A torn boot should be replaced immediately
 Fig. 3: This CV-boot is leaking; notice the wet residue on the
 inside part of the boot
 
----
-
 ## Distributor Cap and Rotor Inspection and Cleaning
 
 
@@ -470,8 +438,6 @@ and damage
 Fig. 2: Inspection points for the distributor cap
 
 Fig. 3: Inspection points for the distributor rotor
-
----
 
 ## Distributor Cap and Rotor Removal and Inspection
 
@@ -575,8 +541,6 @@ Typically, a 3mm Allen wrench is used to remove the bolts
 Fig. 10: After the bolts are removed, separate the rotor from
 the distributor
 
----
-
 ## Evaporative Emission Control System Overview
 
 
@@ -588,8 +552,6 @@ km). Repair or replace any old or cracked hoses. Replace the canister if it is c
 periodic maintenance for this item.
 Fig. 1: The evaporative canister is accessed from
 underneath the vehicle — 850 series
-
----
 
 ## Fuel Filter Replacement Procedure
 
@@ -702,8 +664,6 @@ Fig. 5: Unfasten the clamp holding the filter . . .
 
 Fig. 6: . . . and remove the filter
 
----
-
 ## Inspecting and Replacing Radiator and Heater Hoses
 
 
@@ -792,14 +752,10 @@ has been reached, shut the engine OFF, and check for leaks around the hose fitti
 
 Connect the negative battery cable.
 
----
-
 ## Idle Speed Control by ECU
 
 
 Although the idle speed may be checked, it is not adjustable. All idle speed functions are carried out by the ECU.
-
----
 
 ## Optimizing Ignition Timing for Efficient Engine Performance
 
@@ -822,8 +778,6 @@ the engine is running, the exact position of the piston within the cylinder can 
 indicated when the mark and scale are in specified alignment.
 WARNING
 When checking timing with the engine running, take care not to get the timing light wires tangled in the fan blades and/or drive belts.
-
----
 
 ## Ignition Timing Check and Troubleshooting Procedure
 
@@ -864,8 +818,6 @@ If fault Code 1–1–1 (no fault in memory) appears, check the fuel system.
 6.
 
 If the LED does not light when the button is pressed, or no code is blinked out, check the connection at the ECU.
-
----
 
 ## Resetting Service Reminder Indicator for Different Volvo Models
 
@@ -932,14 +884,10 @@ procedure to reset the light
 1996–98 Vehicles (OBD-II)
 1996–98 models incorporate the OBD-II diagnostic system. The SRI is reset using the Volvo Scan tool or equivalent. Follow the scan tool manufacturer's instructions to reset the SRI.
 
----
-
 ## Crankcase Ventilation Flame Guard
 
 
 Volvo refers to the filter element in the Crankcase Ventilation system as the flame guard.
-
----
 
 ## Maintenance and Tune Up: PCV System Maintenance for B230F, B230FT, B280F Engines and Flame Trap Inspection for B5254S, B5234T, B5254T, B5254FT, B5234T3 Engines
 
@@ -1069,8 +1017,6 @@ To install:
 
 Fig. 6: PCV system — B6304F and B234F engines
 
----
-
 ## "Importance of Proper Maintenance and Tune-Up for Long-lasting Vehicle Performance"
 
 
@@ -1082,8 +1028,6 @@ the only proof you have that the required maintenance was performed. In the even
 The literature provided with your vehicle when it was originally delivered includes the factory recommended maintenance schedule. If you no longer have this literature, replacement copies
 are usually available from the dealer. A maintenance schedule is provided later in this section, in case you do not have the factory literature.
 
----
-
 ## Understanding the Anatomy and Function of a Spark Plug
 
 
@@ -1094,8 +1038,6 @@ The spark plug does not produce a spark, but instead provides a gap across which
 and application) which travels through the wires to the spark plugs. The current passes along the center electrode and jumps the gap to the side electrode, and in doing so, ignites the
 air/fuel mixture in the combustion chamber.
 Fig. 4: Cross-section of a spark plug
-
----
 
 ## Proper Cleaning and Maintenance of Spark Plugs
 
@@ -1125,8 +1067,6 @@ may be filed flat — WARNING: do not file platinum plugs
 
 Fig. 5: Used spark plugs which show damage may indicate
 engine problems
-
----
 
 ## Spark Plug Replacement and Maintenance
 
@@ -1229,8 +1169,6 @@ they will reveal information about the condition of your engine
 Fig. 9: A piece of hose is a good tool for starting the threads
 of the spark plugs upon installation
 
----
-
 ## Understanding Spark Plug Heat Range
 
 
@@ -1245,8 +1183,6 @@ The general rule of thumb for choosing the correct heat range when picking a spa
 driving is stop and go, use a hotter plug. Original equipment plugs are generally a good compromise between the 2 styles and most people never have the need to change their plugs from
 the factory-recommended heat range.
 
----
-
 ## Proper Installation of Spark Plug Wires
 
 
@@ -1254,8 +1190,6 @@ The best possible method for installing a new set of wires is to replace ONE AT 
 sketches, since the position of the distributor can be changed (unless the distributor is keyed for installation in only one position). Start by replacing the longest wire first. Install the boot
 firmly over the spark plug. Route the wire in exactly the same path as the original and connect it to the distributor or coil pack (as applicable). Repeat the process for each successively
 shorter wire.
-
----
 
 ## Spark Plug Wire Resistance Testing Procedure
 
@@ -1285,8 +1219,6 @@ cap with an ohmmeter
 Fig. 2: Checking individual plug wire resistance with a digital
 ohmmeter
 
----
-
 ## Timing Belt Replacement and Inspection
 
 
@@ -1298,8 +1230,6 @@ Whether or not you decide to replace it, you would be wise to check it periodica
 engine performance to drop dramatically, but a damaged belt (which could give out suddenly) may not give as much warning. In general, anytime the engine timing cover(s) is (are)
 removed, you should inspect the belt for premature parting, severe cracks or missing teeth.
 
----
-
 ## Tire Maintenance and Care
 
 
@@ -1309,8 +1239,6 @@ NOTE: For optimum tire life, keep the tires properly inflated, rotate them often
 Inspect your tires frequently. Be especially careful to watch for bubbles in the tread or sidewall, deep cuts or underinflation. Replace any tires with bubbles in the sidewall. If cuts are so
 deep that they penetrate to the cords, discard the tire. Any cut in the sidewall of a radial tire renders it unsafe. Also look for uneven tread wear patterns that may indicate the front end is out
 of alignment or that the tires are out of balance.
-
----
 
 ## Protecting and Maintaining Special Wheels: Precautions and Care Tips
 
@@ -1326,8 +1254,6 @@ When washing, use a mild soap or non-abrasive dish detergent (keeping in mind th
 There are many cleaners and polishes for special wheels.
 If possible, remove the wheels during the winter. Salt and sand used for snow removal can severely damage the finish of a wheel.
 Make certain the recommended lug nut torque is never exceeded or the wheel may crack. Never use snow chains on special wheels; severe scratching will occur.
-
----
 
 ## Importance of Proper Tire Inflation for Optimal Performance
 
@@ -1381,8 +1307,6 @@ you can see the top of Lincoln's head in 2 adjacent grooves, the tire has less t
 using the "tails'' side of the Lincoln penny. If you can see the top of the Lincoln memorial, it's time to replace the snow tire(s).
 Fig. 10: A penny works well for a quick check of tread depth
 
----
-
 ## Proper Tire Selection and Maintenance Guidelines
 
 
@@ -1412,8 +1336,6 @@ NOTE: Consider buying extra wheels on which to mount the snow tires. Once done, 
 potential damage to tires or wheels from seasonal removal and installation. Even if your vehicle has styled wheels, see if inexpensive steel wheels are available.
 Although the look of the vehicle will change, the expensive wheels will be protected from salt, curb hits and pothole damage.
 
----
-
 ## Proper Tire Rotation for Maximum Longevity
 
 
@@ -1435,8 +1357,6 @@ Some styled or "mag'' wheels may have different offsets front to rear. In these 
 with unidirectional tires, they cannot be rotated unless the tire is remounted for the proper direction of rotation.
 NOTE: The compact or space-saver spare is strictly for emergency use. It must never be included in the tire rotation or placed on the vehicle for everyday use.
 
----
-
 ## Proper Tire Storage and Maintenance
 
 
@@ -1444,14 +1364,10 @@ If they are mounted on wheels, store the tires at proper inflation pressure. All
 concrete floor; set them on strips of wood, a mat or a large stack of newspaper. Keeping them away from direct moisture is of paramount importance. Tires should not be stored upright, but
 in a flat position.
 
----
-
 ## Valve Clearance Adjustment Interval
 
 
 The recommended maintenance interval for valve clearance adjustment is 30,000 miles (48,000 km). The clearance may be checked with the engine hot or cold.
-
----
 
 ## Valve Clearance Adjustment Procedure for B230F and B230FT Engines
 
@@ -1650,4 +1566,3 @@ engine
 
 Fig. 11: Adjusting the valves
 
----

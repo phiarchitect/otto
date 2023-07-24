@@ -1,7 +1,5 @@
 # CLUTCH SYSTEM
 
----
-
 ## Adjusting Clutch Play and Cable for 1993 Volvo 940
 
 
@@ -26,8 +24,6 @@ NOTE: Vehicles equipped with hydraulic clutch assemblies are not adjustable.
 Fig. 1: Checking the clutch negative play
 
 Fig. 2: Adjust the clutch cable by turning the locknut
-
----
 
 ## Clutch Cable Removal and Installation Procedure
 
@@ -64,8 +60,6 @@ Adjust the clutch cable.
 
 To install:
 
----
-
 ## Clutch System Inspection and Maintenance
 
 
@@ -79,8 +73,6 @@ binds at any point, replace it as a unit. Also make sure that the bearing slides
 Inspect the clutch disc for signs of slippage (burns) or oil contamination. Make sure the rivets are not loose and that the clutch contact surfaces are well above the rivet heads. The
 thickness of the disc above the rivet heads is the "remaining life" of the disc; always replace the disc if in doubt.
 When reassembling, apply grease to the splines and end shaft, the throwout bearing and the pivot ball and seat of the clutch fork.
-
----
 
 ## Clutch Removal and Inspection Procedure for Rear Drive Models
 
@@ -262,14 +254,10 @@ steps, using an X pattern
 
 Fig. 16: Be sure to use a torque wrench to tighten all bolts
 
----
-
 ## Brake Master Cylinder and Clutch System Integration
 
 
 On some models, the brake master cylinder incorporates the clutch master cylinder. For those models, refer to Brake Master Cylinder removal and installation in Section 9.
-
----
 
 ## Clutch System Removal and Installation Procedure
 
@@ -319,8 +307,6 @@ Top up the fluid and bleed the system as explained later in this section.
 Connect the negative battery cable.
 Fig. 1: Exploded view of the hydraulic clutch system
 
----
-
 ## Hydraulic Clutch System Bleeding Procedure
 
 
@@ -335,8 +321,6 @@ Fig. 1: If clutch pedal travel exceeds 170mm before
 engaging the clutch, bleed the clutch
 
 Fig. 2: Bleeding the clutch using tool 998 5876 or equivalent
-
----
 
 ## Clutch System Installation and Bleeding
 
@@ -371,4 +355,3 @@ Bleed the clutch system.
 
 To install:
 
----

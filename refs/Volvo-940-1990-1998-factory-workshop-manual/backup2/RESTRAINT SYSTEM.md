@@ -1,7 +1,5 @@
 # RESTRAINT SYSTEM
 
----
-
 ## Removing the Driver Side Air Bag Module
 
 
@@ -84,8 +82,6 @@ Passenger Side
 The passenger side air bag is removed when the instrument panel cover is removed. See the Instrument Cluster Removal and Installation procedure, later in this section, for removal of the
 cover. After the cover is removed, the air bag module is simply unbolted from the cover. To install, tighten the module retaining bolts and install the cover back onto the instrument panel.
 
----
-
 ## Restraint System Removal and Installation Procedure
 
 
@@ -136,8 +132,6 @@ When connecting the battery, make sure that no one is in the vehicle, in case of
 Reconnect the negative battery cable.
 Check the vehicle operation and SRS system for fault codes.
 
----
-
 ## "Supplemental Restraint System (SRS) Overview and Functionality"
 
 
@@ -164,8 +158,6 @@ Fig. 2: This label is a notification of the presence of a Side
 Impact Protection System (SIPS); again, note the service
 requirements
 
----
-
 ## Arming and Disarming the Restraint System
 
 
@@ -174,8 +166,6 @@ positive and negative battery cables are connected.
 WARNING
 If you have disarmed the air bag system for any reason, and are re-arming the system, make sure no one is in the vehicle (as an added safety measure), then connect the negative battery
 cable.
-
----
 
 ## "Proper Shutdown and Battery Disconnection"
 
@@ -187,8 +177,6 @@ Turn the ignition switch to the OFF position.
 2.
 
 Disconnect the negative battery cable AND TAPE the cable end away from the battery.
-
----
 
 ## SRS System Safety Precautions and Repair Recommendations
 
@@ -218,4 +206,3 @@ Never disconnect any electrical connection with the ignition switch ON unless in
 Before disconnecting the negative battery cable, make a record of the contents memorized by each memory system (audio, seats, etc.). Then when service or repairs are completed,
 make certain to reset these memory systems.
 
----

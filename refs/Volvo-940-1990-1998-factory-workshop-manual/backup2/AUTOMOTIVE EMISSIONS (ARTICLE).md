@@ -1,7 +1,5 @@
 # AUTOMOTIVE EMISSIONS (ARTICLE)
 
----
-
 ## Causes of Air Pollution: Natural, Industrial, and Automotive
 
 
@@ -12,16 +10,12 @@ pollutants become concentrated in a specific area and under certain conditions, 
 pollutants can also cause great damage to the environment and to the many man made objects that are exposed to the elements.
 To better understand the causes of air pollution, the pollutants can be categorized into 3 separate types, natural, industrial and automotive.
 
----
-
 ## Sources of Engine Pollutants Before Emission Controls
 
 
 Before emission controls were mandated on internal combustion engines, other sources of engine pollutants were discovered along with the exhaust emissions. It was determined that engine
 combustion exhaust produced approximately 60 percent of the total emission pollutants, fuel evaporation from the fuel tank and carburetor vents produced 20 percent, with the final 20
 percent being produced through the crankcase as a by-product of the combustion process.
-
----
 
 ## The Rise of Automotive Emissions and Urban Air Pollution
 
@@ -40,8 +34,6 @@ sunlight. Pollution was more severe when smog would become stagnant over an area
 mass at ground level. The trapped cooler air would keep the emissions from being dispersed and diluted through normal air flows. This type of air stagnation was given the name
 "Temperature Inversion.''
 
----
-
 ## Understanding the Heat Dissipation Process in Internal Combustion Engines
 
 
@@ -59,8 +51,6 @@ Many attempts have been made to minimize the amount of unburned fuel in the comb
 area of the coolant around the combustion area. However, design limitations within the combustion chambers prevent the complete burning of the air/fuel charge, so a certain amount of the
 unburned fuel is still expelled into the exhaust system, regardless of modifications to the engine.
 
----
-
 ## Understanding Temperature Inversions and Air Pollution Trapping
 
 
@@ -75,8 +65,6 @@ This inversion phenomenon was first noted in the Los Angeles, California area. T
 basin while a warmer air mass covers it like a lid.
 Because this type of condition was first documented as prevalent in the Los Angeles area, this type of trapped pollution was named Los Angeles Smog, although it occurs in other areas
 where a large concentration of automobiles are used and the air remains stagnant for any length of time.
-
----
 
 ## Controlling Crankcase Emissions
 
@@ -95,8 +83,6 @@ gases remain and condense, dilution of the engine oil would occur to form water,
 the blow-by gases occurs more frequently on vehicles used in numerous starting and stopping conditions, excessive idling and when the engine is not allowed to attain normal operating
 temperature through short runs.
 
----
-
 ## Gasoline Fuel and Emission Control Measures
 
 
@@ -114,8 +100,6 @@ To prevent the vapor emission from escaping into the atmosphere, the fuel system
 atmosphere. A storage system is used to collect and hold the fuel vapors from the carburetor (if equipped) and the fuel tank when the engine is not operating. When the engine is started, the
 storage system is then purged of the fuel vapors, which are drawn into the engine and burned with the air/fuel mixture.
 
----
-
 ## Understanding Automotive Exhaust Emissions and Composition
 
 
@@ -129,8 +113,6 @@ and produces the carbon dioxide (CO2) and the water vapors (H2O). If this chemic
 during the combustion process, other compounds are formed which are considered dangerous. These pollutants are hydrocarbons (HC), carbon monoxide (CO), oxides of nitrogen (NOx)
 oxides of sulfur (SOx) and engine particulates.
 
----
-
 ## Understanding Carbon Monoxide and its Impact on Emissions and Health
 
 
@@ -141,8 +123,6 @@ carbon monoxide (CO) combines with oxygen (O2) and nitric oxide (NO) to produce 
 The dangers of carbon monoxide, which is an odorless and colorless toxic gas are many. When carbon monoxide is inhaled into the lungs and passed into the blood stream, oxygen is
 replaced by the carbon monoxide in the red blood cells, causing a reduction in the amount of oxygen supplied to the many parts of the body. This lack of oxygen causes headaches, lack of
 coordination, reduced mental alertness and, should the carbon monoxide concentration be high enough, death could result.
-
----
 
 ## Reducing Hydrocarbon Emissions in the Combustion Process
 
@@ -156,8 +136,6 @@ outside the engine. Two such methods were the addition of air injection systems,
 burn traces of hydrocarbons without affecting the internal combustion process or fuel economy.
 To control hydrocarbon emissions through fuel evaporation, modifications were made to the fuel tank to allow storage of the fuel vapors during periods of engine shut-down. Modifications were
 also made to the air intake system so that at specific times during engine operation, these vapors may be purged and burned by blending them with the air/fuel mixture.
-
----
 
 ## Understanding Automotive Emissions and the Formation of Smog
 
@@ -180,8 +158,6 @@ Although ozone at ground level can be harmful, ozone is beneficial to the earth'
 –32 km) up in the atmosphere, much of the ultra violet radiation from the sun's rays are absorbed and screened. If this ozone layer were not present, much of the earth's surface would be
 burned, dried and unfit for human life.
 
----
-
 ## The Impact of Catalytic Converters on Sulfur Emissions and Pollution
 
 
@@ -193,8 +169,6 @@ When this combines with water vapors (H2O), a sulfuric acid mist (H2SO4) is form
 formed, is the same mist that rises from the vents of an automobile battery when an active chemical reaction takes place within the battery cells.
 When a large concentration of vehicles equipped with catalytic converters are operating in an area, this acid mist may rise and be distributed over a large ground area causing land, plant,
 crop, paint and building damage.
-
----
 
 ## Understanding Particulate Emissions and Engine Defects in Gasoline Engines
 
@@ -214,8 +188,6 @@ The cooling system is an important factor in the reduction of particulate matter
 manufacturer. The cooling system must be maintained in the same manner as the engine oiling system, as each system is required to perform properly in order for the engine to operate
 efficiently for a long time.
 
----
-
 ## Industrial Emissions and Environmental Impact
 
 
@@ -227,4 +199,3 @@ Working with Federal, State and Local mandated regulations and by carefully moni
 sources, striving to obtain an acceptable level. Because of the mandated industrial emission clean up, many land areas and streams in and around the cities that were formerly barren of
 vegetation and life, have now begun to move back in the direction of nature's intended balance.
 
----

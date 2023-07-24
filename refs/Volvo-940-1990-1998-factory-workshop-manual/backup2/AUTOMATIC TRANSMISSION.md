@@ -1,7 +1,5 @@
 # AUTOMATIC TRANSMISSION
 
----
-
 ## Throttle Linkage and Kickdown Switch Adjustment
 
 
@@ -47,8 +45,6 @@ order to adjust the throttle cable
 
 Fig. 2: Install a 3.5mm spacer between the throttle pulley
 stop and the bracket stop, then adjust the cable
-
----
 
 ## Automatic Transmission Removal and Preparation
 
@@ -455,8 +451,6 @@ Torx® bit to remove the torque converter bolts
 Fig. 2: Use a suitable stand to support the transaxle before
 removing
 
----
-
 ## Automatic Transmission Adjustment and Shift Control
 
 
@@ -582,8 +576,6 @@ Check the cable sheath adjustment with the throttle pedal in the vehicle depress
 from the cable sheath to the clip should be 2.02 inches (51.5mm), but 1.98–2.06 inches (50.4–52.6mm) is permitted. If required, adjust the distance on the cable sheath.
 Fig. 3: Adjustment of the kick-down cable on AW 70/71/72
 transmissions
-
----
 
 ## Removing the Automatic Transmission
 
@@ -1038,8 +1030,6 @@ Place the selector lever in P. Wait 2 minutes and check the fluid level. Top up,
 
 To install:
 
----
-
 ## Automatic Transmission Extension Housing Seal Removal and Installation
 
 
@@ -1109,8 +1099,6 @@ Lower the vehicle.
 
 Connect the negative battery cable.
 
----
-
 ## Procedure for Removing and Installing Automatic Transmission Components
 
 
@@ -1169,8 +1157,6 @@ Install the battery tray.
 13.
 
 Install the battery and connect the battery cables.
-
----
 
 ## Automatic Transmission Removal and Installation Procedure
 
@@ -1246,14 +1232,10 @@ Install the battery and connect the battery cables.
 Fig. 1: The gear position sensor is visible after the air
 cleaner is removed
 
----
-
 ## Halfshaft Overhaul Procedure for Manual Transaxle
 
 
 Refer to the Halfshaft Overhaul procedure in the Manual Transaxle portion of this section.
-
----
 
 ## Halfshaft Removal and Installation Procedure for Automatic Transmissions
 
@@ -1261,14 +1243,10 @@ Refer to the Halfshaft Overhaul procedure in the Manual Transaxle portion of thi
 NOTE: The procedure for halfshaft removal is the same for manual transaxle, so refer to the Halfshaft removal and installation procedure in the Manual Transaxle portion
 of this section.
 
----
-
 ## Switch Adjustment: Not Applicable
 
 
 There is no adjustment for this switch.
-
----
 
 ## Replacing the Start Inhibitor/Back-Up Light Switch in the Automatic Transmission
 
@@ -1308,8 +1286,6 @@ To install:
 Fig. 1: The neutral safety/back-up light switch as mounted on
 the gear shift selector
 
----
-
 ## Understanding the Operation of the Automatic Transmission
 
 
@@ -1319,4 +1295,3 @@ fluid as the medium for the transmission of power. This fluid also works in the 
 these functions, trouble within the unit can easily travel from one part to another. For this reason, and because of the complexity and unusual operating principles of the transaxle, a very
 sound understanding of the basic principles of operation will simplify troubleshooting.
 
----

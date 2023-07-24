@@ -1,7 +1,5 @@
 # FRONT DISC BRAKES
 
----
-
 ## Overhauling the Front Disc Brake Caliper
 
 
@@ -109,8 +107,6 @@ Install the wheel and tire assembly, then carefully lower the vehicle.
 Properly bleed the brake system.
 Fig. 8: There are tools, such as this Mighty-Vac, available to
 assist in proper brake system bleeding
-
----
 
 ## Front Disc Brake Removal and Installation
 
@@ -359,8 +355,6 @@ usually using a 17mm socket or wrench . . .
 
 Fig. 2: . . . and remove the caliper carrier
 
----
-
 ## Inspecting and Maintaining Front Disc Brakes
 
 
@@ -370,8 +364,6 @@ Glaze on the rotor can be removed by hand-sanding it with medium grit garnet pap
 The minimum thickness of each brake rotor is indicated on the rotor itself. Do not utilize a rotor which is worn below the minimum allowable thickness. If rotor damage cannot be corrected by
 grinding to these minimums, the rotor must be replaced.
 Rotor lateral run-out must not be more than 0.001 in. (0.035mm).
-
----
 
 ## Front Disc Brake Removal and Installation Procedure
 
@@ -564,8 +556,6 @@ Fig. 1: Remove the wheel guide pin bolt . . .
 
 Fig. 2: . . . and remove the brake disc from the hub
 
----
-
 ## Brake Pad Maintenance and Safety Precautions
 
 
@@ -576,4 +566,3 @@ Check the width of the brake pads using a thickness gauge, available at most aut
 Fig. 1: Pad thickness is measured from the disc to the edge
 of the pad
 
----

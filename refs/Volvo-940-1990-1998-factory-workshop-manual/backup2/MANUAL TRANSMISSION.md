@@ -1,13 +1,9 @@
 # MANUAL TRANSMISSION
 
----
-
 ## Shift Linkage Adjustments for Volvo Manual Transmissions
 
 
 Shift linkage adjustments are neither necessary nor possible on Volvo manual transmissions.
-
----
 
 ## Back-up Light Switch Replacement Procedure
 
@@ -44,8 +40,6 @@ Lower the vehicle.
 8.
 
 Connect the negative battery cable.
-
----
 
 ## Replacing the Manual Transmission Switch
 
@@ -114,8 +108,6 @@ Connect the negative battery cable.
 Fig. 1: Removing the back-up light switch on the M46 and
 M47 manual transmissions
 
----
-
 ## Extension Housing Seal Removal and Installation
 
 
@@ -177,8 +169,6 @@ Lower the vehicle.
 14.
 
 Connect the negative battery cable.
-
----
 
 ## Types of Joints for Manual Transmission
 
@@ -311,8 +301,6 @@ Fig. 12: Removing the CV-joint assembly
 Fig. 13: Removing the CV-joint inner snapring
 
 Fig. 14: Installing the CV-joint assembly (typical)
-
----
 
 ## Removing the Halfshafts and Disconnecting Components
 
@@ -448,8 +436,6 @@ Fig. 6: After the halfshaft is removed, inspect the axle seal
 and . . .
 
 Fig. 7: . . . the halfshaft retaining ring on the spline shaft
-
----
 
 ## Removal of Manual Transmission Components
 
@@ -860,8 +846,6 @@ Reinstall the plug.
 
 Check the function of the clutch before driving.
 
----
-
 ## Manual Transmission Removal and Disassembly Procedure
 
 
@@ -1172,8 +1156,6 @@ Install the ashtray, interior trim and shifter boot.
 
 Connect the negative battery cable.
 
----
-
 ## Manual Transmission Removal and Installation Procedure
 
 
@@ -1252,8 +1234,6 @@ Lower the vehicle.
 
 Connect the negative battery cable.
 
----
-
 ## Understanding the Role of the Manual Transmission in Engine Performance and Power Delivery
 
 
@@ -1270,4 +1250,3 @@ synchronizer and clutch is engaged. Shifting from one gear to the next causes on
 by internal dog clutches which slide between the center of the gear and the shaft. The forward gears employ synchronizers; friction members which smoothly bring gear and shaft to the
 same speed before the toothed dog clutches are engaged.
 
----

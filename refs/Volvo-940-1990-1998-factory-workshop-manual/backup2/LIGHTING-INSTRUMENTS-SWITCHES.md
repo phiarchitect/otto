@@ -1,7 +1,5 @@
 # LIGHTING INSTRUMENTS SWITCHES
 
----
-
 ## Adjusting and Testing Light Beam Alignment
 
 
@@ -32,8 +30,6 @@ Tighten the mounting hardware.
 5.
 
 Test to make sure the lights work correctly, and the light pattern is even.
-
----
 
 ## Installation of Aftermarket Lights for Road Use
 
@@ -100,8 +96,6 @@ Turn the lights ON and adjust the light pattern, if necessary.
 Fig. 1: This connector is left on some models exclusively to
 ease the installation of driving lights
 
----
-
 ## Fog Lamp Bulb Replacement Procedure
 
 
@@ -130,8 +124,6 @@ To install:
 
 Fig. 1: Fog lamp bulb replacement
 
----
-
 ## Replacement and Diagnosis of Gauges in the Instrument Cluster
 
 
@@ -154,8 +146,6 @@ instrument cluster
 
 Fig. 3: After removing the back of the cluster, the gauge is
 removed by unfastening the retaining screws
-
----
 
 ## Proper Headlight Aim and Adjustment
 
@@ -215,8 +205,6 @@ the beams to match the marks on the wall.
 6.
 
 Have the headlight adjustment checked as soon as possible by a reputable repair shop.
-
----
 
 ## Replacing Halogen Bulbs in Volvo 940 Lighting Instruments
 
@@ -303,8 +291,6 @@ Unplug the electrical connector from the rear of the headlamp.
 Installation is the reverse of removal.
 Fig. 4: Remove the trim ring while supporting the headlight to
 prevent it from falling
-
----
 
 ## Procedure for Removing and Installing Lighting Instruments Switch in 1993 Volvo 940
 
@@ -409,8 +395,6 @@ Install the selector knob by pressing it onto the shaft.
 10.
 
 Reconnect the battery and check the switch function.
-
----
 
 ## Removal and Installation of Instrument Cluster
 
@@ -624,8 +608,6 @@ panel
 Fig. 19: The instrument cluster bulbs are easily removed by
 twisting 1 ⁄ 4 turn and pulling them out
 
----
-
 ## Removing and Installing Rocker Switches
 
 
@@ -641,4 +623,3 @@ Fig. 2: On this type, a small screwdriver or other suitable
 tool can be inserted into the groove (indicated by the arrows)
 to release the switch
 
----

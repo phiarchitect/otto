@@ -1,7 +1,5 @@
 # FLUIDS AND LUBRICANTS
 
----
-
 ## Transmission Fluid Drain and Refill Procedure
 
 
@@ -73,14 +71,10 @@ dipstick tube to refill the transmission/transaxle
 Fig. 7: Pour the proper ATF into the funnel and fill the
 transmission/transaxle
 
----
-
 ## Recommended Fluid for Automatic Transmissions
 
 
 Dexron III® type Automatic Transmission Fluid (ATF) is recommended for all automatic transmissions/transaxles.
-
----
 
 ## Transmission Fluid Level Checking and Maintenance
 
@@ -121,8 +115,6 @@ level
 
 Fig. 2: The dipstick is marked on both sides; one side is for
 checking while cold, the other side while hot
-
----
 
 ## Procedure for Draining and Replacing Transmission Fluid and Cleaning Strainer
 
@@ -223,8 +215,6 @@ strainer
 Fig. 3: Install the replacement strainer, particle magnet(s)
 and pan, along with the dipstick tube, if removed
 
----
-
 ## Proper Car Washing Techniques and Tips
 
 
@@ -266,8 +256,6 @@ WARNING
 Most manufacturers do not recommend automatic car washing in the first six months due to the possibility of insufficient paint curing; a safe bet is to wait until after six months of ownership
 (when purchased new) to use an automatic car wash.
 
----
-
 ## Cleaning and Maintenance of Upholstery, Leather, Floor Mats, and Carpet
 
 
@@ -291,8 +279,6 @@ There are protectants available which can treat the various surfaces in your car
 long run. The shine that is placed on your dashboard attracts sunlight accelerating the aging, fading and possibly even cracking the surfaces. These protectants also attract more dust to
 stick to the surfaces they treat, increasing the cleaning you must do to maintain the appearance of your vehicle. Personal discretion is advised here.
 
----
-
 ## Points Requiring Lubrication and Maintenance
 
 
@@ -315,8 +301,6 @@ Fig. 4: Use wax on the striker latches
 Fig. 5: Wipe the antenna clean and lightly lubricate with a
 mild lubricant such as ATF to increase antenna motor life
 
----
-
 ## Vehicle Waxing and Preservation
 
 
@@ -326,14 +310,10 @@ Sometimes, waxing a neglected vehicle, or one that has sustained chemical or nat
 applied. For severely damaged surfaces, it is best to consult a professional to see what would be required to repair the damage.
 Waxing procedures differ according to manufacturer, type, and ingredients, so it is best to consult the directions on the wax and/or polish purchased.
 
----
-
 ## Brake Fluid Recommendations
 
 
 It is recommended that only brake fluid meeting the specification DOT 4+ (DOT 4) be used in the brake system. AVOID mixing different types of brake fluid.
-
----
 
 ## Brake Fluid Level Check and Adjustment
 
@@ -365,8 +345,6 @@ before opening the cap to prevent contamination
 Fig. 3: Pour the proper brake fluid directly into the reservoir;
 if you use a funnel, be sure not to mix fluids
 
----
-
 ## Lubrication and Maintenance for Suspension, Driveline, and Steering Components
 
 
@@ -377,8 +355,6 @@ contain a provision for lubrication. The easiest way to determine if a component
 On most models the steering stops require lubricating or a noise will be heard when the vehicle is turned all the way in either direction. To grease the stops, simply spread some a multipurpose grease, usually bearing grease over the surface.
 Fig. 4: Lubricate the steering stops at every oil change
 interval
-
----
 
 ## Proper Grease Fitting Maintenance and Lubrication Procedure
 
@@ -419,8 +395,6 @@ NOTE: Some grease fittings may be obscured by road dirt or grease from an over z
 
 NOTE: Do not overfill the component with grease. If grease exits the boot or seal, it is overfill.
 
----
-
 ## Clutch Fluid Level and Maintenance
 
 
@@ -432,8 +406,6 @@ CAUTION
 Brake fluid contains polyglycol ethers and polyglycols. Avoid contact with the eyes and wash your hands thoroughly after handling brake fluid. If you do get brake fluid in your eyes, flush
 your eyes with clean, running water for 15 minutes. If eye irritation persists, or if you have taken brake fluid internally, IMMEDIATELY seek medical assistance.
 On models with a separate clutch master cylinder, the fluid should be in between the MIN and MAX levels.
-
----
 
 ## Coolant Replacement Procedure for a 1993 Volvo 940
 
@@ -497,8 +469,6 @@ then clean and inspect it before installation
 Fig. 5: Pour the proper 50/50 coolant mixture into the
 expansion tank to refill the system
 
----
-
 ## Proper Antifreeze Solution Ratio for Volvo 940
 
 
@@ -510,8 +480,6 @@ strut tower indicating the type of coolant to be used
 
 Fig. 2: Volvo recommends mixing 50% coolant and 50%
 water to fill the cooling system
-
----
 
 ## Cooling System Flushing and Refilling
 
@@ -547,8 +515,6 @@ After the system has been flushed, continue with the refill procedures outlined 
 
 Check the condition of the radiator cap and its gasket, replacing the cap if anything looks improper.
 
----
-
 ## Coolant Level Check and Top-Up Procedure
 
 
@@ -562,8 +528,6 @@ dogs are attracted to ethylene glycol antifreeze and could drink any that is lef
 coolant into a sealable container. Coolant should be reused unless it is contaminated or is several years old.
 Fig. 1: The expansion tank is marked with MIN/MAX levels;
 the fluid should be between them
-
----
 
 ## Rear Axle Housing Fluid Drain and Refill Procedure
 
@@ -617,8 +581,6 @@ NOTE: Make sure the vehicle is level before attempting to add fluid to the rear 
 
 Lower the vehicle, if applicable, then operate the vehicle and check for any leaks.
 
----
-
 ## Rear Axle Fluid and Lubricant Recommendations
 
 
@@ -626,8 +588,6 @@ The rear axle should be serviced with API GL-5, MIL-L-2105 B or C or equivalent,
 Use oils with the proper additives for vehicles equipped with a limited slip differential.
 Fig. 1: If the vehicle is equipped with a limited slip rear axle
 as noted by this tag, the proper oil or additive must be used
-
----
 
 ## Checking and Topping Up Rear Axle Oil Level
 
@@ -654,8 +614,6 @@ Reinstall the rear axle level plug.
 Lower the vehicle.
 Fig. 1: Location of the rear axle level plug on vehicles with a
 solid rear axle
-
----
 
 ## Engine Oil and Filter Replacement Procedure
 
@@ -758,8 +716,6 @@ Fig. 9: Remove the oil filler cap . . .
 Fig. 10: . . . and place a funnel in the opening to fill the
 crankcase with oil
 
----
-
 ## Checking and Maintaining Engine Oil Level
 
 
@@ -796,8 +752,6 @@ should be between the . . .
 Fig. 3: . . . MIN and MAX markings on the dipstick, as shown
 by the arrows
 
----
-
 ## Proper Disposal and Recycling of Hazardous Fluids
 
 
@@ -805,8 +759,6 @@ Used fluids such as engine oil, transmission fluid, antifreeze and brake fluid a
 authorities; in many areas, waste oil, antifreeze, etc. is being accepted as a part of recycling programs. A number of service stations and auto parts stores are also accepting waste fluids for
 recycling.
 Be sure of the recycling center's policies before draining any fluids, as many will not accept different fluids that have been mixed together.
-
----
 
 ## Fuel Selection and Additive Precautions
 
@@ -827,8 +779,6 @@ knocks switch to a higher grade of fuel. Sometimes just changing brands will cur
 The other most important quality you should look for in a fuel is that it contains detergents designed to keep fuel injection systems clean. Many of the major fuel companies will display
 information right at the pumps telling you that their fuels contain these detergents. The use of a high-quality fuel which contains detergents will help assure trouble-free operation of your
 vehicle's fuel system.
-
----
 
 ## Recommended Oil Viscosity and Importance of Using Quality Oil
 
@@ -851,8 +801,6 @@ Through a balanced system of metallic detergents and polymeric dispersants, the 
 Acids, particularly sulfuric, as well as other by-products of engine combustion are neutralized by the oil. If these acids are allowed to concentrate, they can cause corrosion and rapid wear of
 the internal engine parts.
 Fig. 1: Volvo's recommended oil viscosity chart
-
----
 
 ## Transmission Fluid and Lubricant Maintenance
 
@@ -925,15 +873,11 @@ Lower the vehicle.
 
 Road test the vehicle and check for leaks.
 
----
-
 ## Recommended Fluids and Lubricants for Manual Transmissions
 
 
 Automatic Transmission Fluid (ATF) type F is recommended for manual transmissions. On the M46, engine oil SAE 10W-40 is recommended for use in areas where temperature seldom
 drops below 14°F (10°C).
-
----
 
 ## Transmission Fluid Level Check and Top-Up Procedure
 
@@ -960,14 +904,10 @@ transmission
 Fig. 2: Level (fill) and drain plug locations — M47 and M90
 transmissions
 
----
-
 ## Recommended ATF for Power Steering System
 
 
 Automatic Transmission Fluid (ATF) type F is recommended for the power steering system.
-
----
 
 ## Checking and Adjusting Fluid Levels
 
@@ -1001,22 +941,16 @@ and an ADD range
 Fig. 3: Pour the fluid directly into the reservoir, using a funnel
 if necessary
 
----
-
 ## Fluid Replacement and Refilling for the Transfer Case
 
 
 The transfer case cannot be drained while still attached to the transmission. However, an alternative method is to use a hand-held vacuum pump with a piece of hose and suck out the fluid.
 Refill with the appropriate grade of oil.
 
----
-
 ## Transfer Case Oil Recommendation
 
 
 The recommended oil for the transfer case is API-GL-5/SAE 80W, or equivalent.
-
----
 
 ## Rear Wheel Driveshaft Fluid Level Check
 
@@ -1024,4 +958,3 @@ The recommended oil for the transfer case is API-GL-5/SAE 80W, or equivalent.
 There is a plug to the left side of the flange for the rear wheel driveshaft. The level is checked by removing this plug and checking the fluid level. The fluid should be no more than 1 ⁄ 2 inch
 (13mm) below this plug. If your finger is unable to fit in this opening, a small screwdriver works.
 
----

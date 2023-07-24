@@ -1,14 +1,10 @@
 # STEERING SYSTEM
 
----
-
 ## Ignition Lock Cylinder/Switch Assembly and Function
 
 
 The ignition lock cylinder/switch is an integral unit. The lock cylinder turns inside the switch assembly, and makes contact with terminals inside the switch, determining which circuit to
 energize. Replacement of the separate components is not possible; they are replaced as an assembly.
-
----
 
 ## Steering System Disassembly Procedure
 
@@ -332,15 +328,11 @@ covers
 
 Fig. 2: Ignition lock cylinder and switch removal
 
----
-
 ## "Steering System Procedure for Manual Rack and Pinion Assembly (240 Series)"
 
 
 This procedure applies only to 240 series vehicles with manual rack and pinion assemblies. All other models of the 240 series, as well as all other vehicles covered by this manual, have a
 power rack and pinion; for those vehicles, refer to the procedure later in this section.
-
----
 
 ## Steering System Removal and Installation Steps
 
@@ -429,8 +421,6 @@ Have the alignment checked and reset if needed.
 21.
 
 Connect the negative battery cable.
-
----
 
 ## Steering System Maintenance and Disassembly
 
@@ -792,8 +782,6 @@ Lower the vehicle and check the toe-in.
 
 To install:
 
----
-
 ## Steering System Fluid Filling and Bleeding Procedure
 
 
@@ -829,8 +817,6 @@ the level rise is correct.
 8.
 
 Lower the vehicle.
-
----
 
 ## Power Steering Pump Removal and Installation
 
@@ -1080,15 +1066,11 @@ Fill the power steering pump reservoir with new fluid.
 
 Bleed the steering system.
 
----
-
 ## Rear Washer/Wiper Controls and Switch Assembly
 
 
 The tailgate washer/wiper controls are mounted on the same control stalk as the front wipers. The components are not individually replaceable for the rear system. To replace the switch
 assembly, follow the directions given for Turn Signal/Windshield Wiper Switch.
-
----
 
 ## Precautions for SRS System and Steering Maintenance
 
@@ -1101,8 +1083,6 @@ Never service the steering shaft or steering gear without first locking the cont
 When fault tracing the SRS system with the air bag assembly in place, install the special tool 998 8695 or equivalent. This tool has the same resistance as the air bag assembly.
 The use of this tool prevent accidental air bag inflation and fault code registration during work.
 
----
-
 ## Steering System Overview and Safety Precautions
 
 
@@ -1113,8 +1093,6 @@ normally folded up, but is instantly inflated in the event of certain types of c
 WARNING
 All work which includes removing or replacing the air bag assembly must be carried out with the battery disconnected and with the ignition turned OFF for the duration of work. This is to
 ensure that the air bag does not accidentally inflate during service repairs and that no faults codes will register, requiring subsequent cancellation.
-
----
 
 ## Steering Wheel Removal and Installation
 
@@ -1190,4 +1168,3 @@ steering wheel
 
 Fig. 3: View of the contact reel with the wheel removed
 
----

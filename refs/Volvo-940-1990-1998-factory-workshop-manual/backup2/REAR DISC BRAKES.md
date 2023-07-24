@@ -1,13 +1,9 @@
 # REAR DISC BRAKES
 
----
-
 ## Front Brake Caliper Overhaul Procedure
 
 
 See the Front Brake Caliper overhaul procedure, earlier in this section.
-
----
 
 ## "Rear Disc Brake Removal, Installation, and Alignment Procedure"
 
@@ -298,8 +294,6 @@ Fig. 5: . . . then remove the caliper
 Fig. 6: Volvo recommends that you spread a small amount of
 threadlocking compound on the caliper mounting bolts
 
----
-
 ## Inspecting and Maintaining Rear Disc Brakes
 
 
@@ -309,8 +303,6 @@ Glaze on the rotor can be removed by hand-sanding it with medium grit garnet pap
 The minimum thickness of each brake rotor is indicated on the rotor itself. Do not utilize a rotor which is worn below the minimum allowable thickness. If rotor damage cannot be corrected by
 grinding to these minimums, the rotor must be replaced.
 Rotor lateral run-out must not be more than 0.001 in. (0.035mm).
-
----
 
 ## Rear Disc Brake Replacement and Alignment Procedure
 
@@ -511,11 +503,8 @@ Fig. 2: . . . and remove the wheel guide pin bolt
 Fig. 3: Remove the brake disc; if stuck, lightly tap with a
 soft-faced hammer to loosen it
 
----
-
 ## Rear Disc Brake Pad Inspection
 
 
 The rear disc brake pads are checked for thickness in the same manner as the front. Refer to the Front Disc Brake Pad inspection procedure.
 
----

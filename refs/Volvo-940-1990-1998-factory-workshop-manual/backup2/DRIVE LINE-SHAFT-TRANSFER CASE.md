@@ -1,7 +1,5 @@
 # DRIVE LINE SHAFT TRANSFER CASE
 
----
-
 ## Replacing the Center Support Bearing in the Drive Line Shaft Transfer Case
 
 
@@ -114,8 +112,6 @@ Remove the safety stands and lower the vehicle.
 Road test the vehicle and check for driveline vibrations.
 Fig. 3: Installing the bearing into the cage using a press
 
----
-
 ## Driveshaft Components and Operation
 
 
@@ -127,16 +123,12 @@ Each joint consists of a spider with 4 ground trunnions in the flange yokes surr
 Fig. 1: Two-piece driveshaft with center bearing, yokes and
 universal joints
 
----
-
 ## Driveshaft Balancing: Best Left to Professionals
 
 
 Driveshaft balancing is a process best left for a professional with the proper equipment. Makeshift methods using hose clamps or similar devices can work, but the process of correcting
 the imbalance in this manner is very tough and extremely time consuming.
 Many machine shops can balance driveshafts; some parts stores and jobbers can also balance driveshafts using outside contractors.
-
----
 
 ## Drive Line Shaft Transfer Case Removal and Inspection
 
@@ -225,8 +217,6 @@ eliminating driveline vibrations
 
 Fig. 2: Assembled driveshaft components
 
----
-
 ## Removing and Cleaning Driveshaft Assembly
 
 
@@ -291,8 +281,6 @@ underneath to further free the bearing cups
 
 Fig. 4: Position the flange and new joint into the driveshaft
 
----
-
 ## Transfer Case Seal Replacement Procedure
 
 
@@ -336,8 +324,6 @@ Install the right front wheel. Tighten the lug nuts to 81 ft. lbs. (110 Nm).
 10.
 
 Lower the vehicle.
-
----
 
 ## Procedure for Removing and Installing Transfer Case Seal and Components
 
@@ -396,4 +382,3 @@ Install the rear driveshaft.
 
 Lower the vehicle.
 
----

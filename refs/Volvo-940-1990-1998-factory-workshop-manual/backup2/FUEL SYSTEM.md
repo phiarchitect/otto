@@ -1,15 +1,11 @@
 # FUEL SYSTEM
 
----
-
 ## Fuel System Diagnosis and Testing
 
 
 When there is a problem starting or driving a vehicle, two of the most important checks involve the ignition and the fuel systems. The questions most mechanics attempt to answer first, `is
 there spark?'' and `is there fuel?'' will often lead to solving most basic problems. For ignition system diagnosis and testing, please refer to the information on engine electrical components
 and ignition systems found earlier in this manual. If the ignition system checks out (there is spark), then you must determine if the fuel system is operating properly (is there fuel?).
-
----
 
 ## Fuel System Components and Operation
 
@@ -29,8 +25,6 @@ Several sensors feed the control unit information to precisely control fuel inje
 temperature from the coolant temperature sensor, engine load information from the air mass meter, information from the throttle switch, which indicates if the throttle is closed or wide open,
 electrical system voltage from the battery current and signals from the A/C switch and clutch, indicating whether they are operating.
 
----
-
 ## Bosch Motronic Fuel Injection System and Functions
 
 
@@ -44,8 +38,6 @@ Controls the operation of the radiator fan
 The control unit is provided with adaptive Lambda control and idling control functions, as well as timing retardation function, to eliminate knock. The service requirement is minimal, since
 neither the carbon monoxide level nor the idling speed require adjustment.
 
----
-
 ## Fuel Line Connections and Removal Procedures
 
 
@@ -54,8 +46,6 @@ wrench turns the female fitting until the lines are separated.
 Some connections do have quick-connect fittings. The fuel filter has a quick-connect fitting; it is removed using a 17mm wrench to depress the tab and remove the line. Other quick-connect
 fittings have clips which must be removed before the line can be separated. NOTE: For additional information on Fuel Filter removal and installation, refer to Section 1 of this
 manual.
-
----
 
 ## Fuel System Pressure Relief and Fuel Rail Assembly
 
@@ -191,8 +181,6 @@ both lines are free before removing the fuel rail
 
 Fig. 7: Lift the fuel rail off evenly, taking care not to lose any
 spacers or O-rings while removing
-
----
 
 ## Fuel System Component Removal and Installation
 
@@ -416,8 +404,6 @@ injector as well
 Fig. 4: The rubber dampers for the intake manifold must be
 installed before the fuel rail is reinstalled
 
----
-
 ## Testing Fuel Injector Operation
 
 
@@ -444,8 +430,6 @@ flash, signaling that the injector driver circuit is working. If the "noid" ligh
 If the "noid" light does not flash, the injector driver circuit is faulty. Disconnect the negative battery cable. Unplug the "noid" light from the injector connector and also unplug the ECM. Check
 the harness between the appropriate pins on the harness side of the ECM connector and the injector connector. Resistance should be less than 5.0 ohms; if not, repair the circuit. If
 resistance is within specifications, the injector driver inside the ECM is faulty and replacement of the ECM will be necessary.
-
----
 
 ## Fuel System Pressure Relief and Regulator Removal
 
@@ -578,8 +562,6 @@ install a new O-ring during assembly
 Fig. 5: Also replace the copper gasket on the pressure
 regulator body to prevent leaks
 
----
-
 ## Testing Fuel Pressure and Reinstalling Fuel Pump Relay
 
 
@@ -623,8 +605,6 @@ rail — remove the protective cap to test fuel pressure
 
 Fig. 2: Install the gauge and adapters between the fuel feed
 line and fuel rail on models without a Schrader valve
-
----
 
 ## Fuel System Pressure Relief and Fuel Tank Removal and Installation
 
@@ -781,8 +761,6 @@ pump retaining ring
 Fig. 16: After the retaining ring is removed, lift the pump out
 of the tank
 
----
-
 ## Fuel System Safety Precautions
 
 
@@ -804,8 +782,6 @@ Do not substitute fuel hose or equivalent, where fuel pipe is installed.
 Whenever servicing the fuel system, always work in a well ventilated area.
 Always keep fuel in a container specifically designed for fuel storage; also, always properly seal fuel containers to avoid the possibility of fire or explosion.
 
----
-
 ## Regina Fuel Injection System and its Components
 
 
@@ -824,8 +800,6 @@ Three-way catalytic converter
 Various input sensors feed information that is interpreted by the control unit to achieve optimum efficiency. The control unit receives signals from the pressure sensor, air intake temperature
 sensor and receives crankshaft position information from the ignition control unit, without which the system will not function. The coolant temperature sensor, oxygen sensor and throttle switch
 also send information to the control unit.
-
----
 
 ## Fuel Drainage and System Maintenance Procedure
 
@@ -894,14 +868,10 @@ Fig. 3: Fuel pump fuse location — 960 models
 Fig. 4: Connect the adapter to the pressure port, and drain
 the fuel on 2.3L and 2.4L 5-cylinder engines
 
----
-
 ## Fuel Pump and Sending Unit Assembly
 
 
 On all vehicles, the fuel tank contains the fuel pump and sending unit assembly.
-
----
 
 ## Fuel System Disassembly and Fuel Tank Draining Procedure
 
@@ -1034,4 +1004,3 @@ Fig. 4: Fuel tank assembly for a rear drive model
 
 Fig. 5: Fuel tank assembly — 850/C70/S70 and V70 nonAWD models
 
----

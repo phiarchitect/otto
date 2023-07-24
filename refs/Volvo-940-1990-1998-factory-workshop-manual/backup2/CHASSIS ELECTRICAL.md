@@ -1,7 +1,5 @@
 # CHASSIS ELECTRICAL
 
----
-
 ## Understanding Electrical Circuits in a Vehicle
 
 
@@ -24,8 +22,6 @@ which completes the circuit back to the battery
 The normal automotive circuit differs from this simple example in two ways. First, instead of having a return wire from the bulb to the battery, the current travels through the frame of the
 vehicle. Since the negative (-) battery cable is attached to the frame (made of electrically conductive metal), the frame of the vehicle can serve as a ground wire to complete the circuit.
 Secondly, most automotive circuits contain multiple components which receive power from a single circuit. This lessens the amount of wire needed to power components on the vehicle.
-
----
 
 ## Understanding Electrical Flow and Amperage Measurement
 
@@ -54,8 +50,6 @@ size and length must be considered to design a circuit that can handle the curre
 Temperature — with many materials, the higher the temperature, the greater the resistance (positive temperature coefficient). Some materials exhibit the opposite trait of lower
 resistance with higher temperatures (negative temperature coefficient). These principles are used in many of the sensors on the engine.
 
----
-
 ## Understanding Electrical Flow and Amperage
 
 
@@ -83,8 +77,6 @@ size and length must be considered to design a circuit that can handle the curre
 Temperature — with many materials, the higher the temperature, the greater the resistance (positive temperature coefficient). Some materials exhibit the opposite trait of lower
 resistance with higher temperatures (negative temperature coefficient). These principles are used in many of the sensors on the engine.
 
----
-
 ## Understanding Ohm's Law and Power in Chassis Electrical Systems
 
 
@@ -96,14 +88,10 @@ The amount of work that the electricity can perform is expressed as power. The u
 is equal to amperage (I) times voltage (E): W=I x E This is only true for direct current (DC) circuits; The alternating current formula is a tad different, but since the electrical circuits in most
 vehicles are DC type, we need not get into AC circuit theory.
 
----
-
 ## Resetting Circuit Breakers
 
 
 Circuit breakers are located inside the fuse panel. They are automatically reset when the problem corrects itself, or the circuit cools down to allow operation again.
-
----
 
 ## Battery Disconnect and Reconnection Procedures
 
@@ -116,8 +104,6 @@ Before you disconnect the cable(s), first turn the ignition to the OFF position.
 a vehicle, just like a spark plug jumping the gap) and, of course, damaging some components such as the alternator diodes.
 When the battery cable(s) are reconnected (negative cable last), be sure to check that your lights, windshield wipers and other electrically operated safety components are all working
 correctly. If your vehicle contains an Electronically Tuned Radio (ETR), don't forget to also reset your radio stations. Ditto for the clock.
-
----
 
 ## Types of Connectors Used in Automotive Applications
 
@@ -140,8 +126,6 @@ Fig. 2: Weatherproof connectors are most commonly used in
 the engine compartment or where the connector is exposed
 to the elements
 
----
-
 ## Importance of Grounding in Automotive Electrical Systems
 
 
@@ -150,15 +134,11 @@ ground wire which is attached to the frame or chassis of the vehicle. The electr
 look, you'll see that the battery ground cable connects between the battery and the frame or chassis of the vehicle.
 NOTE: It should be noted that a good percentage of electrical problems can be traced to bad grounds.
 
----
-
 ## Understanding the Importance of Electrical Loads and Avoiding Short Circuits
 
 Every electrical circuit must include a "load'' (something to use the electricity coming from the source). Without this load, the battery would attempt to deliver its entire power supply from one pole
 to another. This is called a "short circuit. "All this electricity would take a short cut to ground and cause a great amount of damage to other components in the circuit by developing a tremendous
 amount of heat. This condition could develop sufficient heat to melt the insulation on all the surrounding wires and reduce a multiple wire cable to a lump of plastic and copper.
-
----
 
 ## Battery and Alternator: Power Supply and Function
 
@@ -179,8 +159,6 @@ while a generator produces direct current. Alternators tend to be more efficient
 Alternators and generators are devices that consist of coils of wires wound together making big electromagnets. One group of coils spins within another set and the interaction of the
 magnetic fields causes a current to flow. This current is then drawn off the coils and fed into the vehicles electrical system.
 
----
-
 ## Protection Devices for Electrical System
 
 
@@ -200,8 +178,6 @@ fusible links are housed in plug-in modules, which are simply replaced like a fu
 the electrical path, it's the first place to look if nothing on the vehicle works, yet the battery seems to be charged and is properly connected.
 CAUTION
 Always replace fuses, circuit breakers and fusible links with identically rated components. Under no circumstances should a component of higher or lower amperage rating be substituted.
-
----
 
 ## Understanding Switches and Relays in Electrical Circuits
 
@@ -227,8 +203,6 @@ relay switch to the load (component). Smaller wires are
 connected from the relay coil to the control switch for the
 circuit and from the opposite side of the relay coil to ground
 
----
-
 ## Understanding Automotive Wiring and Harnesses
 
 
@@ -252,23 +226,17 @@ Schematics break the entire electrical system down into individual circuits. In 
 vehicle; switches and other components are shown as simply as possible. Face views of harness connectors show the cavity or terminal locations in all multi-pin connectors to help locate
 test points.
 
----
-
 ## Replacement Procedure for Inoperative Flasher in Turn Signal/Wiper Switch
 
 
 The flasher is self-contained in the turn signal/windshield wiper and washer combination switch. If the flasher becomes inoperative, the switch assembly must be replaced. Refer to the Turn
 Signal (Combination) Switch removal and installation procedure in Section 8.
 
----
-
 ## Turn Signal/Windshield Wiper and Washer Combination Switch Replacement
 
 
 The flasher is self-contained in the turn signal/windshield wiper and washer combination switch. If the flasher becomes inoperative, the switch assembly must be replaced. Refer to the Turn
 Signal (Combination) Switch removal and installation procedure in Section 8.
-
----
 
 ## Importance of Fuses in Chassis Electrical Systems
 
@@ -289,8 +257,6 @@ Fig. 1: Fuse box location on 240 models
 Fig. 2: Fuse box location on the 700 series and 940 models
 
 Fig. 3: Fuse box location on 960 models
-
----
 
 ## Accessing the Central Electrical Unit
 
@@ -341,8 +307,6 @@ underside of the lid
 
 Fig. 3: A fuse removal tool is included in the fuse box
 
----
-
 ## Importance of Using Correct Fusible Type Wire and Gauge for Chassis Electrical System
 
 
@@ -355,8 +319,6 @@ those models without an external regulator utilize Maxi-fuses.
 When a fusible link blows, it is very important to find out the cause. Do not just replace the link to correct the problem. The fusible links are placed in the system for protection against dead
 shorts to ground.
 In some instances, the link may be blown and it will not show through the insulation. Check the entire length of the fusible wire when the link is suspected of failure.
-
----
 
 ## Cruise Control System Operation and Components
 
@@ -384,8 +346,6 @@ Fig. 1: Examples of different cruise control switches on Volvo
 cars
 
 Fig. 2: The servo and vacuum valve location on a 960
-
----
 
 ## Removing and Installing the Radio in a 1993 Volvo 940
 
@@ -479,8 +439,6 @@ Place the changer into position and tighten the retaining hardware.
 Install any removed trim.
 
 To install:
-
----
 
 ## Replacing Door and Dashboard Speakers
 
@@ -638,16 +596,12 @@ Install the speaker grille and tighten the retaining screws.
 
 To install:
 
----
-
 ## Troubleshooting Electrical Circuits Using Test Equipment
 
 
 Pinpointing the exact cause of trouble in an electrical circuit is most times accomplished by the use of special test equipment. The following describes different types of commonly used
 test equipment and briefly explains how to use them in diagnosis. In addition to the information covered below, the tool manufacturer's instructions booklet (provided with the tester) should be
 read and clearly understood before attempting any test procedures.
-
----
 
 ## The Importance and Proper Use of Jumper Wires in Chassis Electrical Systems
 
@@ -668,8 +622,6 @@ isolate the area of the circuit where the open is located. When the component st
 previously tested.
 You can sometimes connect the jumper wire directly from the battery to the "hot" terminal of the component, but first make sure the component uses 12 volts in operation. Some electrical
 components, such as fuel injectors or sensors, are designed to operate on about 4 to 5 volts, and running 12 volts directly to these components will cause damage.
-
----
 
 ## Using a Multimeter for Electrical Troubleshooting
 
@@ -699,8 +651,6 @@ the current that normally flows through the circuit must also flow through the a
 ammeter itself has very little resistance to current flow and, therefore, will not affect the circuit, but it will measure current draw only when the circuit is closed and electricity is flowing.
 Excessive current draw can blow fuses and drain the battery, while a reduced current draw can cause motors to run slowly, lights to dim and other components to not operate properly.
 
----
-
 ## Using a 12 Volt Test Light for Circuit Testing
 
 
@@ -725,8 +675,6 @@ the battery is strong enough for testing.
 NOTE: A self-powered test light should not be used on any computer controlled system or component. The small amount of electricity transmitted by the test light is
 enough to damage many electronic automotive components.
 
----
-
 ## Locating Open Circuit in Chassis Electrical System
 
 
@@ -749,8 +697,6 @@ If the light is out or there is infinite resistance, the open is between the pro
 4.
 
 If the light is on or the meter shows continuity, the open is between the probe and the end of the circuit toward the power source.
-
----
 
 ## Using an Ohmmeter for Chassis Electrical Testing
 
@@ -782,8 +728,6 @@ reading than the actual resistance of either of the branches.
 Connect the meter leads to both sides of the circuit (wire or component) and read the actual measured ohms on the meter scale. Make sure the selector switch is set to the
 proper ohm scale for the circuit being tested, to avoid misreading the ohmmeter test value.
 
----
-
 ## Troubleshooting Shorts in Chassis Electrical Circuit
 
 
@@ -813,8 +757,6 @@ Leave the test light probe engaged and sequentially open connectors or switches,
 
 When the light goes out, the short is between the last two circuit components which were opened.
 
----
-
 ## Battery Voltage Test
 
 
@@ -836,8 +778,6 @@ Turn the ignition switch ON to provide a load.
 4.
 
 A well charged battery should register over 12 volts. If the meter reads below 11.5 volts, the battery power may be insufficient to operate the electrical system properly.
-
----
 
 ## Voltage Drop Testing Procedure
 
@@ -877,8 +817,6 @@ Repeat the test for each component (load) down the circuit.
 
 If a large voltage drop is noticed, the preceding component, wire or connector is suspect.
 
----
-
 ## Trailer Wiring Kit and Equipment Requirements
 
 
@@ -894,8 +832,6 @@ imported vehicles, have separate turn signals. On most domestic vehicles, the br
 signals, you can purchase an isolation unit so that the brake lights won't blink whenever the turn signals are operated.
 One, final point, the best kits are those with a spring loaded cover on the vehicle mounted socket. This cover prevents dirt and moisture from corroding the terminals. Never let the vehicle
 socket hang loosely; always mount it securely to the bumper or hitch.
-
----
 
 ## Troubleshooting Techniques for Chassis Electrical Issues
 
@@ -914,4 +850,3 @@ require more than another fuse to repair. If you don't look for a problem that c
 Experience has shown that most problems tend to be the result of a fairly simple and obvious cause, such as loose or corroded connectors, bad grounds or damaged wire insulation which
 causes a short. This makes careful visual inspection of components during testing essential to quick and accurate troubleshooting.
 
----

@@ -1,7 +1,5 @@
 # BODY AND TRIM (EXTERIOR)
 
----
-
 ## Door Adjustment Procedures
 
 
@@ -31,8 +29,6 @@ NOTE: It may be necessary to repeat the striker adjustment procedure several tim
 alignment is corrected.
 Fig. 1: Door adjustment points on the front door — 700 series
 models shown, others similar
-
----
 
 ## Removing and Installing the Door
 
@@ -86,16 +82,12 @@ Connect the wiring harness and check the function of electrical components in th
 
 Connect the negative battery cable.
 
----
-
 ## Precautions for Electric Welding and Electronic Components
 
 
 WARNING
 To avoid damage to the Electronic Control Module (ECM) and/or other electronic components, always disconnect the negative battery cable before using any electric welding equipment on
 the vehicle.
-
----
 
 ## Exterior Body and Trim Removal and Installation Procedures
 
@@ -150,8 +142,6 @@ Install the cowl trim.
 
 Install the windshield wiper arms.
 
----
-
 ## Removing and Installing the Plastic Grille
 
 
@@ -160,8 +150,6 @@ careful of any wires and/or tubing running between the grille and the radiator. 
 tightening the mounting hardware.
 On some models, the grille is an integral part of the hood and removal of the hood also removes the grille. This can be verified when the hood is opened; if the grille is attached, it will raise
 with the hood.
-
----
 
 ## Adjustments for Hood Alignment and Height
 
@@ -182,8 +170,6 @@ Hood length: loosen the hood hinges and move the hood in the desired direction. 
 4.
 
 Rear height adjustment: adjust the hinge mountings near the wheel arch.
-
----
 
 ## Hood Removal and Installation Procedure
 
@@ -231,8 +217,6 @@ Fig. 4: Matchmark the hood and hinges to ease installation
 
 Fig. 5: Remove the two retaining bolts from each side and,
 with the help of an assistant, remove the hood
-
----
 
 ## Replacing Mirror Assembly and Mirror Glass
 
@@ -314,8 +298,6 @@ To install:
 
 Fig. 5: Mirror glass removal
 
----
-
 ## Power Antenna Operation and Control
 
 
@@ -324,8 +306,6 @@ retracted with the radio ON. The switch will also prevent the mast from extendin
 is electrically connected to the chassis and a green or green and red power lead connected to the fuse box to provide operating voltage. The third lead is connected to the radio (through a
 switch for the 700 and 900 series vehicles) to provide the signal for antenna operation. When there is power on this lead, the antenna extends; when the power is removed, by turning
 OFF the radio or turning OFF the antenna switch on 700 and 900 series vehicles, the antenna retracts.
-
----
 
 ## Antenna Removal and Installation Procedure
 
@@ -376,8 +356,6 @@ Install the trim panel.
 
 Connect the negative battery cable.
 
----
-
 ## Power Mirror Motor Removal and Installation
 
 
@@ -413,15 +391,11 @@ To install:
 
 Fig. 1: Location of the power mirror motor retaining bolts
 
----
-
 ## Power Sunroof Control and Motor Operation
 
 
 The power sunroof is controlled by a switch that selects the direction of travel of the sunroof. The switch changes the polarity of the voltage going to the sunroof motor. This changes the rotation
 of the motor, thereby changing the direction of sunroof travel.
-
----
 
 ## Removing and Installing the Sunroof Assembly
 
@@ -478,8 +452,6 @@ Install or reposition any trim moved for access.
 Connect the negative battery cable.
 Fig. 1: Exploded view of the sunroof assembly
 
----
-
 ## Adjustments and Alignment for Trunk Lids and Wagon Liftgates
 
 
@@ -493,4 +465,3 @@ Final adjustments are made at the latch (on the lid) and the striker (on the bod
 recommended to start by loosening the striker only; close the lid or liftgate and let the striker seek its position. Continue adjusting until the latch has no binding in its operation, the key turns
 freely and the weatherstrip is evenly compressed around the lid/liftgate.
 
----
