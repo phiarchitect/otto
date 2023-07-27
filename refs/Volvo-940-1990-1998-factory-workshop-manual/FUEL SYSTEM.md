@@ -81,8 +81,6 @@ Filter removal and installation, refer to Section 1 of this manual.
 
 ## Fuel System Pressure Relief and Fuel Rail Assembly
 
-### 2.3L 4-Cylinder and 2.8L 6-Cylinder Engines
-
 1. Properly relieve the fuel system pressure.
 
 2. Disconnect the negative battery cable.
@@ -122,8 +120,6 @@ assembly
 
 
 ## Fuel System Component Removal and Installation
-
-### 2.3L 4-Cylinder and 2.8L 6-Cylinder Engines
 
 1. Relieve the fuel system pressure.
 
@@ -222,8 +218,6 @@ faulty and replacement of the ECM will be necessary.
 
 ## Fuel System Pressure Relief and Regulator Removal
 
-### 2.3L 4-Cylinder and 2.8L 6-Cylinder Engines
-
 1. Properly relieve the fuel system pressure.
 
 2. Disconnect the negative battery cable.
@@ -288,8 +282,6 @@ on models without a Schrader valve
 
 
 ## Fuel System Pressure Relief and Fuel Tank Removal and Installation
-
-### 2.3L 4-Cylinder and 2.8L 6-Cylinder Engines
 
 1. Properly relieve the fuel system pressure.
 

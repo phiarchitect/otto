@@ -24,11 +24,11 @@ Throttle Linkage/Kickdown Switch
 
 9. Install the pulley cover.
 
-Fig. 1: Remove the throttle pulley cover and cable clip in
-order to adjust the throttle cable
+Fig. 1: Remove the throttle pulley cover and cable clip in order to adjust the
+throttle cable
 
-Fig. 2: Install a 3.5mm spacer between the throttle pulley
-stop and the bracket stop, then adjust the cable
+Fig. 2: Install a 3.5mm spacer between the throttle pulley stop and the bracket
+stop, then adjust the cable
 
 
 ## Automatic Transmission Removal and Preparation
@@ -385,10 +385,12 @@ Fig. 2: Adjusting the shift control on AW 30/40 transmissions
 
 AW 70/71/72 TRANSMISSIONS
 
-1. Check that the wire is tensioned at idle setting, without tensioning against the throttle pulley, and that it is in the pulley groove and runs smoothly.
+1. Check that the wire is tensioned at idle setting, without tensioning against
+   the throttle pulley, and that it is in the pulley groove and runs smoothly.
 
-2. Pull the wire out approximately 0.39 inch (10mm) and release suddenly. A mechanical click should be heard from the throttle cam, when it reaches the standby setting. Adjust
-with the wire tensioner.
+2. Pull the wire out approximately 0.39 inch (10mm) and release suddenly. A
+   mechanical click should be heard from the throttle cam, when it reaches the
+   standby setting. Adjust with the wire tensioner.
 
 3. 
 
@@ -408,10 +410,11 @@ cable on AW 70/71/72 transmissions
 
 ## Removing the Automatic Transmission
 
-CAUTION
-If the vehicle has been driven within the last 3–5 hours, the transmission oil can be scalding hot. Use extreme care when draining the oil or handling components.
+CAUTION If the vehicle has been driven within the last 3–5 hours, the
+transmission oil can be scalding hot. Use extreme care when draining the oil or
+handling components.
 
-Except 240 and 960
+### Except 240 and 960
 
 1. Disconnect the battery ground cable.
 
@@ -515,7 +518,7 @@ To install:
 
 Fig. 1: Remove the transmission using a suitable holding fixture
 
-240
+### 240
 
 1. Disconnect the negative battery cable.
 
@@ -566,6 +569,7 @@ Fig. 1: Remove the transmission using a suitable holding fixture
     install the converter housing bolts.
 
 To install:
+
 22. Tighten the converter-to-drive plate bolts to 35 ft. lbs. (48 Nm).
 
 23. Install the starter and connect its cable; hook up all other wiring to the
@@ -605,7 +609,7 @@ To install:
 38. Place the selector lever in P. Wait 2 minutes and check the fluid level. Top
     up, as required.
 
-960
+### 960
 
 1. Disconnect the negative battery cable.
 
@@ -712,6 +716,7 @@ seal with the transmission mounted in the vehicle.
 9. Clean the sealing areas thoroughly.
 
 To install:
+
 10. Install a new gasket onto the housing.
 
 11. Install the housing with the governor housing attached, and tighten the
@@ -782,8 +787,9 @@ To install:
 8. Remove the position sensor's mounting bolts and remove the sensor from the
    transaxle.
 
-9. Disconnect the clamps and remove the connector from the transaxle.  To
-   install:
+9. Disconnect the clamps and remove the connector from the transaxle.  
+
+To install:
 
 10. Install the sensor and adjust using procedure outlined below.
 
@@ -800,8 +806,8 @@ To install:
 16. Install the battery tray.
 
 17. Install the battery and connect the battery cables.
-Fig. 1: The gear position sensor is visible after the air
-cleaner is removed
+
+Fig. 1: The gear position sensor is visible after the air cleaner is removed
 
 
 ## Halfshaft Overhaul Procedure for Manual Transaxle
@@ -822,7 +828,8 @@ Transaxle portion of this section.
 There is no adjustment for this switch.
 
 
-## Replacing the Start Inhibitor/Back-Up Light Switch in the Automatic Transmission
+## Replacing the Start Inhibitor/Back-Up Light Switch in the Automatic
+Transmission
 
 The start inhibitor (neutral safety switch) also serves to illuminate the
 back-up lights. The switch is found on the left side of the gear shift selector.
@@ -845,8 +852,8 @@ back-up lights. The switch is found on the left side of the gear shift selector.
 
 To install:
 
-Fig. 1: The neutral safety/back-up light switch as mounted on
-the gear shift selector
+Fig. 1: The neutral safety/back-up light switch as mounted on the gear shift
+selector
 
 
 ## Understanding the Operation of the Automatic Transmission

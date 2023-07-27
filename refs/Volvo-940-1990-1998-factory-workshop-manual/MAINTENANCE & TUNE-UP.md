@@ -1,7 +1,7 @@
 # MAINTENANCE & TUNE UP
 
-## Air Cleaner Assembly Replacement Procedure
 
+## Air Cleaner Assembly Replacement Procedure
 
 The air cleaner assembly, on non-turbocharged engines, is located on the
 driver's side of the vehicle, near the radiator. On turbocharged engine, the air
@@ -30,8 +30,8 @@ Fig. 2: . . . and lift up the air cleaner lid . . .
 
 Fig. 3: . . . then remove the filter from the housing
 
-## Preventive Maintenance and Inspections for A/C System Efficiency
 
+## Preventive Maintenance and Inspections for A/C System Efficiency
 
 Although the A/C system should not be serviced by the do-it-yourselfer,
 preventive maintenance can be practiced and A/C system inspections can be
@@ -76,8 +76,8 @@ the evaporator housing into the engine compartment. If this tube is obstructed,
 the air conditioning performance can be restricted and condensation buildup can
 spill over onto the vehicle's floor.
 
-## Visual Inspection and Maintenance of Air Conditioning System
 
+## Visual Inspection and Maintenance of Air Conditioning System
 
 The easiest and often most important check for the air conditioning system
 consists of a visual inspection of the system components. Visually inspect the
@@ -119,8 +119,8 @@ Make sure the air passage selection lever is operating correctly. Start the
 engine and warm it to normal operating temperature, then make sure the
 temperature selection lever is operating correctly.
 
-## Important Considerations for A/C System Maintenance and Service
 
+## Important Considerations for A/C System Maintenance and Service
 
 NOTE: It is recommended that the A/C system be serviced by an EPA Section 609
 certified automotive technician utilizing a refrigerant recovery/recycling
@@ -200,8 +200,8 @@ it would cost to just charge the system with R-12.  If you are interested in
 having your system converted, contact local automotive service stations for more
 details and information.
 
-## Checking and Maintaining Battery Electrolyte Levels
 
+## Checking and Maintaining Battery Electrolyte Levels
 
 Check the battery electrolyte level at least once a month, or more often in hot
 weather or during periods of extended vehicle operation. On non-sealed
@@ -237,11 +237,13 @@ is usually an indication that electrolyte supply has dropped below the necessary
 level for battery (and hydrometer) operation. In this last case, sealed
 batteries with an insufficient electrolyte level must usually be discarded.
 
-### Checking the Specific Gravity A hydrometer is required to check the specific
-gravity on all batteries that are not maintenance-free. On batteries that are
-maintenance-free, the specific gravity is checked by observing the built-in
-hydrometer "eye" on the top of the battery case. Check with your battery's
-manufacturer for proper interpretation of its built-in hydrometer readings.
+### Checking the Specific Gravity 
+
+A hydrometer is required to check the specific gravity on all batteries that are
+not maintenance-free. On batteries that are maintenance-free, the specific
+gravity is checked by observing the built-in hydrometer "eye" on the top of the
+battery case. Check with your battery's manufacturer for proper interpretation
+of its built-in hydrometer readings.
 
 Fig. 1: On non-maintenance-free batteries, the fluid level can be checked
 through the case on translucent models; the cell caps must be removed on other
@@ -284,8 +286,8 @@ Generally, if after charging, the specific gravity between any two cells varies
 more than 50 points (0.50), the battery should be replaced, as it can no longer
 produce sufficient voltage to guarantee proper operation.
 
-## Battery Terminal Cleaning and Maintenance
 
+## Battery Terminal Cleaning and Maintenance
 
 Once a year (or as necessary), the battery terminals and the cable clamps should
 be cleaned. Loosen the clamps and remove the cables, negative cable first. On
@@ -328,8 +330,8 @@ Fig. 4: A special tool is available to pull the clamp from the post
 
 Fig. 5: The cable ends should be cleaned as well
 
-## Battery Safety and Charging Recommendations
 
+## Battery Safety and Charging Recommendations
 
 CAUTION The chemical reaction which takes place in all batteries generates
 explosive hydrogen gas. A spark can cause the battery to explode and splash
@@ -343,8 +345,8 @@ discharge until they are almost "dead,'' they may have to be charged at a high
 rate to bring them back to "life.'' Always follow the charger manufacturer's
 instructions on charging the battery.
 
-## Battery Maintenance and Cleaning
 
+## Battery Maintenance and Cleaning
 
 A battery that is not sealed must be checked periodically for electrolyte level.
 You cannot add water to a sealed maintenance-free battery (though not all
@@ -378,8 +380,8 @@ storage to protect the battery charge.
 Remember that constantly discharging and recharging will shorten battery life.
 Take care not to allow a battery to be needlessly discharged.
 
-## Battery Safety Precautions and Maintenance
 
+## Battery Safety Precautions and Maintenance
 
 Always use caution when working on or near the battery. Never allow a tool to
 bridge the gap between the negative and positive battery terminals. Also, be
@@ -403,8 +405,8 @@ white corrosive substance on the battery case or on nearby components would
 indicate a leaking or cracked battery. If the battery is cracked, it should be
 replaced immediately.
 
-## Battery Removal and Maintenance
 
+## Battery Removal and Maintenance
 
 1. Disconnect the negative and then the positive battery cables.
 
@@ -438,8 +440,8 @@ To install:
 
 6. Connect the positive and then the negative battery cables.
 
-## Battery Replacement and Upgrading
 
+## Battery Replacement and Upgrading
 
 When it becomes necessary to replace the battery, select one with an amperage
 rating equal to or greater than the battery originally installed. Deterioration
@@ -448,8 +450,8 @@ makes the battery's job harder in successive years. The slow increase in
 electrical resistance over time makes it prudent to install a new battery with a
 greater capacity than the old.
 
-## V-Belt Inspection and Adjustment Procedure
 
+## V-Belt Inspection and Adjustment Procedure
 
 ### V-Belts
 
@@ -469,8 +471,8 @@ V-belt
 All engines with a serpentine belt use an automatic drive belt tensioner. No
 adjustment is necessary.
 
-## Drive Belt Inspection and Maintenance
 
+## Drive Belt Inspection and Maintenance
 
 Inspect the belts for signs of glazing or cracking. A glazed belt will be
 perfectly smooth from slippage, while a good belt will have a slight texture of
@@ -498,8 +500,8 @@ to excessive wear
 Fig. 5: Installing too wide a belt can result in serious belt wear and/or
 breakage
 
-## Replacing V-Belts and Serpentine Belt 
 
+## Replacing V-Belts and Serpentine Belt 
 
 ### V-Belts
 
@@ -557,8 +559,8 @@ Fig. 2: Usually a 3 ⁄ 8 drive tool is used to relieve the belt tensioner on th
 
 Fig. 3: Typical serpentine belt routing
 
-## Inspecting and Replacing CV-Boots for Optimal Performance
 
+## Inspecting and Replacing CV-Boots for Optimal Performance
 
 The CV (Constant Velocity) boots should be checked for damage each time the oil
 is changed and any other time the vehicle is raised for service. These boots
@@ -576,8 +578,8 @@ Fig. 2: A torn boot should be replaced immediately
 Fig. 3: This CV-boot is leaking; notice the wet residue on the inside part of
 the boot
 
-## Distributor Cap and Rotor Inspection and Cleaning
 
+## Distributor Cap and Rotor Inspection and Cleaning
 
 After removing the distributor cap and rotor, clean the components (both inside
 and outside of the cap) using soap and water. If compressed air is available,
@@ -597,8 +599,8 @@ Fig. 2: Inspection points for the distributor cap
 
 Fig. 3: Inspection points for the distributor rotor
 
-## Distributor Cap and Rotor Removal and Inspection
 
+## Distributor Cap and Rotor Removal and Inspection
 
 NOTE: Depending on the reason you have for removing the distributor cap, it may
 (in some cases) make more sense to leave the spark plug wires attached. This is
@@ -670,8 +672,8 @@ Typically, a 3mm Allen wrench is used to remove the bolts
 
 Fig. 10: After the bolts are removed, separate the rotor from the distributor
 
-## Evaporative Emission Control System Overview
 
+## Evaporative Emission Control System Overview
 
 NOTE: For more information on the Evaporative Emissions system, please refer to
 Section 4 of this manual.
@@ -693,8 +695,8 @@ maintenance for this item.
 Fig. 1: The evaporative canister is accessed from underneath the vehicle — 850
 series
 
-## Fuel Filter Replacement Procedure
 
+## Fuel Filter Replacement Procedure
 
 The fuel filter is located underneath the vehicle near the fuel tank, or on the
 driver's side of the firewall. It is recommended that the fuel filter be
@@ -778,8 +780,8 @@ Fig. 5: Unfasten the clamp holding the filter . . .
 
 Fig. 6: . . . and remove the filter
 
-## Inspecting and Replacing Radiator and Heater Hoses
 
+## Inspecting and Replacing Radiator and Heater Hoses
 
 Upper and lower radiator hoses, along with the heater hoses, should be checked
 for deterioration, leaks and loose hose clamps at least every 15,000 miles
@@ -875,14 +877,14 @@ around the hose fittings and connections which were removed earlier.
 
 12. Connect the negative battery cable.
 
-## Idle Speed Control by ECU
 
+## Idle Speed Control by ECU
 
 Although the idle speed may be checked, it is not adjustable. All idle speed
 functions are carried out by the ECU.
 
-## Optimizing Ignition Timing for Efficient Engine Performance
 
+## Optimizing Ignition Timing for Efficient Engine Performance
 
 Ignition timing is the measurement, in degrees of crankshaft rotation, of the
 point at which the spark plugs fire in each of the cylinders. It is measured in
@@ -924,8 +926,8 @@ Proper timing is indicated when the mark and scale are in specified alignment.
 WARNING When checking timing with the engine running, take care not to get the
 timing light wires tangled in the fan blades and/or drive belts.
 
-## Ignition Timing Check and Troubleshooting Procedure
 
+## Ignition Timing Check and Troubleshooting Procedure
 
 Although the timing may be checked on the Bosch Motronic system, it is not
 adjustable. All timing functions are carried out by the ECU. The ignition timing
@@ -973,8 +975,8 @@ Code 3 –3–4 — Throttle switch in idle position — okay (REX 1 ignition on
 6. If the LED does not light when the button is pressed, or no code is blinked
    out, check the connection at the ECU.
 
-## Resetting Service Reminder Indicator for Different Volvo Models
 
+## Resetting Service Reminder Indicator for Different Volvo Models
 
 ### 1990 740 and 780; 1990–92 240
 
@@ -1032,14 +1034,14 @@ reset the light
 system. The SRI is reset using the Volvo Scan tool or equivalent. Follow the
 scan tool manufacturer's instructions to reset the SRI.
 
-## Crankcase Ventilation Flame Guard
 
+## Crankcase Ventilation Flame Guard
 
 Volvo refers to the filter element in the Crankcase Ventilation system as the
 flame guard.
 
-## PCV System Maintenance 
 
+## PCV System Maintenance 
 
 ### B230F, B230FT and B280F Engines
 
@@ -1066,67 +1068,9 @@ To install:
 
 Fig. 1: Positive Crankcase Ventilation (PCV) system — B230F and B230FT engines
 
-### B5254S, B5234T, B5254T, B5254FT and B5234T3 Engines
 
-1. Disconnect the negative battery cable.
 
-2. Remove the throttle pulley cover.
-
-3. Undo the hose clamp and remove the inlet hose to air cleaner housing.
-
-4. Remove the flame trap from the hose by rotating it 0.59 inches (15mm) to the
-   left.
-
-5. Remove the flame trap from the inlet hose using a small screwdriver or pick.
-
-6. Inspect the hoses for clogs, and clean out if necessary.
-
-7. Insert a new flame trap into the inlet hose and rotate it back to the
-   original position.
-
-8. Install the inlet hose onto the air cleaner housing and install the hose
-   clamp.
-
-9. Install the throttle pulley cover.
-
-To install:
-
-10. Connect the negative battery cable.
-
-Fig. 2: Unfasten the retaining bolt from the throttle pulley cover and remove
-the cover
-
-Fig. 3: Rotate the flame trap housing to remove it from the intake hose
-
-Fig. 4: Remove the flame trap from its housing
-
-Fig. 5: Inspect the O-ring in the intake hose before installing the flame trap
-
-### B6304F and B234F Engines
-
-1. Disconnect the negative battery cable.
-
-2. Rotate the flame trap outer casing 0.59 inches (15mm) to the left and remove
-   the inlet hose.
-
-3. Remove the flame trap from the inlet hose.
-
-4. Inspect the hoses for clogs, and clean out if necessary.
-
-5. Insert a new flame trap into the inlet hose.
-
-6. Install the inlet hose onto the manifold and rotate the outer casing back to
-   its original position.
-
-7. Connect the negative battery cable.
-
-To install:
-
-Fig. 6: PCV system — B6304F and B234F engines
-
-## "Importance of Proper Maintenance and Tune-Up for Long-lasting Vehicle
-Performance"
-
+## Importance of Proper Maintenance and Tune-Up for Long-lasting Vehicle Performance
 
 Proper maintenance and tune-up are the key to long and trouble-free vehicle
 life, and the work can yield its own rewards. Studies have shown that a properly
@@ -1147,8 +1091,8 @@ this literature, replacement copies are usually available from the dealer. A
 maintenance schedule is provided later in this section, in case you do not have
 the factory literature.
 
-## Understanding the Anatomy and Function of a Spark Plug
 
+## Understanding the Anatomy and Function of a Spark Plug
 
 A typical spark plug consists of a metal shell surrounding a ceramic insulator.
 A metal electrode extends downward through the center of the insulator and
@@ -1169,8 +1113,8 @@ combustion chamber.
 
 Fig. 4: Cross-section of a spark plug
 
-## Proper Cleaning and Maintenance of Spark Plugs
 
+## Proper Cleaning and Maintenance of Spark Plugs
 
 Check the plugs for deposits and wear. If they are not going to be replaced,
 clean the plugs thoroughly. Remember that any kind of deposit will decrease the
@@ -1211,8 +1155,8 @@ flat — WARNING: do not file platinum plugs
 
 Fig. 5: Used spark plugs which show damage may indicate engine problems
 
-## Spark Plug Replacement and Maintenance
 
+## Spark Plug Replacement and Maintenance
 
 A set of spark plugs usually requires replacement after about 20,000–30,000
 miles (32,000–48,000 km), depending on your style of driving. In normal
@@ -1316,8 +1260,8 @@ information about the condition of your engine
 Fig. 9: A piece of hose is a good tool for starting the threads of the spark
 plugs upon installation
 
-## Understanding Spark Plug Heat Range
 
+## Understanding Spark Plug Heat Range
 
 Spark plug heat range is the ability of the plug to dissipate heat. The longer
 the insulator (or the farther it extends into the engine), the hotter the plug
@@ -1341,8 +1285,8 @@ Original equipment plugs are generally a good compromise between the 2 styles
 and most people never have the need to change their plugs from the
 factory-recommended heat range.
 
-## Proper Installation of Spark Plug Wires
 
+## Proper Installation of Spark Plug Wires
 
 The best possible method for installing a new set of wires is to replace ONE AT
 A TIME, so there can be no mix-up. On distributor equipped engines, don't rely
@@ -1353,8 +1297,8 @@ spark plug. Route the wire in exactly the same path as the original and connect
 it to the distributor or coil pack (as applicable). Repeat the process for each
 successively shorter wire.
 
-## Spark Plug Wire Resistance Testing Procedure
 
+## Spark Plug Wire Resistance Testing Procedure
 
 Visually inspect the spark plug cables for burns, cuts, or breaks in the
 insulation. Check the spark plug boots and the nipples on the distributor cap
@@ -1382,8 +1326,8 @@ ohmmeter
 
 Fig. 2: Checking individual plug wire resistance with a digital ohmmeter
 
-## Timing Belt Replacement and Inspection
 
+## Timing Belt Replacement and Inspection
 
 Most Volvo engines utilize a timing belt to drive the camshaft from the
 crankshaft's turning motion and to maintain proper valve timing. Some
@@ -1404,8 +1348,8 @@ damaged belt (which could give out suddenly) may not give as much warning. In
 general, anytime the engine timing cover(s) is (are) removed, you should inspect
 the belt for premature parting, severe cracks or missing teeth.
 
-## Tire Maintenance and Care
 
+## Tire Maintenance and Care
 
 Common sense and good driving habits will afford maximum tire life. Fast starts,
 sudden stops and hard cornering are hard on tires and will shorten their useful
@@ -1422,8 +1366,8 @@ the tire. Any cut in the sidewall of a radial tire renders it unsafe. Also look
 for uneven tread wear patterns that may indicate the front end is out of
 alignment or that the tires are out of balance.
 
-## Protecting and Maintaining Special Wheels: Precautions and Care Tips
 
+## Protecting and Maintaining Special Wheels: Precautions and Care Tips
 
 If you have invested money in magnesium, aluminum alloy or sport wheels, special
 precautions should be taken to make sure your investment is not wasted and that
@@ -1452,8 +1396,8 @@ removal can severely damage the finish of a wheel.
 Make certain the recommended lug nut torque is never exceeded or the wheel may
 crack. Never use snow chains on special wheels; severe scratching will occur.
 
-## Importance of Proper Tire Inflation for Optimal Performance
 
+## Importance of Proper Tire Inflation for Optimal Performance
 
 The importance of proper tire inflation cannot be overemphasized. A tire employs
 air as part of its structure. It is designed around the supporting strength of
@@ -1527,8 +1471,8 @@ should be replaced. You can measure snow tires in the same manner by using the
 memorial, it's time to replace the snow tire(s).  Fig. 10: A penny works well
 for a quick check of tread depth
 
-## Proper Tire Selection and Maintenance Guidelines
 
+## Proper Tire Selection and Maintenance Guidelines
 
 For maximum satisfaction, tires should be used in sets of four. Mixing of
 different types (radial, bias-belted, fiberglass belted) must be avoided. In
@@ -1584,8 +1528,8 @@ available.
 Although the look of the vehicle will change, the expensive wheels will be
 protected from salt, curb hits and pothole damage.
 
-## Proper Tire Rotation for Maximum Longevity
 
+## Proper Tire Rotation for Maximum Longevity
 
 Tires must be rotated periodically to equalize wear patterns that vary with a
 tire's position on the vehicle. Tires will also wear in an uneven way as the
@@ -1619,8 +1563,8 @@ NOTE: The compact or space-saver spare is strictly for emergency use. It must
 never be included in the tire rotation or placed on the vehicle for everyday
 use.
 
-## Proper Tire Storage and Maintenance
 
+## Proper Tire Storage and Maintenance
 
 If they are mounted on wheels, store the tires at proper inflation pressure. All
 tires should be kept in a cool, dry place. If they are stored in the garage or
@@ -1629,14 +1573,14 @@ a mat or a large stack of newspaper. Keeping them away from direct moisture is
 of paramount importance. Tires should not be stored upright, but in a flat
 position.
 
-## Valve Clearance Adjustment Interval
 
+## Valve Clearance Adjustment Interval
 
 The recommended maintenance interval for valve clearance adjustment is 30,000
 miles (48,000 km). The clearance may be checked with the engine hot or cold.
 
-## Valve Clearance Adjustment Procedure for B230F and B230FT Engines
 
+## Valve Clearance Adjustment Procedure for B230F and B230FT Engines
 
 NOTE: Not all Volvo engines have adjustable valves. The following engines have
 adjustable valves, all others use hydraulic tappets and are non-adjustable.
@@ -1724,68 +1668,6 @@ Fig. 6: View of a typical disc — B230F and B230FT engines
 
 Fig. 7: Positioning a new disc — B230F and B230FT engines
 
-### B280F Engine
-
-1. Disconnect the negative battery cable.
-
-2. On right side of engine:
-
-3. 
-
-    A.  Remove the oil filler cap with hoses.
-
-
-    B.  Remove the air conditioning compressor with bracket, and position aside.
-
-
-    C.  Remove the oil dipstick.
-
-
-    D.  Disconnect the wire bundle from the clamps on the valve cover.
-
-On left side of engine:
-
-    A.  Disconnect the air inlet hose.
-
-
-    B.  Disconnect the main wiring harness clamp from the valve cover.
-
-
-    C.  Remove the spark plug wires and fuel lines from the valve cover.
-
-4. Remove the valve covers.
-
-5. Using a 36mm hex socket on the crankshaft pulley bolt, rotate the crankshaft
-until the mark on the pulley is opposite the 0 mark on the engine shoulder.
-Both rocker arms for No.  1 cylinder should have clearance.
-
-6. Insert the proper size feeler gauge between the valve and adjusting screw.
-Check and, if necessary, adjust the following valves: Intake 1, 2 and 4 and
-Exhaust 1, 3 and 6.
-
-7. Rotate the crankshaft one complete turn (valve overlapping No. 1 cylinder),
-so that the mark on the pulley is again opposite 0 mark on the engine shoulder.
-
-8. Check and if necessary, adjust the following valves: Intake 3, 5 and 6 and
-Exhaust 2, 4 and 5.
-
-9. Install the valve covers, using a new valve cover gaskets.
-
-10. Reinstall all removed components.
-
-11. Connect the negative battery cable.
-
-12. Check engine operation.
-
-Fig. 8: Adjust these valves with the No. 1 piston at TDC — B280F engine
-
-Fig. 9: Adjust these valves with the No. 1 piston at TDC "OVERLAP" — B280F
-engine
-
-Fig. 10: The pulley timing mark should be at the "0" mark on the engine shoulder
-when adjusting the valves — B280F engine
-
-Fig. 11: Adjusting the valves
 
 
 ## Wiper Blades

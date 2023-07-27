@@ -3,76 +3,7 @@
 
 ## Acceleration Sensor Function and Location
 
-The acceleration sensor measures the vertical acceleration of the vehicle,
-helping the ECM distinguish a bumpy road from a genuine engine "knock". The
-acceleration sensor works on the same principle as the KS. The acceleration
-sensor receives a steady voltage signal from the ECM and has a steady return
-signal. When the vehicle rides over a bumpy terrain, the return signal
-fluctuates, the fluctuation measuring the deviation of the terrain.
-
-NOTE: This sensor is found only on 1995 and later 850 models, 1996 and later 960
-models and all 1998 models.
-
-Fig. 1: The location of the acceleration sensor — 850/C70/S70/V70 models
-
-
-
-## Sensor Removal and Installation
-
-NOTE: The sensor is located under the cowl panel on 850/C70/S70/V70 models and
-adjacent to the driver's side strut tower on 960/S90/V90 models.
-
-1. Disconnect the negative battery cable.
-
-2. On 850/C70/S70/V70 models remove the wiper arms and the cowl panel, see
-   Section 6 of this manual for more information.
-
-3. Unplug the sensor.
-
-4. Remove the sensor retaining bolts.
-
-5. Remove the sensor from the vehicle.
-
-6. Place the sensor into position and tighten the retaining bolts.
-
-7. Plug the sensor connector in.
-
-8. On 850/C70/S70/V70 models install the cowl panel and wiper arms.
-
-9. Connect the negative battery cable.
-
-To install:
-
-
-## Testing Signal Voltage and Resistance for Electronic Engine Controls
-
-1. On 850/C70/S70/V70 models, remove the wiper arms and the cowl panel. See
-   Section 6 of this manual for additonal information to access the sensor.
-
-2. Start the vehicle and, using a voltmeter, backprobe the connector's signal
-   return circuit between the connector and ground. Use the wiring diagrams at
-   the end of section 6 to help you.
-
-3. Voltage should be 2.5v. If the there is no voltage, proceed to the next step.
-   If the voltage reading is out of range, replace the sensor.
-
-4. Turn the engine OFF, but leave the ignition ON.
-
-5. Unplug the connector on the sensor and using a voltmeter, measure the signal
-   from the ECM between the connector and ground. Use the wiring diagrams in the
-   end of section 6 to help you.
-
-6. Voltage should be 5.0v, if voltage is out of range or there is no voltage
-   repair the circuit. If voltage is ok, proceed to the next step.
-
-7. Turn the ignition OFF, using an ohmmeter measure the resistance between the
-   sensor ground and ground. Use the wiring diagrams in the end of section 6 to
-   help you.
-
-8. Resistance should be 0 ohms, if resistance is out of range repair the
-   circuit.
-
-9. On 850/C70/S70/V70 models install the cowl panel and wiper arms.
+There is no acceleration sensor on the Volvo 940
 
 
 ## Camshaft Position Sensor Operation and Function
@@ -185,27 +116,6 @@ other information such as engine load and temperature. This means that ignition
 timing can be controlled and that there is no need for the ignition setting to
 be adjusted.
 
-### Regina Engine Control and REX-1 Ignition Systems
-
-On the pulsewheel, there are 44 markings for the CKP sensor, 40 which are
-drilled holes to provide information to the ignition control unit. There are no
-holes at 2 of the markings. These are 90 degrees Before Top Dead Center (BTDC),
-for cylinders No. 1 and No. 4. Ignition timing is based on these markings and
-other information such as engine load and temperature. This means that ignition
-timing can be controlled and that there is no need for ignition setting to be
-adjusted.
-
-### Motronic Engine Control Systems
-
-The flywheel has a series of holes located on the top surface. As the holes pass
-the CKP sensor, the holes induce a voltage in the coil of the sensor. The
-passage of several holes generates an A/C signal, the frequency of which is a
-function of the number of holes passing per second and the voltage of which can
-vary between 0.1 and 55 vdc, depending on engine speed and temperature.
-
-At 90°TDC for cylinder 1 there is a longer hole. When the longer gap passes the
-sensor, the voltage stops, and the ECM can calculate camshaft position.
-
 
 ## Sensor Removal and Installation Procedure
 
@@ -299,66 +209,6 @@ To install:
 
 10. Start the vehicle and check to make sure the "check engine" light on the
     instrument cluster is operative.
-
-### 960/S90/V90 Series
-
-Fig. 2: On 960/S90/V90 series vehicles, the ECM is located behind the driver's
-side dash panel
-
-NOTE: The ECM is located behind the driver's side of the dash panel, just
-beneath the steering column.
-
-1. Disconnect the negative battery cable.
-
-2. Remove the knee bolster panel under the steering column.
-
-3. Remove the retaining bolts on the ECM bracket.
-
-4. Carefully lower the ECM and unlatch the harness connector from the ECM.
-
-5. Remove the ECM.
-
-6. Attach the connector to the ECM and carefully place it into position.
-
-7. Tighten the bracket retaining bolts.
-
-To install:
-
-8. Install the knee bolster panel.
-
-9. Connect the negative battery cable.
-
-10. Start the vehicle and check to make sure the "check engine" light on the
-    instrument cluster is operative.
-
-### 850/C70/S70/V70 Series
-
-NOTE: The ECM on these models is in the engine compartment in a box similar to
-the air cleaner box. Air is brought through a pick-up tube from under the car
-and used to cool the modules as the vehicle drives along. There are sometimes
-three modules located in this box: an Ignition Control Module (ICM), ECM and, on
-automatic transaxle vehicles only, a Transmission Control Module (TCM). The ECM
-is usually the center one.
-
-1. Disconnect the negative battery cable.
-
-2. Remove the lid on the module box behind the passenger side headlamp.
-
-3. Reach down and unsnap the harness connector and remove the ECM from the box.
-
-4. Place the ECM into the box and attach the harness connector to it.
-
-5. Install the lid onto the module box.
-
-6. Connect the negative battery cable.
-
-7. Start the vehicle and check to make sure the "check engine" light on the
-   instrument cluster is operative.
-
-To install:
-
-Fig. 3: The ECM and transmission module as located in the module box (with the
-lid removed)
 
 
 ## Engine Coolant Temperature Sensor and its Role in Electronic Engine Controls

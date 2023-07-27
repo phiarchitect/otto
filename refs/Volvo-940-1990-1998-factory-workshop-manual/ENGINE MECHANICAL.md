@@ -358,13 +358,6 @@ Some vehicles may be equipped with a thermal switch in the radiator end tank or
 lower radiator hose. The fan, on most models, will generally switch ON when
 coolant temperatures are 190–212°F (88–100°C).
 
-B6304F engines are fitted with a fully electric radiator fan. The 2-speed fan is
-mounted behind the radiator. The fan is controlled by a relay, in response to
-either temperature signal sent to the Motronic control unit or directly by the
-pressure switches mounted in the A/C high-pressure circuit. The relay is mounted
-on a bracket in front of the battery.
-
-### Except 850/C70/S70/V70
 
 1. Disconnect the negative and positive battery cables.
 
@@ -747,10 +740,9 @@ To install:
 To install:
 
 
-
 ## Engine Removal and Oil Pan Replacement
 
-### 2.3L 4-Cylinder and 2.9L 6-Cylinder Engines
+### 2.3L 4-Cylinder
 
 1. Disconnect the negative battery cable.
 
@@ -849,7 +841,6 @@ To install:
 
 Fig. 1: Exploded view of the oil pan, rear seal flange, oil pump, and delivery
 tube on B230F and B230FT engines
-
 
 
 ## Radiator Removal and Coolant Drainage
